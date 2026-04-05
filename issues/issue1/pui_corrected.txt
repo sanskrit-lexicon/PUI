@@ -16341,7 +16341,7 @@ Mother of Saṃkaṭa.
 
 <L>2344<pc>1-296<k1>kaklasa<k2>kaklasa
 {%Kaklasa%}¦ — a commander who aided Viṣaṅga; killed by
-Vanhivāsā.
+Vahnivāsā.
 <div n="P"/>Br. IV. 25. 28 & 95.
 <LEND>
 
@@ -21240,7 +21240,7 @@ Mahāroman.
 <LEND>
 
 <L>3074<pc>1-383<k1>kukura<k2>kukura<h>I
-{%Kukura%} (I)¦ — the father of Vanhi.
+{%Kukura%} (I)¦ — the father of Vahni.
 <div n="P"/>Bhā. IX. 24. 19.
 <LEND>
 
@@ -30327,7 +30327,7 @@ practice.
 <LEND>
 
 <L>4340<pc>1-550<k1>goBAnu<k2>goBAnu<h>I
-{%Gobhānu%} (I)¦ — a son of Vanhi, and father of Trisānu.
+{%Gobhānu%} (I)¦ — a son of Vahni, and father of Trisānu.
 <div n="P"/>Br. III. 74. 1; Vā. 99. 1.
 <LEND>
 
@@ -33504,7 +33504,7 @@ the architects to Mantrinī when she visited Lalitā; here the
 mātaṅgakanyakās sport and dance.<sup>1</sup> The abode of Cakra-
 rāja and lying at a distance of seven yojanas to Śṛṅgāraśāla;
 surmounted by gopuras in hundreds on all sides.<sup>2</sup> On its
-different sides were Cidvanhi, Cakrarājaratha, Geyacakra,
+different sides were Cidvahni, Cakrarājaratha, Geyacakra,
 Kiricakra, Hari, Gaṇapati, Śiva, Sarasvatī, Mahādevis, the
 residences of Mantrinātha and Daṇḍanātha. In its midst
 was Binducakra with a number of Śaktis. There was also
@@ -42177,7 +42177,7 @@ Pāṇḍavas consumed by flames.<sup>14</sup>
 <L>6106<pc>2-105<k1>durvasu<k2>durvasu
 {%Durvasu%}¦ — a son of Devayāni; cursed by his father for
 refusing to part with his youth.<sup>1</sup> Viceroy of south-east king-
-dom;<sup>2</sup> line of; father of Vanhi; got merged into Puru's line
+dom;<sup>2</sup> line of; father of Vahni; got merged into Puru's line
 ultimately.<sup>3</sup>
 <F>1) Vi. IV. 10. 6, 13.</F>
 <F>2) Ib. IV. 10. 31.</F>
@@ -66180,7 +66180,7 @@ bhūmi.
 <LEND>
 
 <L>9496<pc>2-543<k1>Barga<k2>Barga<h>II
-{%Bharga%} (II)¦ — a son of Vanhi and father of Bhānuman.
+{%Bharga%} (II)¦ — a son of Vahni and father of Bhānuman.
 <div n="P"/>Bhā. IX. 23. 16.
 <LEND>
 
@@ -66847,7 +66847,7 @@ bhūmi.
 <LEND>
 
 <L>9589<pc>2-555<k1>BArga<k2>BArga<h>II
-{%Bhārga%} (II)¦ — a son of Vanhi and father of Bhānu.
+{%Bhārga%} (II)¦ — a son of Vahni and father of Bhānu.
 <div n="P"/>Vi. IV. 16. 3.
 <LEND>
 
@@ -91315,7 +91315,7 @@ Vāmana.
 <LEND>
 
 <L>13102<pc>3-259<k1>viloman<k2>viloman
-{%Viloman%}¦ — a son of Vanhi, and father of Kapotaroman.
+{%Viloman%}¦ — a son of Vahni, and father of Kapotaroman.
 ({%Br.%} and {%Vi. P.%} make him a son of Kapotaroman).
 <div n="P"/>Bhā. IX. 24. 19-20; Br. III. 71. 117; Vi. IV. 14. 13.
 <LEND>
@@ -119675,7 +119675,7 @@ Jayasena.
 <LEND>
 
 <L>17425<pc>3-776<k1>hutASana<k2>hutASana<h>I
-{%Hutāśana(Vanhi)%} (I)¦ — as Viṣṇu and Svāhā as Śrī.
+{%Hutāśana(Vahni)%} (I)¦ — as Viṣṇu and Svāhā as Śrī.
 <div n="P"/>Vi. I. 8. 22; 9. 34.
 <LEND>
 
