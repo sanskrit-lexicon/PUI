@@ -587,7 +587,7 @@ chāyā married Śiṣṭa, son of Dhruva: Ārṣeya pravara.
 <LEND>
 
 <L>66<pc>1-011<k1>agni<k2>agni<h>VII
-{%Agni%} (VII)¦ — {%alias%} Ṛta; son of Samvatsara;<sup>1</sup> married
+{%Agni%} (VII)¦ — {%alias%} Ṛta; son of Saṃvatsara;<sup>1</sup> married
 Svāhā, a daughter of Dakṣa.<sup>2</sup>
 <F>1) Br. II. 13. 23.</F>
 <F>2) Vā. 1. 76; Br. II. 9. 56; 12. 1.</F>
@@ -1224,7 +1224,7 @@ kara to produce sons on his wife.<sup>10</sup> The sage presiding over
 the month of {%Nabha.%}<sup>11</sup> Was present at the anointing of
 Vāmana.<sup>12</sup> Came to see Kṛṣṇa at Syamantapañcaka.<sup>13</sup> Went
 to Dvārakā to ask Kṛṣṇa to go back to Vaikuṇṭha.<sup>14</sup> Had
-another son named Samvarta (s.v.).<sup>15</sup> Cursed Vidyādhara
+another son named Saṃvarta (s.v.).<sup>15</sup> Cursed Vidyādhara
 Sudarśana (s.v.) to become a reptile for mocking at him.<sup>16</sup>
 Performed a sacrifice when Śarayāti explained on the rituals
 of the second day.<sup>17</sup> Stood near the wheel of the chariot
@@ -6053,7 +6053,7 @@ Kṛṣṇa serving as charioteer.<sup>10</sup> Victory due to Kṛṣṇa.<sup>
 <div n="P"/>Heard of Abhimanyu's death and vowed to kill Jaya-
 dratha the following day, which he did.<sup>12</sup> Was taken by
 Kṛṣṇa to Kailāsa where Śiva blessed him. Took part in
-the {%svayamvaram%} of Lakṣmaṇā. His arrow touched the
+the {%svayaṃvaram%} of Lakṣmaṇā. His arrow touched the
 fish target but did not hit it.<sup>13</sup> In the course of his pilgri-
 mage he heard at Prabhāsa that his uncle's daughter Subha-
 drā was being proposed by Balarāma to Duryodhana. He
@@ -7795,7 +7795,7 @@ patam, Paiśācam, Pramathanam, Prasthāpanam, Prasvāpa-
 nam, Brahmaśiras, Brāhmam, Bhāvanam, Bhairavam, Matha-
 nam, Mahābalam, Māyādharam, Mohanam, Mausalam, Rau-
 dram, Vāruṇam, Vikampanam, Vāyavyam, Śātanam, Śāma-
-nam, Śailam, Ṣośadam, Samvartanam, Sārpam, Sāvitram,
+nam, Śailam, Ṣośadam, Saṃvartanam, Sārpam, Sāvitram,
 Somāstram, Hayaśiras;<sup>1</sup> used by Hiraṇyakaśipu against Nara-
  siṃha; arms used in Bhaṇḍāsura war.<sup>2</sup>
 <F>1) M. 150. 113, 164, 205; 151. 24, 31; 153. 83, 87, 90, 97; 162.
@@ -14382,7 +14382,7 @@ of Jāmbavān, was his sister.<sup>2</sup>
 
 <L>2062<pc>1-259<k1>fkza<k2>fkza<h>II
 {%Ṛkṣa%} (II)¦ — a son of Ajamīḍha and Dhūminī, and father
-of Samvaraṇa; pañcārṣeya.
+of Saṃvaraṇa; pañcārṣeya.
 <div n="P"/>Bhā. IX. 22. 3; M. 50. 19; 196. 50; Vā. 99. 214; Vi. IV.
 19. 74-5.
 <LEND>
@@ -14709,7 +14709,7 @@ to impart knowledge.
 <LEND>
 
 <L>2115<pc>1-265<k1>ftam<k2>ftam<h>II
-{%Ṛtam%} (II)¦ — a name for {%samvatsara,%} and {%Ṛtus%} from
+{%Ṛtam%} (II)¦ — a name for {%saṃvatsara,%} and {%Ṛtus%} from
 {%Ṛtam.%}
 <div n="P"/>Vā. 30. 21.
 <LEND>
@@ -14835,7 +14835,7 @@ hill.
 <LEND>
 
 <L>2134<pc>1-267<k1>fturagni<k2>fturagni
-{%Ṛturagni%}¦ — a name of {%Samvatsara;%} brought forth sons,
+{%Ṛturagni%}¦ — a name of {%Saṃvatsara;%} brought forth sons,
 Ṛtus; the latter {%ārtavas%} — all {%Pitṛs%} and {%Pitāmahas;%} the five
 years are {%Prapitāmahas.%}
 <div n="P"/>Vā. 56. 14-15.
@@ -16064,7 +16064,7 @@ I. 19. 10.</F>
 <LEND>
 
 <L>2314<pc>1-290<k1>Orva<k2>Orva<h>II
-{%Aurva%} (II)¦ — ({%Samvartaka, Vaḍavāmukha:%} s.v.). Hari
+{%Aurva%} (II)¦ — ({%Saṃvartaka, Vaḍavāmukha:%} s.v.). Hari
 took this form of fire and drank the waters of the sea;<sup>1</sup>
 Brahmā fixed him in the {%Vaḍavāmukha%} ocean; celebrated
 for {%Aurvīmāyā%} (s.v).<sup>2</sup>
@@ -17988,7 +17988,7 @@ Sāmba's action in carrying away Lakṣmaṇā but vanquished
 by Sāmba. In charge of gifts in Yudhiṣtira's {%Rājasūya.%}
 Joined Duryodhana's army and succeeded Droṇa as com-
 mander for two days, but was killed by Arjuna.<sup>3</sup> Failed to
-hit the mark in the {%svayamvara%} of Lakṣmaṇā.<sup>4</sup> Identified
+hit the mark in the {%svayaṃvara%} of Lakṣmaṇā.<sup>4</sup> Identified
 with Cakravarman, the son of Bala.<sup>5</sup> Was called son of Sūta
 as he was brought up by Adhiratha the Sūta.<sup>6</sup>
 [Page1-326+ 21]
@@ -20250,7 +20250,7 @@ father of Sṛñjaya.
 <LEND>
 
 <L>2937<pc>1-365<k1>kAlAnala<k2>kAlAnala<h>II
-{%Kālānala%} (II)¦ — see {%Samvartāgni.%}
+{%Kālānala%} (II)¦ — see {%Saṃvartāgni.%}
 <div n="P"/>Br. II. 25. 45 & 56.
 <LEND>
 
@@ -20604,7 +20604,7 @@ of Tāmasa Manu;<sup>1</sup> a {%mantrakṛt.%}<sup>2</sup>
 <L>2983<pc>1-372<k1>kAvya<k2>kAvya
 {%Kāvyas%}¦ — a group of Pitṛs who drink Soma's {%Svadhā.%}
 Their mind-born daughter is Yogotpatti; other names are
-{%Samvatsaras, Pañcābdas, Ājyapas,%} being presiding deities of
+{%Saṃvatsaras, Pañcābdas, Ājyapas,%} being presiding deities of
 {%Aṣtakas%} and others. They drink ghee.
 <div n="P"/>Br. II. 23. 39 and 73-5; 28. 4, 23 and 70; III. 10. 85; M.
 141. 4-16; Vā. 56. 13, 16.
@@ -22470,7 +22470,7 @@ temporaries of ten Śisunāgas.
 <LEND>
 
 <L>3256<pc>1-405<k1>kuru<k2>kuru<h>II
-{%Kuru%} (II)¦ — a son of Samvarna and Tapaṭī; occupied
+{%Kuru%} (II)¦ — a son of Saṃvarna and Tapaṭī; occupied
 Prayāga and established Kurukṣetra; Lord of Kurukṣetra.
 Had four (several-{%Vi. P.%}) sons — Parīkṣit and others.<sup>1</sup> Parīk-
 ṣit's son Janamejaya was his grandson? At Kurukṣetra he
@@ -22531,7 +22531,7 @@ caka.<sup>6</sup> On the occasion of a sacrifice Sūta narrated the {%Br.%}
 {%Purāṇa%} here.<sup>7</sup> Purūravas met Urvaśī after their separa-
 tion at; the residence of Sanatkumāra and Dharmarāja fit
 for {%śrāddha%} offerings, and sacred to Pitṛs. Founded by
-Kuru, son of Samvaraṇa;<sup>8</sup> residence of sage Kauśika, and
+Kuru, son of Saṃvaraṇa;<sup>8</sup> residence of sage Kauśika, and
 sacrifice of Adhisīmakṛṣṇa for 2 years at; sacred in Dvā-
 para;<sup>9</sup> Dharmakṣetra where a great sacrifice was per-
 [Page1-407+ 30]
@@ -26633,7 +26633,7 @@ formed austerities in the form of a Krauñca.
 [Page1-485+ 27]
 
 <L>3817<pc>1-485<k1>krOYca<k2>krOYca
-{%Krauñca samvatsara%}¦ — equal to 9090 years of human
+{%Krauñca saṃvatsara%}¦ — equal to 9090 years of human
 calculation.
 <div n="P"/>Vā. 57. 18.
 <LEND>
@@ -28527,7 +28527,7 @@ When he saw on his return from Gomanta, he placed it on His
 head and belauded him, requesting him for opportunities
 of service to Him, who ordered him to go back and come
 whenever He thought of him.<sup>6</sup> His winning nectar is com-
-pared to Kṛṣṇa winning Vaidarbhī in {%svayamvara.%}<sup>7</sup> Kālīya,
+pared to Kṛṣṇa winning Vaidarbhī in {%svayaṃvara.%}<sup>7</sup> Kālīya,
 the enemy of snakes, freed from fear of; entered into an
 agreement with snakes of Ramaṇaka to give him {%bali%} every
 fortnight. Kālīya failed to do this, and after a fight escaped
@@ -33728,7 +33728,7 @@ keepers, from entering Vaikuṇṭha. Hence they were cursed
 to be born as Asuras. They were born as Hiraṇyakaśipu and
 Hiraṇyākṣa, then as Rāvaṇa and Kumbhakarṇa, and now as
 Caidya and Dantavaktra.<sup>1</sup> Hated Kṛṣṇa, beaten by him in
-{%svyamvara.%} An ally of Jarāsandha, he was stationed at the
+{%svyaṃvara.%} An ally of Jarāsandha, he was stationed at the
 eastern gate of Mathurā. Kṛṣṇa directed his attack against
 Caidya. The fight and end of Caidya.<sup>2</sup>
 <div n="P"/>His name was proposed by Rukmiṇī's elder brother for
@@ -35207,7 +35207,7 @@ were unarmed and who ran to Pravarṣaṇa hill. Jarāsandha
 followed them and burnt the hill by besieging it from all
 sides. The brothers leaped into the plains and regained
 Dvārakā, but were taken by their enemies to be burnt dead.
-His defeat at Kṛṣṇa's hands during the {%svayamvara%} of Ruk-
+His defeat at Kṛṣṇa's hands during the {%svayaṃvara%} of Ruk-
 miṇī is mentioned. Arrival at Kuṇḍina; went to Śiśupāla
 and comforted him that all was due to fate, and returned to
 his city.<sup>4</sup> His defeats were recalled by Kṛtavarman.<sup>5</sup> He
@@ -40980,7 +40980,7 @@ belly Yaśodā bound a rope and fastened him to a mortar.<sup>3</sup>
 <L>5935<pc>2-083<k1>dAruka<k2>dAruka<h>I
 {%Dāruka%} (I)¦ — the charioteer of Kṛṣṇa;<sup>1</sup> went with
 Kṛṣṇa to Śālva's station, and drove the chariot when Kṛṣṇa
-gained Lakṣmaṇā by svayamvara;<sup>2</sup> took Kṛṣṇa to Mithilā
+gained Lakṣmaṇā by svayaṃvara;<sup>2</sup> took Kṛṣṇa to Mithilā
 and the Videha country.<sup>3</sup> His son was the charioteer of
 Pradyumna.<sup>4</sup> Stood before Kṛṣṇa on the eve of His return-
 ing from the earth. Kṛṣṇa asked him to inform the Dvārakā
@@ -41508,7 +41508,7 @@ Mitrāyu.
 cording to the sāvana calculation; {%ahas%} or day is udagāyanam
 and {%rātri%} or night is dakṣiṇāyanam; {%māsam,%} 30 years of
 human calculation; three months and ten days equal to 100
-years of human counting; {%samvatsara%} = 360 years of human
+years of human counting; {%saṃvatsara%} = 360 years of human
 years; 1000 years = 360000 years.
 <div n="P"/>Vā. 57. 12, 19; 100. 224.
 <LEND>
@@ -42139,12 +42139,12 @@ kept under influence Vinda and Anuvinda of Avanti;<sup>6</sup>
 banished the Pāṇḍavas and Draupadī to the forest
 for defeat in the game of dice;<sup>7</sup> resented Sāmba's
 action in taking away his daughter Lakṣmaṇā in
-{%svayamvara%} and wanted to punish him; heard of Rāma's
+{%svayaṃvara%} and wanted to punish him; heard of Rāma's
 arrival and extended welcome to him; afraid of Rāma's
 prowess agreed to the marriage of his daughter to Sāmba
 and gave a rich dowry;<sup>8</sup> did not feel happy over the success
 of the Rājasūya, where he was in charge of the treasury;<sup>9</sup>
-failed to hit the fish mark in Lakṣmaṇā's {%svayamvara;%}<sup>10</sup>
+failed to hit the fish mark in Lakṣmaṇā's {%svayaṃvara;%}<sup>10</sup>
 Jealous of Kṛṣṇa and Draupadī, his mind set on the latter;<sup>11</sup>
 ordered Vidura's banishment for offering good counsel,
 and insulted him as the son of a dāsi;<sup>12</sup> met the Pāṇḍavas in
@@ -44189,7 +44189,7 @@ with Kusuma praying to Lalitā.
 Dhṛṣṭadyumna and others; king of the Pāñcālas;<sup>1</sup> stationed
 by Jarāsandha at the northern gate of Mathurā;<sup>2</sup> stationed
 at the southern gate during the siege of Gomanta;<sup>3</sup> had been
-bound by the young Pāṇḍavas;<sup>4</sup> in the {%svayamvara%} he held,
+bound by the young Pāṇḍavas;<sup>4</sup> in the {%svayaṃvara%} he held,
 Arjuna hit the mark in the form of a fish and won Drau-
 padī;<sup>5</sup> joined the Pāṇḍavas in the Kurukṣetra battle;<sup>6</sup> went
 to Syamantapañcaka for solar eclipse.<sup>7</sup>
@@ -48563,7 +48563,7 @@ ram on the Narmadā, bath in, leads one to Nāgaloka.
 
 <L>7029<pc>2-221<k1>nAgnajitI<k2>nAgnajitI
 {%Nāgnajitī%}¦ — (Satyā s.v.) a daughter of Nāgnajit; mar-
-ried by Kṛṣṇa in a {%svayamvara%} after curbing the seven bulls
+ried by Kṛṣṇa in a {%svayaṃvara%} after curbing the seven bulls
 with noses unbored; had two sons, one of whom was Bha-
 dravinda.
 <div n="P"/>Bhā. III. 3. 4; X. 58. 32; 61. 13; M. 47. 13, 19; Vi. V. 32. 3.
@@ -52675,7 +52675,7 @@ everywhere.
 
 <L>7631<pc>2-296<k1>parivatsara<k2>parivatsara<h>II
 {%Parivatsara%} (II)¦ — the second year of the five year {%yuga,%}<sup>1</sup>
-{%yuga%} of five years: Samvatsara, Parivatsara, Idvatsara,
+{%yuga%} of five years: Saṃvatsara, Parivatsara, Idvatsara,
 Anuvatsara, and Vatsara;<sup>2</sup> Agni, Surya, Soma, Vāyu and
 Rudra respectively of the five years.
 <F>1) Vā. 31. 27; 50. 183; Br. II. 13. 114, 117, 126-7; Vi. II. 8. 72.</F>
@@ -53345,7 +53345,7 @@ ruling five kingdoms.
 <L>7728<pc>2-308<k1>pAYcAla<k2>pAYcAla
 {%Pāñcālas%}¦ — their king was Drupada;<sup>1</sup> enlisted by Jarā-
 sandha against the Yadus; placed on the south by Jarā-
-sandha in his siege of Gomanta,<sup>2</sup> {%svayamvara%} of Draupadī
+sandha in his siege of Gomanta,<sup>2</sup> {%svayaṃvara%} of Draupadī
 at their capital;<sup>3</sup> Kṛṣṇa met the Pāṇḍavas in disguise at their
 capital;<sup>4</sup> heard of Kṛṣṇa going to Mithilā and met him with
 presents.<sup>5</sup>
@@ -59320,7 +59320,7 @@ found the likeness of Kṛṣṇa in him and Rukmiṇī thought of
 her lost son; to their wonder and joy Nārada related the life
 story of Pradyumna; the couple were embraced by all of
 them and the whole Dvārakā was filled with satisfaction.<sup>2</sup>
-Won his wife Rukmāvatī (Vaidarbhī) in a {%Svayamvara%}
+Won his wife Rukmāvatī (Vaidarbhī) in a {%Svayaṃvara%}
 after vanquishing his rivals; father of Aniruddha;<sup>3</sup> attended
 his son's marriage at Bhojakaṭa;<sup>4</sup> Picture drawn by Citra-
 lekha;<sup>5</sup> one among the Vṛṣṇis who went to attack Bāṇa's
@@ -60843,7 +60843,7 @@ group of Devas.
 
 <L>8770<pc>2-445<k1>prAMSu<k2>prAMSu<h>III
 {%Prāṃśu%} (III)¦ — a son of Bhalandana; had a son Prajāni
-who was taken to Heaven by Samvarta.
+who was taken to Heaven by Saṃvarta.
 <div n="P"/>Br. III. 61. 4; Vā. 86. 3-4.
 <LEND>
 
@@ -63324,7 +63324,7 @@ Karmajit.
 
 <L>9118<pc>2-491<k1>bfhatsena<k2>bfhatsena<h>III
 {%Bṛhatsena%} (III)¦ — father of Lakṣmaṇā (s.v.) and father-
-in-law of Kṛṣṇa, who married her in {%svayamvara.%}
+in-law of Kṛṣṇa, who married her in {%svayaṃvara.%}
 <div n="P"/>Bhā. X. 83. 18-26, 37-9.
 <LEND>
 
@@ -66004,7 +66004,7 @@ Brahmā.
 
 <L>9474<pc>2-540<k1>Barata<k2>Barata<h>VIII
 {%Bharata%} (VIII)¦ — the famous author of the Nāṭyaśāstra;
-got Menakā, Ūrvaśī and Rambhā to enact Lakṣmīsvayamvara
+got Menakā, Ūrvaśī and Rambhā to enact Lakṣmīsvayaṃvara
 before Indra and Purūravas when Ūrvaśī fell in love with
 the latter and forgot her {%abhinaya,%} for which Bharata cursed
 her.
@@ -67098,7 +67098,7 @@ Vi. I. 21. 15-16.
 
 <L>9627<pc>2-560<k1>BAskara<k2>BAskara
 {%Bhāskara%}¦ — (Āditya, Sūrya): an epithet of the Sun;<sup>1</sup>
-creator of days and therefore of time; is Samvatsara;<sup>2</sup> van-
+creator of days and therefore of time; is Saṃvatsara;<sup>2</sup> van-
 quished by Rāvaṇa;<sup>3</sup> devotees of, reach Śivālayam by dying
 at Benares;<sup>4</sup> the maṇḍalam of, 9000 yojanas in extent, twice
 that of the Moon;<sup>5</sup> {%Dvādaśātma.%}<sup>6</sup>
@@ -67326,7 +67326,7 @@ world of Viṣṇu.
 {%Bhīmasena%} (I)¦ — (also Bhīma); a Pāṇḍava son of
 Kuntī; father of Śrutasena; had another son Ghaṭotkaca
 by Hidimbā, and a third Sarvagata by Kālī;<sup>1</sup> failed to hit the
-fish in Lakṣmaṇā's {%svayamvara;%}<sup>2</sup> joy at Kṛṣṇa's visit to
+fish in Lakṣmaṇā's {%svayaṃvara;%}<sup>2</sup> joy at Kṛṣṇa's visit to
 Indraprastha and Kṛṣṇa's respects to him; was consoled by
 Kṛṣṇa when banished to forest;<sup>3</sup> sent to the western terri-
 tories with the Matsyas, Kekayas and Madrakas.<sup>4</sup> Advised
@@ -67486,7 +67486,7 @@ prayers were offered to Piṭrs and Devas; preseṅts were
 given to Brāhmaṇas to exalt {%mangalam.%} Damaghoṣa and
 other friends of the Cedi King were welcomed. Housed
 Rāma and Kṛṣṇa in comfortable lodgings. But Kṛṣṇa won
-her in the {%svayamvara;%}<sup>2</sup> was stationed by Jarāsandha on the
+her in the {%svayaṃvara;%}<sup>2</sup> was stationed by Jarāsandha on the
 northern side during the siege of Gomanta;<sup>3</sup> went to the
 Syamantapañcaka for the solar eclipse.<sup>4</sup>
 <F>1) Bhā. III. 3. 3; Vi. V. 26. 1.</F>
@@ -68504,7 +68504,7 @@ him for his residence, as he wanted to keep his word not to
 enter Kuṇḍina without killing Kṛṣṇa. Here was celebrat-
 ed the marriage of Aniruddha and which Balarāma
 and others attended and then left for Dvārakā;<sup>1</sup> the
-{%svayamvara%} of Pradymna's daughter took place at.<sup>2</sup>
+{%svayaṃvara%} of Pradymna's daughter took place at.<sup>2</sup>
 [Page2-587+ 31]
 <F>1) Bhā. X. 54. 52; 61. 19 and 23 [5]; 61. 26 and 40.</F>
 <F>2) Vi. V.
@@ -70544,7 +70544,7 @@ Janapada.
 
 <L>10115<pc>2-623<k1>manuttama<k2>manuttama
 {%Manuttama%}¦ ({%Manutta%} or {%Marutta%}) — a king equal to a
-cakravartin, went to heaven with Samvarta, a sage; father
+cakravartin, went to heaven with Saṃvarta, a sage; father
 of Nariṣyanta.
 <div n="P"/>Vā. 86. 9.
 <LEND>
@@ -71494,7 +71494,7 @@ residents of Bhuvarloka;<sup>3</sup> part of Viṣṇu;<sup>4</sup> see Śakra.
 
 <L>10245<pc>2-641<k1>marutta<k2>marutta<h>I
 {%Marutta%} (I)¦ — the son of Avikṣit, a cakravarti and father
-of Dama; helped by Samvarta, he performed sacrifices; his
+of Dama; helped by Saṃvarta, he performed sacrifices; his
 {%yajñas%} were of a high order; Indra was much pleased with
 {%soma,%} and the Brāhmaṇas with {%dakṣiṇā;%} Maruts were the
 guards and Viśvedevas were members of the {%sabhā;%}<sup>1</sup> still is
@@ -77688,7 +77688,7 @@ devas.
 
 <L>11165<pc>3-008<k1>yajYasena<k2>yajYasena
 {%Yajñasena%}¦ — the Pāñcāla, who invited Kṛṣṇa to Drau-
-padi's {%svayamvara.%}
+padi's {%svayaṃvara.%}
 <div n="P"/>Bhā. X. 57. 10. [1].
 <LEND>
 
@@ -78862,7 +78862,7 @@ measure; the duration of the yugas includes sandhya, 12,000
 divine years, 1,000 caturyugas make a day of Brahmā.<sup>1</sup> A
 yugam of five years, commencing with {%Śravaṇa%} and ending
 with {%Dhaniṣṭhā nakṣatra%} — the five years are respectively
-Agni, Sūrya, Soma, Vāyu and Rudra; consists of Samvat-
+Agni, Sūrya, Soma, Vāyu and Rudra; consists of Saṃvat-
 sara, Parivatsara, Idvatsara, Anuvatsara and Vatsara;
 revolves like the wheel owing to the movement of the Sun.<sup>2</sup>
 Social conditions in;<sup>3</sup> of Śaptarṣis.<sup>4</sup>
@@ -80455,8 +80455,8 @@ groups of earth, water and space.<sup>6</sup>
 <div n="P"/>Br. II. 13. 9; Vā. 30. 8.
 <LEND>
 
-<L>11527<pc>3-060<k1>rahamvarca<k2>rahamvarca
-{%Rahamvarcas%}¦ — a son of Sampāti.
+<L>11527<pc>3-060<k1>rahaṃvarca<k2>rahaṃvarca
+{%Rahaṃvarcas%}¦ — a son of Sampāti.
 <div n="P"/>M. 49. 4.
 <LEND>
 
@@ -81955,7 +81955,7 @@ came to grief.<sup>8</sup>
 [Page3-089+ 45]
 <div n="P"/>The presiding deity of the planet Śanaiścara. Kālo-
 Rudra is Śiva; at the end of a Kalpa he assumes the form
-of a Samvarttaka sun and burns down all the worlds. His
+of a Saṃvarttaka sun and burns down all the worlds. His
 own messengers of death; worshipped by Kāma with Śata-
 rudrīya.<sup>9</sup> Enshrined in Gokarṇa.<sup>10</sup> Destroyed the god of
 Love and married Umā on the advice of the seven sages;
@@ -83105,7 +83105,7 @@ Br. III. 37. 31; 63. 185; Vā. 88. 184, 187; 108. 25; Vi. IV. 4. 87, 104.</F>
 {%Lakṣmaṇā%} (I)¦ — a daughter of the king of the Madras;
 heard of Kṛṣṇa's glory from Nārada and set her mind on
 [Page3-110+ 43]
-him. It was arranged that in a {%svayamvara%} he, who hit a
+him. It was arranged that in a {%svayaṃvara%} he, who hit a
 target (fish) correctly by looking at its reflection in the water
 below was to wed her. All tried in vain but Kṛṣṇa succeeded
 and married her; when she was taken in a chariot, other
@@ -83119,7 +83119,7 @@ sons, Gātravat and others.<sup>2</sup>
 
 <L>11866<pc>3-110<k1>lakzmaRA<k2>lakzmaRA<h>II
 {%Lakṣmaṇā%} (II)¦ — a daughter of Duryodhana married
-by Sāmba in a {%svayamvara.%} For this the Kurus like Karṇa
+by Sāmba in a {%svayaṃvara.%} For this the Kurus like Karṇa
 and Duryodhana took him captive after a severe fight and
 threw him into prison. Afraid of Balarāma's prowess,
 Duryodhana agreed to her marriage with Sāmba and sent a
@@ -83205,8 +83205,8 @@ a lotus garland at Vṛndāvana.<sup>2</sup>
 <div n="P"/>M. 13. 46.
 <LEND>
 
-<L>11876<pc>3-111<k1>lakzmIsvayamvaram<k2>lakzmIsvayamvaram
-{%Lakṣmīsvayamvaram%}¦ — apparently a dramatic compo-
+<L>11876<pc>3-111<k1>lakzmIsvayaṃvaram<k2>lakzmIsvayaṃvaram
+{%Lakṣmīsvayaṃvaram%}¦ — apparently a dramatic compo-
 sition of Bharata (s.v.) enacted in the presence of Purū-
 ravas at Indra's command.
 <div n="P"/>M. 24. 28-9.
@@ -84817,7 +84817,7 @@ Prayāgā;<sup>1</sup> the holiest of holies;<sup>2</sup> the Prapitāmaha or Vi
 <LEND>
 
 <L>12123<pc>3-141<k1>vaqavAmuKa<k2>vaqavAmuKa
-{%Vaḍavāmukha%}¦ — is Samvartaka agni;<sup>1</sup> lives in the ocean,<sup>2</sup>
+{%Vaḍavāmukha%}¦ — is Saṃvartaka agni;<sup>1</sup> lives in the ocean,<sup>2</sup>
 father of Saharakṣa;<sup>3</sup> also Vaḍavāgni.
 <F>1) Br. II. 18. 80; M. 121. 77; 167. 58.</F>
 <F>2) Vā. 29. 33; 47. 76.</F>
@@ -87305,7 +87305,7 @@ Marut gaṇas travel. Seven of them are said to have their
 stations in Pṛthvī (earth), Bhāskara (sun), Soma (moon)
 Constellation group, Planets, Saptarṣimaṇḍala and Dhruva,
 with their respective chiefs: Āvaha, Pravaha, Udvaha,
-Samvaha, Vivaha, Anuvaha and Parivaha.
+Saṃvaha, Vivaha, Anuvaha and Parivaha.
 <div n="P"/>Br. III. 5. 78-80; Vā. 67. 110-12.
 <LEND>
 
@@ -87968,7 +87968,7 @@ ch. 184.</F>
 {%Vārāha%} (I)¦ — (Viṣṇu). An {%avatār%} of Hari who raised
 the earth from the waters, see Varāha, the form which Viṣṇu
 takes in the Śvetakalpa with four feet, four hands, etc.,
-becomes Samvatsara and assumes the form of {%Yajña;%} the
+becomes Saṃvatsara and assumes the form of {%Yajña;%} the
 four yugas are four feet, the {%kratus%} are {%aṅgas%} or limbs, the
 four Vedas are the hands {%ṛtu, sandhimukhas,%} two {%ayanas%} are
 the faces and eyes, three {%parvas%} are the heads, etc.,<sup>1</sup> appro-
@@ -89028,7 +89028,7 @@ success — the words of Viṣaṅga to Bhaṇḍa.
 <L>12744<pc>3-217<k1>vicitravIrya<k2>vicitravIrya
 {%Vicitravīrya%}¦ — a Kṣetraja son of Matsyagandhī;<sup>1</sup> a son of
 Śantanu and Dāsayī: married the two daughters of the Kāśī
-king — Ambikā and Ambālikā, gained in {%svayamvara%} by
+king — Ambikā and Ambālikā, gained in {%svayaṃvara%} by
 Bhīṣma. Being too much attached to them he took ill and
 died.<sup>2</sup> By his appointment Kṛṣṇadvaipāyana gave two sons
 [Page3-218+ 28]
@@ -89510,7 +89510,7 @@ cation of {%agni%} by milk and ghee.
 <L>12823<pc>3-226<k1>vidiSa<k2>vidiSa
 {%Vidiśa%}¦ — a particular locality between the Cakra
 (Candra-{%Vā. P.%}) and Maināka hills towards the south. Here
-is Samvartaka fire swallowing waters as also Aurva and
+is Saṃvartaka fire swallowing waters as also Aurva and
 Vaḍavāmukha.
 <div n="P"/>Br. II. 18. 79. Vā. 47. 75-6.
 <LEND>
@@ -89941,7 +89941,7 @@ of Indra, and a warrior.
 
 <L>12886<pc>3-234<k1>vidvAnagni<k2>vidvAnagni
 {%Vidvānagni%}¦ — (Manyumān): a son of Hṛcchaya and
-Jāṭharāgni and father of Samvartaka.
+Jāṭharāgni and father of Saṃvartaka.
 <div n="P"/>Br. II. 12. 34; Vā. 29. 32.
 <LEND>
 
@@ -93494,7 +93494,7 @@ sence of {%mātṛgaṇa%} images.
 <LEND>
 
 <L>13417<pc>3-299<k1>vIryaSulka<k2>vIryaSulka
-{%Vīryaśulka%}¦ — prize of Valour in {%svayamvara.%}
+{%Vīryaśulka%}¦ — prize of Valour in {%svayaṃvara.%}
 <div n="P"/>Bhā. I. 10. 29.
 <LEND>
 
@@ -97515,7 +97515,7 @@ previous birth and was born as a wolf; again the daughter
 of the king of Kāśī met him; remembering his former state
 he was born as a vulture, crow and a peacock; when she
 bathed him during the sacrificial bath of Janaka he was born
-as the son of Janaka. Then a svayamvara was held, she
+as the son of Janaka. Then a svayaṃvara was held, she
 married him, lived as his queen and attained heaven. See
 Śaivyā.
 <div n="P"/>Vi. III. 18. 53-95.
@@ -100799,7 +100799,7 @@ M. 125. 5-9; 127. 19; Vā. 1. 101; Vi. II. 12. 29, 34.</F>
 {%Śiśumāra%} (III)¦ — is Tārāmaya; the eternal deity; Uttā-
 napāda is the upper jaw, Yajña is the lower lip, Dharma is
 the head, heart is Nārāyaṇa, Sādhya and Aśvins front feet,
-Varuṇa and Aryama is the hind feet, the samvatsara, child;
+Varuṇa and Aryama is the hind feet, the saṃvatsara, child;
 Mitra is Apāna; tail is Agni, Mahendra, Marīci and Kaśyapa
 and Dhruva; all the planets are centred in Dhruva.
 <div n="P"/>Vā. 52. 90-9; Vi. II. 9. 23-4.
@@ -107101,34 +107101,34 @@ shipped by Brahmans.
 <div n="P"/>Br. II. 12. 21; Vā. 29. 19.
 <LEND>
 
-<L>15484<pc>3-548<k1>samvatsara<k2>samvatsara<h>I
-{%Samvatsara%} (I)¦ — a sage in the Darūvana.
+<L>15484<pc>3-548<k1>saṃvatsara<k2>saṃvatsara<h>I
+{%Saṃvatsara%} (I)¦ — a sage in the Darūvana.
 <div n="P"/>Br. II. 27. 104.
 <LEND>
 
-<L>15485<pc>3-548<k1>samvatsara<k2>samvatsara<h>II
-{%Samvatsara%} (II)¦ — a part of the five-year yuga;<sup>1</sup> a year,
+<L>15485<pc>3-548<k1>saṃvatsara<k2>saṃvatsara<h>II
+{%Saṃvatsara%} (II)¦ — a part of the five-year yuga;<sup>1</sup> a year,
 the first among years; is Agni; represented by Kāvya pitṛs;<sup>2</sup>
-of different kinds — dīvyasamvatsara, Dhruvasamvatsara,
-Pitṛsamvatsara, and Saptarṣisamvatsara.<sup>3</sup>
+of different kinds — dīvyasaṃvatsara, Dhruvasaṃvatsara,
+Pitṛsaṃvatsara, and Saptarṣisaṃvatsara.<sup>3</sup>
 <F>1) Bhā. III. 11. 14; V. 22. 7; Vi. II. 8. 71-2.</F>
 <F>2) Br. II. 21. 131; 24.
 57, 141; 28. 15; III. 8. 17; 72. 30.</F>
 <F>3) Ib. II. 28. 21; 29. 10, 16 and 18.</F>
 <LEND>
 
-<L>15486<pc>3-548<k1>samvatsara<k2>samvatsara<h>III
-{%Samvatsara%} (III)¦ — a Śakti.
+<L>15486<pc>3-548<k1>saṃvatsara<k2>saṃvatsara<h>III
+{%Saṃvatsara%} (III)¦ — a Śakti.
 <div n="P"/>Br. IV. 32. 15.
 <LEND>
 
-<L>15487<pc>3-548<k1>samvatsara<k2>samvatsara<h>IV
-{%Samvatsara%} (IV)¦ — is Agni.
+<L>15487<pc>3-548<k1>saṃvatsara<k2>saṃvatsara<h>IV
+{%Saṃvatsara%} (IV)¦ — is Agni.
 <div n="P"/>M. 141. 18.
 <LEND>
 
-<L>15488<pc>3-548<k1>samvatsara<k2>samvatsara<h>V
-{%Samvatsara%} (V)¦ — Vārāha Viṣṇu got the form of.
+<L>15488<pc>3-548<k1>saṃvatsara<k2>saṃvatsara<h>V
+{%Saṃvatsara%} (V)¦ — Vārāha Viṣṇu got the form of.
 <div n="P"/>Vā. 23. 104.
 <LEND>
 
@@ -107139,8 +107139,8 @@ father of Kuru.
 Vi. IV. 19. 75-6.
 <LEND>
 
-<L>15490<pc>3-548<k1>samvarta<k2>samvarta<h>I
-{%Samvarta%} (I)¦ — a son of Aṅgiras, and a yogin; helped
+<L>15490<pc>3-548<k1>saṃvarta<k2>saṃvarta<h>I
+{%Saṃvarta%} (I)¦ — a son of Aṅgiras, and a yogin; helped
 Marutta in his {%yajñas;%}<sup>1</sup> enabled Prāṃśu's son to go to
 Heaven.<sup>2</sup>
 [Page3-549+ 30]
@@ -107148,30 +107148,30 @@ Heaven.<sup>2</sup>
 <F>2) Br. III. 61. 5.</F>
 <LEND>
 
-<L>15491<pc>3-549<k1>samvarta<k2>samvarta<h>II
-{%Samvarta%} (II)¦ — a son of Svarūpa and a gotrakāra;<sup>1</sup>
+<L>15491<pc>3-549<k1>saṃvarta<k2>saṃvarta<h>II
+{%Saṃvarta%} (II)¦ — a son of Svarūpa and a gotrakāra;<sup>1</sup>
 attained salvation at Benares.<sup>2</sup>
 <F>1) M. 196. 4.</F>
 <F>2) Ib. 180. 63.</F>
 <LEND>
 
-<L>15492<pc>3-549<k1>samvarta<k2>samvarta<h>III
-{%Samvarta%} (III)¦ — a priest of Maruttacakravarti who
+<L>15492<pc>3-549<k1>saṃvarta<k2>saṃvarta<h>III
+{%Saṃvarta%} (III)¦ — a priest of Maruttacakravarti who
 went bodily to heaven with all his relations and Marutta
 taking {%yajña%} with him; hence Bṛhaspati got angry with him
 as he anticipated the destruction of the world.
 <div n="P"/>Vā. 86. 9, 11.
 <LEND>
 
-<L>15493<pc>3-549<k1>samvartaka<k2>samvartaka<h>I
-{%Samvartaka%} (I)¦ — a group of clouds ordered by Indra to
+<L>15493<pc>3-549<k1>saṃvartaka<k2>saṃvartaka<h>I
+{%Saṃvartaka%} (I)¦ — a group of clouds ordered by Indra to
 inundate Gokula;<sup>1</sup> {%Pralaya%} clouds.<sup>2</sup>
 <F>1) Bhā. X. 25. 2-7.</F>
 <F>2) M. 2. 8; Vā. 77. 7; 100. 156.</F>
 <LEND>
 
-<L>15494<pc>3-549<k1>samvartaka<k2>samvartaka<h>II
-{%Samvartaka%} (II)¦ — also Aurva and Vaḍavāmukha;<sup>1</sup> the
+<L>15494<pc>3-549<k1>saṃvartaka<k2>saṃvartaka<h>II
+{%Saṃvartaka%} (II)¦ — also Aurva and Vaḍavāmukha;<sup>1</sup> the
 fire that consumes waters; the {%pralaya%} fire;<sup>2</sup> son of Manyu-
 mān Agni.<sup>3</sup>
 <F>1) Br. II. 7. 9; 12. 35-6; 22. 43; 25. 45, 55.</F>
@@ -107180,20 +107180,20 @@ Vā. 6. 29; 54. 57</F>
 <F>3) Ib. 29. 33.</F>
 <LEND>
 
-<L>15495<pc>3-549<k1>samvartta<k2>samvartta
-{%Samvartta%}¦ — a son of Pathya and Atharvāngiras.
+<L>15495<pc>3-549<k1>saṃvartta<k2>saṃvartta
+{%Saṃvartta%}¦ — a son of Pathya and Atharvāngiras.
 <div n="P"/>Br. III. 1. 106.
 <LEND>
 
-<L>15496<pc>3-549<k1>samvarttaka<k2>samvarttaka
-{%Samvarttakas%}¦ — massive clouds like elephants and of
+<L>15496<pc>3-549<k1>saṃvarttaka<k2>saṃvarttaka
+{%Saṃvarttakas%}¦ — massive clouds like elephants and of
 different colours pouring down rain for 100 years during the
 period of dissolution.
 <div n="P"/>Vi. V. 11. 1; VI. 3. 31.
 <LEND>
 
-<L>15497<pc>3-549<k1>samvaha<k2>samvaha
-{%Samvaha%}¦ — the chief of the fourth Vātaskandha.
+<L>15497<pc>3-549<k1>saṃvaha<k2>saṃvaha
+{%Saṃvaha%}¦ — the chief of the fourth Vātaskandha.
 <div n="P"/>Br. III. 5. 85; M. 163. 32.
 <LEND>
 
@@ -109192,7 +109192,7 @@ tion of Guha;<sup>1</sup> attended Aniruddha's marriage at Bhojakaṭa,
 went with the Vṛṣṇi army to Bāṇa's city and fought with the
 son of Bāṇa;<sup>2</sup> went out to play and saw a huge lizard in a
 well and reported it to Kṛṣṇa;<sup>3</sup> took Lakṣmaṇā, daughter of
-Duryodhana in a svayamvara. The Kurus imprisoned him.
+Duryodhana in a svayaṃvara. The Kurus imprisoned him.
 Afraid of Balarāma's prowess, was released by Duryo-
 dhana and was given dowry. Went to Dvārakā after the
 Rājasūya of Yudhiṣṭhira and defended the city against Śālva.<sup>4</sup>
@@ -109507,7 +109507,7 @@ a yogi.
 tioned by Jarāsandha at the western gate of Mathurā, during
 one siege, and at the Eastern gate during the other. Attacked
 the south when Gomanta was besieged.<sup>1</sup> Was defeated and
-killed by Kṛṣṇa in Vaidarbhī svayamvara; arrived at
+killed by Kṛṣṇa in Vaidarbhī svayaṃvara; arrived at
 Kuṇḍina.<sup>2</sup>
 <F>1) Bhā. X. 78 [95 (v) 16]; 50. 11 [5], [2]; 52. 11 [8].</F>
 <F>2) Ib. X. 52;
@@ -116961,8 +116961,8 @@ Vā. P.) and father of Hṛdīka.
 <div n="P"/>Br. IV. 15. 4.
 <LEND>
 
-<L>17029<pc>3-727<k1>svayamvara<k2>svayamvara
-{%Svayamvara%}¦ — a form of marriage by which Kṛṣṇa mar-
+<L>17029<pc>3-727<k1>svayaṃvara<k2>svayaṃvara
+{%Svayaṃvara%}¦ — a form of marriage by which Kṛṣṇa mar-
 ried a good number of women;<sup>1</sup> of Draupadī;<sup>2</sup> of Lakṣmaṇā.
 <F>1) Vi. III. 18. 88; V. 28. 6; Bhā. I. 10. 29; X. 52. 16.</F>
 <F>2) Ib. X. 57.
@@ -119314,8 +119314,8 @@ of Jambūdvīpa.<sup>2</sup>
 <F>2) Vi. II. 2. 14.</F>
 <LEND>
 
-<L>17382<pc>3-769<k1>hiraRyakamvarzam<k2>hiraRyakamvarzam
-{%Hiraṇyakamvarṣam%}¦ — belonging to Śveta.
+<L>17382<pc>3-769<k1>hiraRyakaṃvarzam<k2>hiraRyakaṃvarzam
+{%Hiraṇyakaṃvarṣam%}¦ — belonging to Śveta.
 <div n="P"/>M. 113. 31.
 <LEND>
 
@@ -119633,8 +119633,8 @@ takes him to the abode of Śiva.
 <div n="P"/>M. 196. 41.
 <LEND>
 
-<L>17418<pc>3-775<k1>hiraRvatamvarzam<k2>hiraRvatamvarzam
-{%Hiraṇvatamvarṣam%}¦ — north of Śveta and south of Śṛnga-
+<L>17418<pc>3-775<k1>hiraRvataṃvarzam<k2>hiraRvataṃvarzam
+{%Hiraṇvataṃvarṣam%}¦ — north of Śveta and south of Śṛnga-
 sāhva; here is Hairanvatīnadī; age of the people 11,000
 years; there is a tree Lakuca whose juice endows the people
 with long life; three peaks of jewels, gold and precious stones;
