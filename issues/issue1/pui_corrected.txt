@@ -66046,7 +66046,7 @@ Parjanya.
 
 <L>9481<pc>2-541<k1>BaratASrama<k2>BaratASrama<h>I
 {%Bharatāśrama%} (I)¦ — in the Himālayan forests; fit for
-śrāddha offering; here is the foot print of Matanga;<sup>1</sup> a {%tīrtha%}
+śrāddha offering; here is the foot print of Mataṅga;<sup>1</sup> a {%tīrtha%}
 sacred to Lakṣmīranganā.<sup>2</sup>
 <F>1) Br. III. 13. 105; Vā. 77. 98.</F>
 <F>2) M. 13. 46.</F>
@@ -69248,7 +69248,7 @@ footprint of, seen in the Bharatāśrama.<sup>2</sup>
 <LEND>
 
 <L>9941<pc>2-600<k1>mataNgapadam<k2>mataNgapadam
-{%Mataṅgapadam%}¦ — the āśrama of Matanga, the sage, at
+{%Mataṅgapadam%}¦ — the āśrama of Mataṅga, the sage, at
 Gayā where the performance of Pitṛ śrāddha is an act of
 merit.
 <div n="P"/>Vā. 108. 25.
@@ -69261,7 +69261,7 @@ merit.
 
 <L>9943<pc>2-600<k1>mataNgavApI<k2>mataNgavApI
 {%Mataṅgavāpī%}¦ — a sacred place for performing śrāddha
-in the Kosala country;<sup>1</sup> in Gayā sacred to Matanga.<sup>2</sup>
+in the Kosala country;<sup>1</sup> in Gayā sacred to Mataṅga.<sup>2</sup>
 <F>1) Vā. 77. 36.</F>
 <F>2) Ib. 111. 24.</F>
 <LEND>
@@ -73555,7 +73555,7 @@ of a part of the Ṛg Veda.
 <LEND>
 
 <L>10568<pc>2-677<k1>mAtanga<k2>mAtanga<h>II
-{%Mātanga%} (II)¦ — a son of Matanga, and a sage; his wife
+{%Mātanga%} (II)¦ — a son of Mataṅga, and a sage; his wife
 Siddhimatī gave birth to Laghuśyāmā or Mātangī.
 <div n="P"/>Br. IV. 31. 89, 91-106.
 <LEND>
@@ -109925,7 +109925,7 @@ siddhis enumerated: All these are consequences of yoga.
 <LEND>
 
 <L>15900<pc>3-599<k1>sidDimati<k2>sidDimati
-{%Siddhimati%}¦ — the wife of Matanga and mother of
+{%Siddhimati%}¦ — the wife of Mataṅga and mother of
 Laghuśyāma.
 <div n="P"/>Br. IV. 31. 103.
 <LEND>
