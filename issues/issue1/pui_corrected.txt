@@ -9069,7 +9069,7 @@ their progress to it.
 <LEND>
 
 <L>1286<pc>1-161<k1>Apana<k2>Apana
-{%Āpana (c)%}¦ — a kingdom to which Puramjana went by
+{%Āpana (c)%}¦ — a kingdom to which Purañjana went by
 the entrance {%Mukhyā;%} allegorically {%Vyavahāra.%}
 <div n="P"/>Bhā. IV. 25. 49; 29. 12.
 <LEND>
@@ -9958,7 +9958,7 @@ one of the seven {%Maruts;%}<sup>2</sup> controls the {%mūka%} clouds.<sup>3</s
 
 <L>1435<pc>1-177<k1>AvirmuKi<k2>AvirmuKi
 {%Āvirmukhi%}¦ — one of the eastern entrances of the city of
-Puramjana: allegorically the right eye.
+Purañjana: allegorically the right eye.
 <div n="P"/>Bhā. IV. 25. 47; 29. 10.
 <LEND>
 
@@ -10126,7 +10126,7 @@ descendants were Kaśyapagotrakaras.<sup>2</sup>
 
 <L>1462<pc>1-179<k1>AsurI<k2>AsurI<h>I
 {%Āsurī%} (I)¦ — the name of the entrance of the west of the
-city of Puramjana; allegorically the organ of procreation.
+city of Purañjana; allegorically the organ of procreation.
 <div n="P"/>Bhā. IV. 25. 52; 29. 14.
 <LEND>
 [Page1-180+ 35]
@@ -31031,7 +31031,7 @@ time of anarchy.
 <LEND>
 
 <L>4447<pc>1-563<k1>grAmaka<k2>grAmaka
-{%Grāmaka%}¦ — the kingdom to which Puramjana went by
+{%Grāmaka%}¦ — the kingdom to which Purañjana went by
 the Āsuri entrance of his city with his companion Durmada.
 <div n="P"/>Bhā. IV. 25. 52.
 <LEND>
@@ -31743,7 +31743,7 @@ chariot.
 
 <L>4562<pc>1-577<k1>caRqavega<k2>caRqavega
 {%Caṇḍavega%}¦ — the Lord of the Gandharvas, who had 360
-followers. These entered Puramjana's city and harassed
+followers. These entered Purañjana's city and harassed
 the people. The superintendent of the city defended it.
 Allegorically 360 stands for the year, while the Gandharvas
 represent the day time and their women the night.
@@ -49237,7 +49237,7 @@ four overflowing Māgadha measure.
 
 <L>7101<pc>2-234<k1>nAlInI<k2>nAlInI
 {%Nālīnī%}¦ — one of the Eastern entrances to the city of
-Puranjana; allegorically the nostrils.
+Purañjana; allegorically the nostrils.
 <div n="P"/>Bhā. IV. 25. 48; 29. 11.
 <LEND>
 
@@ -62399,7 +62399,7 @@ IV. 5. 31.
 <LEND>
 
 <L>8980<pc>2-474<k1>bahUdana<k2>bahUdana
-{%Bahūdana%}¦ — a kingdom to which Puramjana went by
+{%Bahūdana%}¦ — a kingdom to which Purañjana went by
 the entrance, Mukhya; allegorically food.
 <div n="P"/>Bhā. IV. 25. 49; 29. 12.
 <LEND>
@@ -68411,7 +68411,7 @@ Umā is Bhairavī;<sup>1</sup> a mother-goddess.<sup>2</sup>
 
 <L>9809<pc>2-585<k1>BogavatI<k2>BogavatI<h>I
 {%Bhogavatī%} (I)¦ — the capital of the Nāgas, compared to
-the city of Puramjana;<sup>1</sup> north of Vāsukihrada, a sacred spot
+the city of Purañjana;<sup>1</sup> north of Vāsukihrada, a sacred spot
 of Prayāgā.<sup>2</sup>
 <F>1) Bhā. I. 11. 11; IV. 25. 15.</F>
 <F>2) M. 163. 80.</F>
@@ -75421,7 +75421,7 @@ of them mentioned.<sup>2</sup>
 
 <L>10843<pc>2-711<k1>muKyA<k2>muKyA
 {%Mukhyā%}¦ — the fifth entrance on the east of the city of
-Puramjana. Through this Puramjana went to the king-
+Purañjana. Through this Purañjana went to the king-
 doms of Āpaṇa and Bahūdana with his companions Rasajña
 and Vipaṇa; allegorically the mouth.
 <div n="P"/>Bhā. IV. 25. 49; 29. 11.
@@ -80395,7 +80395,7 @@ of Gaurī. It is equal to performing 1000 {%Yajñas.%}
 [Page3-059+ 34]
 
 <L>11519<pc>3-059<k1>rasajYa<k2>rasajYa
-{%Rasajña%}¦ — a companion of Puramjana, allegorically the
+{%Rasajña%}¦ — a companion of Purañjana, allegorically the
 organ of taste. See mukhyā.
 <div n="P"/>Bhā. IV. 25. 49; 29. 11.
 <LEND>
@@ -83824,7 +83824,7 @@ Viṣṇuloka.
 [Page3-123+ 29]
 
 <L>11973<pc>3-123<k1>lubDaka<k2>lubDaka
-{%Lubdhaka%}¦ — a companion of Puramjana; allegorically
+{%Lubdhaka%}¦ — a companion of Purañjana; allegorically
 {%pāyu.%}
 <div n="P"/>Bhā. IV. 25. 53; 29. 15.
 <LEND>
@@ -90367,7 +90367,7 @@ Menakā.
 <LEND>
 
 <L>12950<pc>3-242<k1>vipaRa<k2>vipaRa
-{%Vipaṇa%}¦ — a companion of Puramjana, allegorically the
+{%Vipaṇa%}¦ — a companion of Purañjana, allegorically the
 organ of speech (see Mukhyā).
 <div n="P"/>Bhā. IV. 25. 49; 29. 11.
 <LEND>
@@ -90819,7 +90819,7 @@ resplendent fire.
 <LEND>
 
 <L>13021<pc>3-250<k1>viBrAjita<k2>viBrAjita
-{%Vibhrājita%}¦ — the kingdom to which Puramjana went
+{%Vibhrājita%}¦ — the kingdom to which Purañjana went
 through the gates, Khadyota and Āvirmukhi, with his friend
 Dyumat; allegorically bright colour.
 <div n="P"/>Bhā. IV. 25. 47; 29. 10.
@@ -95718,7 +95718,7 @@ cive to realisation of one's desires.
 [Page3-340+ 26]
 
 <L>13754<pc>3-340<k1>vESasa<k2>vESasa
-{%Vaiśasa%}¦ — the kingdom to which Puramjana went with
+{%Vaiśasa%}¦ — the kingdom to which Purañjana went with
 his companion Lubdhaka; allegorically Naraka.
 <div n="P"/>Bhā. IV. 25. 53; 29. 15; V. 26. 25.
 <LEND>
@@ -103704,7 +103704,7 @@ wives of Vasudeva.
 <LEND>
 
 <L>14956<pc>3-486<k1>SrutaDara<k2>SrutaDara
-{%Śrutadhara%}¦ — the companion who followed Puramjana
+{%Śrutadhara%}¦ — the companion who followed Purañjana
 to Uttara and Dakṣiṇa Pāñcāla; allegorically, the hearing.
 <div n="P"/>Bhā. IV. 25. 50-51; 29. 13.
 <LEND>
@@ -115882,7 +115882,7 @@ the Vālakhilyas move praising his glory.
 <LEND>
 
 <L>16871<pc>3-707<k1>sOraBa<k2>sOraBa
-{%Saurabha%}¦ — the kingdom to which Puramjana went with
+{%Saurabha%}¦ — the kingdom to which Purañjana went with
 his friend Avadhūta; allegorically smell.
 <div n="P"/>Bhā. IV. 25. 48; 29. 11.
 <LEND>
