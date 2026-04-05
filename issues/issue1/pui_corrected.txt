@@ -40524,7 +40524,7 @@ of a deity.
 <LEND>
 
 <L>5866<pc>2-075<k1>darBa<k2>darBa
-{%Darbha%}¦ — a son of Āngirasa.
+{%Darbha%}¦ — a son of Āṅgirasa.
 <div n="P"/>Vā. 65. 104.
 <LEND>
 
@@ -40793,7 +40793,7 @@ V. 38. 51, 70, 82, 84.</F>
 <LEND>
 
 <L>5908<pc>2-080<k1>dasyumAn<k2>dasyumAn
-{%Dasyumān%}¦ — an Āngirasa and Mantrakṛt.
+{%Dasyumān%}¦ — an Āṅgirasa and Mantrakṛt.
 <div n="P"/>Br. II. 32. 108.
 <LEND>
 
@@ -48228,7 +48228,7 @@ vrata.
 
 <L>6979<pc>2-215<k1>nava<k2>nava
 {%Nava Brāhmaṇas%}¦ — Bhṛgu, Pulastya, Pulaha, Kratu,
-Āngirasa, Marīci, Dakṣa, Atri, and Vasiṣṭha; according to
+Āṅgirasa, Marīci, Dakṣa, Atri, and Vasiṣṭha; according to
 the {%Purāṇas.%}
 <div n="P"/>Vā. 9. 68-69.
 <LEND>
@@ -58048,7 +58048,7 @@ Sudakṣiṇā.<sup>3</sup> Attained {%mokṣa%} by hatred of Hari.<sup>4</sup>
 <LEND>
 
 <L>8386<pc>2-394<k1>pOrakutsa<k2>pOrakutsa
-{%Paurakutsa%}¦ — an Āngirasa and Mantrakṛṭ.
+{%Paurakutsa%}¦ — an Āṅgirasa and Mantrakṛṭ.
 <div n="P"/>Br. II. 32. 102.
 <LEND>
 
@@ -58120,7 +58120,7 @@ teller;<sup>1</sup> on Māndhāta and Hariścandra;<sup>2</sup> alias Vaṃśavi
 <LEND>
 
 <L>8396<pc>2-395<k1>pOrukutsa<k2>pOrukutsa
-{%Paurukutsa%}¦ — a Mantrakṛt and of the Āngirasa branch.
+{%Paurukutsa%}¦ — a Mantrakṛt and of the Āṅgirasa branch.
 <div n="P"/>Vā. 59. 99.
 <LEND>
 
