@@ -11357,7 +11357,7 @@ and 20.
 
 <L>1602<pc>1-202<k1>ilAvfta<k2>ilAvfta
 {%Ilāvṛta(m) (varṣam)%}¦ — the central continent of Jambū-
-dvīpa. To its north are mountains Nīla, Śveta and Śṛnga-
+dvīpa. To its north are mountains Nīla, Śveta and Śṛṅga-
 vān, (Supārśva-{%Vi. P.%}) and to its south are Niṣadha, Hema-
 [Page1-203+ 43]
 kūṭa and Himalayas. To its east and west are Mālyavat and
@@ -12129,7 +12129,7 @@ Parīkṣit.
 
 <L>1717<pc>1-217<k1>uttarakuru<k2>uttarakuru
 {%Uttara-kuru%}¦ — traversed by the river Bhadrā; a conti-
-nent adjoining Meru, in the hill of Suparśva north of Śṛnga-
+nent adjoining Meru, in the hill of Suparśva north of Śṛṅga-
 vat and south of the sea. Here Hari revealed himself as
 Varāha {%(Matsya, Vi.)%} and mother Earth praised him by Upa-
 niṣad naming him {%Yajña%} and {%Kratu.%}<sup>1</sup> Conquered by Parīk-
@@ -22462,7 +22462,7 @@ temporaries of ten Śisunāgas.
 
 <L>3255<pc>1-405<k1>kuru<k2>kuru<h>I
 {%Kuru%} (I)¦ — a son of Āgnīdhra and Pūrvacitti;<sup>1</sup> Lord of
-Śṛngavaṭam.<sup>2</sup> Kingdom north-east of Śṛṅgavatvarṣa.<sup>3</sup>
+Śṛṅgavaṭam.<sup>2</sup> Kingdom north-east of Śṛṅgavatvarṣa.<sup>3</sup>
 <F>1) Bhā. V. 2. 19; Vā. 33. 40; Vi. II. 1. 17 and 22.</F>
 <F>2) Br. II.
 14. 47.</F>
@@ -22496,7 +22496,7 @@ forest śaḍvala.
 <LEND>
 
 <L>3259<pc>1-406<k1>kuru<k2>kuru<h>V
-{%Kuru%} (V)¦ — a continent bounded by Śṛngavan on one
+{%Kuru%} (V)¦ — a continent bounded by Śṛṅgavan on one
 side. Here Hari is worshipped in his Boar incarnation by
 Pṛthvi (Earth) with the Kurus.
 <div n="P"/>Bhā. V. 16. 8; 18. 34-9.
@@ -31820,7 +31820,7 @@ on Pūṣan at the destruction of Dakṣa's sacrifice.
 <L>4573<pc>1-578<k1>caturaNga<k2>caturaNga
 {%Caturaṅga%}¦ — the son of R(L)omapāda — Daśaratha
 (Citra-ratha-{%Vi. P.%}), and father of Pṛthulākṣa (Pṛthālaśva-
-{%Vā. P.%}) through the grace of Ṛṣyaśṛnga.
+{%Vā. P.%}) through the grace of Ṛṣyaśṛṅga.
 <div n="P"/>Bhā. IX. 23. 10; M. 48. 95; Vā. 99. 104-5. Vi. IV. 18. 18-19.
 <LEND>
 
@@ -33265,7 +33265,7 @@ ratha.
 <L>4804<pc>1-605<k1>citraraTa<k2>citraraTa<h>V
 {%Citraratha%} (V)¦ — the son of Dharmaratha, well known
 as Romapāda. A friend of Daśaratha. As he had no children,
-he adopted Śāntā, daughter of Daśaratha. Ṛṣyaśṛnga mar-
+he adopted Śāntā, daughter of Daśaratha. Ṛṣyaśṛṅga mar-
 ried her. Then he had a son Caturanga.
 <div n="P"/>Bhā. IX. 23. 7-10; M. 48. 94; Vā. 93. 103; Vi. IV. 18. 16-18.
 <LEND>
@@ -65661,7 +65661,7 @@ of Bhadrāśva; gave birth to Soma.
 
 <L>9437<pc>2-533<k1>BadrA<k2>BadrA<h>II
 {%Bhadrā%} (II)¦ — a branch of the Gangā issuing out of the
-city of Brahmā and descending the Śṛngavan hills, traverses
+city of Brahmā and descending the Śṛṅgavan hills, traverses
 the continent of the Uttarakurus and falls into the north
 sea.
 <div n="P"/>Bhā. V. 17. 5 and 8: Vi. II. 2. 34; 8. 113.
@@ -68995,7 +68995,7 @@ dvīpam.
 <LEND>
 
 <L>9902<pc>2-595<k1>maRiDara<k2>maRiDara
-{%Maṇidhara%}¦ — a Yakṣa living in the (Hemaśṛnga {%M. P.%})
+{%Maṇidhara%}¦ — a Yakṣa living in the (Hemaśṛṅga {%M. P.%})
 Lohita hill; son of Rajatanābha.
 <div n="P"/>Br. II. 18. 12; 36. 216; M. 121. 13.
 <LEND>
@@ -76729,7 +76729,7 @@ Nandana, Caitraratha, Vaibhrājaka, and Sarvatobhadra.
 Encircling the base of Meru, stand two hills. On the east
 are Jaṭhara and Devakūṭa; on the west Pavana and Pāri-
 yātra; on the south Kailāsa and Karavīra, and on the north
-Triśṛnga and Makara. In the central part of its summit is
+Triśṛṅga and Makara. In the central part of its summit is
 Brahmā's square city of gold. Surrounding the outskirts
 of that city, are the eight cities of the eight guardians.<sup>1</sup>
 There is a forest at its foot where Rudra sports with Pārvatī;
@@ -119634,7 +119634,7 @@ takes him to the abode of Śiva.
 <LEND>
 
 <L>17418<pc>3-775<k1>hiraRvataṃvarzam<k2>hiraRvataṃvarzam
-{%Hiraṇvataṃvarṣam%}¦ — north of Śveta and south of Śṛnga-
+{%Hiraṇvataṃvarṣam%}¦ — north of Śveta and south of Śṛṅga-
 sāhva; here is Hairanvatīnadī; age of the people 11,000
 years; there is a tree Lakuca whose juice endows the people
 with long life; three peaks of jewels, gold and precious stones;
