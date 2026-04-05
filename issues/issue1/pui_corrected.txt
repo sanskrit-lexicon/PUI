@@ -34930,7 +34930,7 @@ Viśvajit.
 
 <L>5040<pc>1-635<k1>jayaDvaja<k2>jayaDvaja
 {%Jayadhvaja%}¦ — a son of Kārtavīrya Arjuna and father of
-Tālajangha;<sup>1</sup> a Mahāratha who reigned at Avanti;<sup>2</sup> known
+Tālajaṅgha;<sup>1</sup> a Mahāratha who reigned at Avanti;<sup>2</sup> known
 also as Vaikarta.<sup>3</sup>
 <F>1) Bhā. IX. 23. 27-28; Vā. 94. 50; Vi. IV. 11. 21-22.</F>
 <F>2) Br. III.
@@ -37600,8 +37600,8 @@ gate of the Śūnyaka city with ten Akṣauhiṇi soldiers.
 
 <L>5453<pc>2-023<k1>tAlajaMGa<k2>tAlajaMGa<h>I
 {%Tālajaṃgha%} (I)¦ — the son of Jayadhvaja and father of
-one hundred sons (Tālajanghas — Vītihotra being the
-elder). The Tālajangha line came to an end by Aurva's
+one hundred sons (Tālajaṅghas — Vītihotra being the
+elder). The Tālajaṅgha line came to an end by Aurva's
 power.<sup>1</sup> Afraid of Paraśurāma he escaped to the Himalayas
 and returned after peace was restored. Led an expedition
 to Ayodhyā whose king Phalgutantra fled with his wife and
@@ -37620,9 +37620,9 @@ Sagara.<sup>3</sup>
 
 <L>5455<pc>2-023<k1>tAlajaMGa<k2>tAlajaMGa
 {%Tālajaṃghas%}¦ — a class of Kṣatriyas defeated by Sagara;<sup>1</sup>
-the collective name of the 100 sons of Tālajangha and a
+the collective name of the 100 sons of Tālajaṅgha and a
 Haihaya clan; of them five gaṇas could be distinguished;
-Vītihotra, Bhoja, Avantya, Tuṇḍikera and Tālajangha.<sup>2</sup>
+Vītihotra, Bhoja, Avantya, Tuṇḍikera and Tālajaṅgha.<sup>2</sup>
 <F>1) Bhā. IX. 8. 5; 23. 28.</F>
 <F>2) Br. III. 48. 23-5; 63. 120 and 134;
 69. 51-3; M. 43. 48; Vā. 94. 51-2.</F>
@@ -62720,7 +62720,7 @@ Sagara.
 <L>9028<pc>2-480<k1>bAhu<k2>bAhu<h>II
 {%Bāhu%} (II)¦ — a son of Dhṛtaka (Vṛka-{%Vi. P.%}); was
 attacked and deprived of his kingdom by the Haihayas and
-the Tālajanghas with the help of the Śakas, Yavanas, Kām-
+the Tālajaṅghas with the help of the Śakas, Yavanas, Kām-
 bojas, Pāradas, and Palhavas, the five tribes; hence the king
 abdicated and took to a life of penance with his wife in the
 forest as an old man. Once he went to bring water when
@@ -66017,7 +66017,7 @@ her.
 <LEND>
 
 <L>9476<pc>2-540<k1>Barata<k2>Barata<h>X
-{%Bharata%} (X)¦ — a son of Tālajangha and father of Vṛṣa.
+{%Bharata%} (X)¦ — a son of Tālajaṅgha and father of Vṛṣa.
 <div n="P"/>Vi. IV. 11. 24-5.
 <LEND>
 
@@ -93176,7 +93176,7 @@ Bharga.
 <LEND>
 
 <L>13365<pc>3-293<k1>vItihotra<k2>vItihotra<h>IV
-{%Vītihotra%} (IV)¦ — the eldest son of Tālajangha; father of
+{%Vītihotra%} (IV)¦ — the eldest son of Tālajaṅgha; father of
 Ananta; escaped to Himālayas from Paraśurāma's attack.
 <div n="P"/>Bhā. IX. 23. 29; Br. III. 46. 26; 47. 67; 69. 53; M. 43. 49;
 Vi. IV. 11. 24.
@@ -104534,7 +104534,7 @@ plete the sacrifice. Anointed Amśumat on the throne in the
 [Page3-502+ 38]
 presence of Paurajānapada and devoted himself to attaining
 salvation through the path prescribed by Aurva. Greed for
-more territory; conquered Tālajanghas, Yavanas, Śakas,
+more territory; conquered Tālajaṅghas, Yavanas, Śakas,
 Haihayas and Barbaras. On the advice of his guru, Vasiṣṭha,
 he spared their lives but punished them by disfiguring them — 
 some wholly shaven, and some half-shaven. They became
@@ -120098,10 +120098,10 @@ pride of power.
 <L>17489<pc>3-783<k1>hEhaya<k2>hEhaya<h>I
 {%Haihayas%} (I)¦ — attained {%yoga%} through the grace of Datta;
 were defeated by Sagara and destroyed by Paraśurāma;<sup>1</sup> their
-king was Kārtavīrya and then his grandson Tālajangha. Five
+king was Kārtavīrya and then his grandson Tālajaṅgha. Five
 groups among them are distinguished; Vītihotras, Bhojas,
-Avantis, Tuṇḍikaras and Tālajanghas;<sup>2</sup> 24 kings contempo-
-raneous with ten Śiśunāgas;<sup>3</sup> 28 in number;<sup>4</sup> Tālajanghas of
+Avantis, Tuṇḍikaras and Tālajaṅghas;<sup>2</sup> 24 kings contempo-
+raneous with ten Śiśunāgas;<sup>3</sup> 28 in number;<sup>4</sup> Tālajaṅghas of
 [Page3-784+ 32]
 whom five clans are distinguished; these are Vītihotras,
 Śaryātas, Bhojas, Avantis and Kuṇḍikeras;<sup>5</sup> country of,
