@@ -37289,7 +37289,7 @@ an eastern country and tribe; a Janapada of the east.<sup>2</sup>
 <LEND>
 
 <L>5410<pc>2-017<k1>tAmravarRa<k2>tAmravarRa
-{%Tāmravarṇa%}¦ — a Mt. near Patanga in the southern
+{%Tāmravarṇa%}¦ — a Mt. near Pataṅga in the southern
 direction.
 <div n="P"/>Vā. 38. 8.
 <LEND>
@@ -45894,7 +45894,7 @@ by Kuvalayāśva (s.v.) aided by his 21,000 sons.
 
 <L>6650<pc>2-173<k1>DunDu<k2>DunDu<h>II
 {%Dhundhu%} (II)¦ — a son of Madhu the Rākṣasa, caused
-trouble to peaceful citizens; on Uttanga's request Bṛha-
+trouble to peaceful citizens; on Uttaṅga's request Bṛha-
 daśva's son vanquished him.
 <div n="P"/>Br. III. 63. 29.
 <LEND>
@@ -48408,7 +48408,7 @@ and Magadha were under their control.
 <L>7004<pc>2-218<k1>nAga<k2>nAga<h>IV
 {%Nāgas%} (IV)¦ — elephants; created for use in the
 Devāsura wars; other names are Dvirada, Hasti, Kari,
-Vāraṇa, Danti, Gaja, Kuñjara, Mātanga, Dvīpa, Sāmaja:
+Vāraṇa, Danti, Gaja, Kuñjara, Mātaṅga, Dvīpa, Sāmaja:
 turning of the tongue due to the curse of Agni and two
 tusks and enormous strength by curse of the Gods; see also
 dignāgas.
@@ -51798,8 +51798,8 @@ of the Mānasa.<sup>2</sup>
 <F>2) Vā. 36. 22; 38. 2.</F>
 <LEND>
 
-<L>7494<pc>2-280<k1>patanga<k2>patanga<h>II
-{%Patanga%} (II)¦ — a class of people in Plakṣadvīpa.
+<L>7494<pc>2-280<k1>pataNga<k2>pataNga<h>II
+{%Pataṅga%} (II)¦ — a class of people in Plakṣadvīpa.
 <div n="P"/>Bhā. V. 20. 4.
 <LEND>
 
@@ -61203,8 +61203,8 @@ Sarasvatī.
 <div n="P"/>Br. III. 13. 69.
 <LEND>
 
-<L>8822<pc>2-451<k1>plavaNgamAtanga<k2>plavaNgamAtanga
-{%Plavaṅgamātangas%}¦ — a tribe.
+<L>8822<pc>2-451<k1>plavaNgamAtaNga<k2>plavaNgamAtaNga
+{%Plavaṅgamātaṅgas%}¦ — a tribe.
 <div n="P"/>M. 114. 44.
 <LEND>
 [Page2-452+ 26]
@@ -63352,7 +63352,7 @@ in-law of Kṛṣṇa, who married her in {%svayaṃvara.%}
 {%Bṛhadaśva%} (I)¦ — the son of Śāva (Śāvasta-{%Vi. P.%} Śrā-
 vasta-{%Br. P., M. P.%} and {%Vā. P.%}) and father of Kuvalayāśva
 (Kuvalāśva, {%Br. P.,%} Kuvalāśvadhundhumāra-{%Vā. P.%}). After
-consecrating his son, retired to the forest; the sage Uttanga
+consecrating his son, retired to the forest; the sage Uttaṅga
 wanted him to kill the Rākṣasa Dhundhu hiding under the
 [Page2-492+ 27]
 sea and disturbing the peace. As he had laid down his
@@ -69241,7 +69241,7 @@ of all Rākṣasas.
 [Page2-600+ 28]
 
 <L>9940<pc>2-600<k1>mataNga<k2>mataNga
-{%Mataṅga%}¦ — a sage of great repute; father of Mātanga;<sup>1</sup>
+{%Mataṅga%}¦ — a sage of great repute; father of Mātaṅga;<sup>1</sup>
 footprint of, seen in the Bharatāśrama.<sup>2</sup>
 <F>1) Br. IV. 31. 90.</F>
 <F>2) Vā. 77. 98.</F>
@@ -73554,8 +73554,8 @@ of a part of the Ṛg Veda.
 <div n="P"/>Br. III. 7. 134; Vā. 69. 165; 111. 53.
 <LEND>
 
-<L>10568<pc>2-677<k1>mAtanga<k2>mAtanga<h>II
-{%Mātanga%} (II)¦ — a son of Mataṅga, and a sage; his wife
+<L>10568<pc>2-677<k1>mAtaMga<k2>mAtaNga<h>II
+{%Mātaṅga%} (II)¦ — a son of Mataṅga, and a sage; his wife
 Siddhimatī gave birth to Laghuśyāmā or Mātangī.
 <div n="P"/>Br. IV. 31. 89, 91-106.
 <LEND>
@@ -83241,7 +83241,7 @@ second step of the yoga consists of {%lambanam, plavanam,%} and
 <LEND>
 
 <L>11882<pc>3-112<k1>laGuSyAmA<k2>laGuSyAmA
-{%Laghuśyāmā%}¦ — a daughter of Mātanga and hence
+{%Laghuśyāmā%}¦ — a daughter of Mātaṅga and hence
 Mātangī.
 <div n="P"/>Br. IV. 28. 40; 31. 103-4.
 <LEND>
@@ -89757,7 +89757,7 @@ Saumanasas.
 
 <L>12853<pc>3-231<k1>vidyADarapuram<k2>vidyADarapuram
 {%Vidyādharapuram%}¦ — the city of the Vidyādharas; in the
-region between the Tāmravarṇa lake and the Patanga hills;
+region between the Tāmravarṇa lake and the Pataṅga hills;
 there dwells Pulomā, king of the Vidyādharas.
 <div n="P"/>M. 66. 18; 78. 11; Vā. 38. 8-16.
 <LEND>
@@ -102893,7 +102893,7 @@ maya.
 
 <L>14835<pc>3-471<k1>SyAmA<k2>SyAmA<h>II
 {%Śyāmā%} (II)¦ — a name of Lalitā; appeared before the sage
-Mātanga and agreed to be his daughter. Hence Mātangī.
+Mātaṅga and agreed to be his daughter. Hence Mātangī.
 <div n="P"/>Br. IV. 17. 83; 28. 37; 31. 84, 93.
 <LEND>
 [Page3-472+ 24]
