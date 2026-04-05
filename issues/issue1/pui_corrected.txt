@@ -4882,7 +4882,7 @@ Vindhyan cave.
 <LEND>
 
 <L>699<pc>1-086<k1>amftA<k2>amftA<h>I
-{%Amṛtās%} (I)¦ — a group of rain-giving {%nāḍis%} with the sun.
+{%Amṛtās%} (I)¦ — a group of rain-giving {%nāḍīs%} with the sun.
 <div n="P"/>Br. II. 24. 27; Vā. 53. 20.
 <LEND>
 
@@ -23283,7 +23283,7 @@ māla.
 <LEND>
 
 <L>3381<pc>1-420<k1>kUwanAkUtana<k2>kUwanAkUtana
-{%Kūṭanākūtanas%}¦ — a group of nāḍis of sun (fire) emit-
+{%Kūṭanākūtanas%}¦ — a group of nāḍīs of sun (fire) emit-
 ting rain.
 <div n="P"/>Br. II. 24. 27.
 <LEND>
@@ -29363,7 +29363,7 @@ gratitude and grace of Viśvāmitra.<sup>2</sup>
 <LEND>
 
 <L>4201<pc>1-533<k1>gAva<k2>gAva
-{%Gāva%}¦ — a group of nāḍis of the sun pouring out heat.
+{%Gāva%}¦ — a group of nāḍīs of the sun pouring out heat.
 <div n="P"/>Br. II. 24. 29. Vā. 53. 22.
 <LEND>
 
@@ -31948,7 +31948,7 @@ knowledge of Ātman to Brahmā.
 <LEND>
 
 <L>4592<pc>1-581<k1>candana<k2>candana
-{%Candanas%}¦ — a group of nāḍis of fire (with sun) emitting
+{%Candanas%}¦ — a group of nāḍīs of fire (with sun) emitting
 rain.
 <div n="P"/>Br. II. 24. 27.
 <LEND>
@@ -32032,7 +32032,7 @@ by the Aśvins for nectar.
 <LEND>
 
 <L>4604<pc>1-582<k1>candra<k2>candra
-{%Candras%}¦ — a group of nāḍis of sun (fire) with enough
+{%Candras%}¦ — a group of nāḍīs of sun (fire) with enough
 light.
 <div n="P"/>Br. II. 24. 29.
 <LEND>
@@ -42470,7 +42470,7 @@ mouth.
 <LEND>
 
 <L>6151<pc>2-110<k1>dfSyAmeGA<k2>dfSyAmeGA
-{%Dṛśyāmeghās%}¦ — a group of {%nāḍis%} pouring out dew from
+{%Dṛśyāmeghās%}¦ — a group of {%nāḍīs%} pouring out dew from
 fire (sun).
 <div n="P"/>Br. II. 24. 28.
 <LEND>
@@ -78829,7 +78829,7 @@ Nāgavīthi.
 <LEND>
 
 <L>11299<pc>3-029<k1>yAmya<k2>yAmya
-{%Yāmyas%}¦ — a group of nāḍis emitting dew from the sun.
+{%Yāmyas%}¦ — a group of nāḍīs emitting dew from the sun.
 <div n="P"/>Br. II. 24. 28.
 <LEND>
 
@@ -84010,7 +84010,7 @@ para with four learned disciples, all yogins.
 
 <L>11998<pc>3-126<k1>lokADAnam<k2>lokADAnam
 {%Lokādhānam%}¦ — Soma takes away the water drunk by
-the sun through nāḍis and thus sets in motion the Jyotiṣa
+the sun through nāḍīs and thus sets in motion the Jyotiṣa
 cakram. The clouds drink from Soma and pour in as rain
 for six months by the heaviness of the wind; thus the waters
 are not wasted; once taken they are returned; from the sun
@@ -85181,7 +85181,7 @@ country.
 <LEND>
 
 <L>12186<pc>3-147<k1>vandana<k2>vandana
-{%Vandanas%}¦ — one of the {%varṣa nāḍis%} or rays of the sun.
+{%Vandanas%}¦ — one of the {%varṣa nāḍīs%} or rays of the sun.
 <div n="P"/>Vā. 53. 20.
 <LEND>
 
@@ -92058,7 +92058,7 @@ Asuras.
 <LEND>
 
 <L>13218<pc>3-273<k1>viSvaBfta<k2>viSvaBfta
-{%Viśvabhṛta%}¦ — a group of nāḍis of the sun pouring out
+{%Viśvabhṛta%}¦ — a group of nāḍīs of the sun pouring out
 heat.
 <div n="P"/>Br. II. 24. 29; Vā. 53. 22.
 <LEND>
@@ -101442,7 +101442,7 @@ mya-{%Vi. P.%}).
 <LEND>
 
 <L>14606<pc>3-445<k1>Suci<k2>Suci<h>X
-{%Śuci%} (X)¦ — the fire with the sun; has 1000 nāḍis taking
+{%Śuci%} (X)¦ — the fire with the sun; has 1000 nāḍīs taking
 water from rivers, mountains and pools; of these 400 pour
 [Page3-446+ 24]
 out rain, 300 dew, 300 heat — all for the benefit of man and
@@ -120193,7 +120193,7 @@ Nisunda.
 <LEND>
 
 <L>17502<pc>3-785<k1>hradinya<k2>hradinya
-{%Hradinya%}¦ — a group of nāḍis giving out dew from the
+{%Hradinya%}¦ — a group of nāḍīs giving out dew from the
 sun (fire).
 <div n="P"/>Br. II. 24. 28.
 <LEND>
