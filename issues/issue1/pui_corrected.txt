@@ -54768,14 +54768,14 @@ vāti.
 <div n="P"/>Br. III. 7. 128.
 <LEND>
 
-<L>7929<pc>2-334<k1>piSanga<k2>piSanga<h>II
-{%Piśanga%} (II)¦ — a Mt. to the south-west of the Kailāsa
+<L>7929<pc>2-334<k1>piSaNga<k2>piSaNga<h>II
+{%Piśaṅga%} (II)¦ — a Mt. to the south-west of the Kailāsa
 Mountain.
 <div n="P"/>Vā. 47. 9.
 <LEND>
 
-<L>7930<pc>2-334<k1>piSanga<k2>piSanga
-{%Piśanga Manu%}¦ — from the Aikāra; of the ash colour.
+<L>7930<pc>2-334<k1>piSaNga<k2>piSaNga
+{%Piśaṅga Manu%}¦ — from the Aikāra; of the ash colour.
 <div n="P"/>Vā. 26. 44.
 <LEND>
 
@@ -60740,7 +60740,7 @@ attaining this yoga, {%pratyāhāra%} to be begun, {%mātra — nimi-%}
 <LEND>
 
 <L>8753<pc>2-443<k1>prARina<k2>prARina
-{%Prāṇinas%}¦ — the Saptāngas of kings; wife, purohita,
+{%Prāṇinas%}¦ — the Saptāṅgas of kings; wife, purohita,
 senāni, charioteer, minister, horse and elephant.
 <div n="P"/>Br. II. 29. 76; Vā. 57. 70.
 <LEND>
@@ -61259,7 +61259,7 @@ of Sūrya.
 
 <L>8832<pc>2-452<k1>Palgutantra<k2>Palgutantra
 {%Phalgutantra%}¦ — a king of Ayodhyā, defeated by Tāla-
-jangha: settled in the forest near Aurva's hermitage follow-
+jaṅgha: settled in the forest near Aurva's hermitage follow-
 ed by his pregnant wife. After his death was born the
 future Sagara in the hermitage.
 <div n="P"/>Br. III. 47. 76.
@@ -61690,7 +61690,7 @@ of Priyavrata.
 {%Bala%} (I)¦ — a son of Maya residing in Atala; created 96
 magical performances some of which are practised even
 now; when he yawned, out of his mouth came three groups
-of women — Svairiṇī, Kāminī, and Pumścalyā who adminis-
+of women — Svairiṇī, Kāminī, and Puṃścalyā who adminis-
 tered Hāṭakarasa to frequenters of those regions and made
 them enjoy like Siddhas; resisted Indra in the Devāsura war
 and was slain.
@@ -61893,7 +61893,7 @@ helped him in relieving the earth of the burden of the
 Daityas; went to Syamantapañcaka for the solar eclipse; joy
 at Vasudeva's sacrifice; honoured Nanda;<sup>8</sup> is said to have
 extracted the teeth of the Kaliṅga king, just as Vīrabhadra
-extracted Puṣan's teeth;<sup>9</sup> was killed by his own men,
+extracted Pūṣan's teeth;<sup>9</sup> was killed by his own men,
 deluded by Kṛṣṇa; his wives entered the fire after his death;
 was said to have disappeared in the form of a reptile into
 the sea;<sup>10</sup> king of Dvārakā, married Revatī, the daughter of
@@ -62067,7 +62067,7 @@ given.
 <LEND>
 
 <L>8943<pc>2-468<k1>bali<k2>bali<h>II
-{%Bali%} (II)¦ — (Baliviṅdhya {%Br. P.%}) a son of Raivata Manu.
+{%Bali%} (II)¦ — (Balivindhya {%Br. P.%}) a son of Raivata Manu.
 <div n="P"/>Bhā. VIII. 5. 2.
 <LEND>
 
@@ -62899,7 +62899,7 @@ Bindumat.
 
 <L>9054<pc>2-483<k1>bindumatI<k2>bindumatI<h>II
 {%Bindumatī%} (II)¦ — a daughter of Śaśabindu (Śatabindu-
-{%Vī. P.%}) and queen of Māmdhātā also known as Caitrarathi
+{%Vī. P.%}) and queen of Māndhātā also known as Caitrarathi
 (s.v.) and mother of three sons, Mucukunda, Ambarīṣa and
 Purukutśa.
 <div n="P"/>Bhā. IX. 6. 38; Vi. IV. 2. 66; Vā. 88. 70-2.
@@ -63896,7 +63896,7 @@ drawn by 8 white (red-{%Vā. P.%}) horses;<sup>2</sup> traverses each sign
 in one full year; generally favourable to the Brāhmaṇas; a
 good {%graha;%}<sup>3</sup> on the right a bad omen;<sup>4</sup> his place above
 [Page2-502+ 31]
-Budha;<sup>5</sup> in  siṃha, every twelve years;<sup>6</sup> stands above Angā-
+Budha;<sup>5</sup> in  siṃha, every twelve years;<sup>6</sup> stands above Aṅgā-
 raka at a distance of 2000 yojanas and below Śani.<sup>7</sup>
 <F>1) Br. II. 23. 85; M. 128. 48, 64; Vā. 53. 87.</F>
 <F>2) M. 127. 5; Vā. 52.
@@ -63911,7 +63911,7 @@ raka at a distance of 2000 yojanas and below Śani.<sup>7</sup>
 
 <L>9204<pc>2-502<k1>bfhaspati<k2>bfhaspati<h>III
 {%Bṛhaspati%} (III)¦ — a Ṛṣi;<sup>1</sup> heard the Bhāgavata from
-Sānkhāyana;<sup>2</sup> teacher of Uddava;<sup>3</sup> went to Syamantapañ-
+Sāṅkhāyana;<sup>2</sup> teacher of Uddava;<sup>3</sup> went to Syamantapañ-
 caka to see Kṛṣṇa,<sup>4</sup> went with Kṛṣṇa to Mithilā;<sup>5</sup> advised Jana-
 mejaya to give up Sarpasatra; by doing this he honoured
 the sage.<sup>6</sup>
@@ -64443,7 +64443,7 @@ Bṛgu, Aṅgiras and Atri.
 
 <L>9281<pc>2-511<k1>brahmaveda<k2>brahmaveda
 {%Brahmaveda%}¦ — (Atharva) personified in the Vārunī
-{%Yajña;%}<sup>1</sup> with cruel Kṛtyavidhi; with Pratyangarasayoga and
+{%Yajña;%}<sup>1</sup> with cruel Kṛtyavidhi; with Pratyaṅgirasayoga and
 with a head with two bodies.<sup>2</sup>
 <F>1) Br. III. 1. 26-30.</F>
 <F>2) Vā. 65. 27.</F>
@@ -64782,7 +64782,7 @@ according to capacity with 8 guardian elephants, Vedas and
 Aṅgas, and all the deities beginning from Brahmā; then
 [Page2-518+ 36]
 worship of the different manifestations of Viṣṇu — Ananta-
-śayana, Pradyumna, Samkarṣaṇa, Aniruddha, Vāsudeva;
+śayana, Pradyumna, Saṅkarṣaṇa, Aniruddha, Vāsudeva;
 the giver enjoys in heaven with the heavenly damsels.
 <div n="P"/>M. 274. 7.
 <LEND>
@@ -65143,7 +65143,7 @@ Duryodhana.<sup>2</sup>
 <LEND>
 
 <L>9353<pc>2-524<k1>Bagadatta<k2>Bagadatta<h>II
-{%Bhagadatta%} (II)¦ — a King of the Kinṇaras.
+{%Bhagadatta%} (II)¦ — a King of the Kinnaras.
 <div n="P"/>Vā. 41. 30.
 <LEND>
 
@@ -66404,7 +66404,7 @@ Vi. III. 6. 22.
 
 <L>9528<pc>2-548<k1>Basma<k2>Basma
 {%Bhasma%}¦ — sacred ash supposed to be the {%vīrya%} of Śiva
-who is Bhasmasamcchannadeha;<sup>1</sup> snānam of, makes one
+who is Bhasmasaṃcchannadeha;<sup>1</sup> snānam of, makes one
 pure: amulet for places of confinement.<sup>2</sup>
 <F>1) Br. II. 27. 10 and 92, 105-28; III. 28. 12.</F>
 <F>2) Ib. II. 27.
@@ -66889,7 +66889,7 @@ Tapomati, Niruṭsāka, Agnibāhu.
 {%Bhārgava%} (IV)¦ — (planet: Śukra); in size (1/16) of the
 moon;<sup>1</sup> chariot of, drawn by eight steeds {%(M. P.);%} drawn by
 ten horses ({%Br. P.%} and {%Vā. P.%}) of different colours — śveta,
-piśanga, sāraṅga, nīla, pīta, vilohita, kṛṣṇa, harita, pṛṣata
+piśaṅga, sāraṅga, nīla, pīta, vilohita, kṛṣṇa, harita, pṛṣata
 and pṛśni;<sup>2</sup> stood near the wheel of the chariot of Tripurāri
 in defence;<sup>3</sup> has sixteen rays;<sup>4</sup> born of Tiṣya in the Cākṣuṣa
 epoch; the first of Tārāgrahas.<sup>5</sup>
@@ -67080,7 +67080,7 @@ ten other sons.
 <L>9624<pc>2-560<k1>BAsI<k2>BAsI<h>II
 {%Bhāsī%} (II)¦ — a daughter of Tāmrā and Kaśyapa; mar-
 ried Garutmān; mother of Bhāsas, Ulūkas, Crows, Hens,
-Cuckoos, Kalavinkas, Doves, Lāvatittiras, Sparrows, Par-
+Cuckoos, Kalaviṅkas, Doves, Lāvatittiras, Sparrows, Par-
 tridges, Owls, Vultures, Kākakukkuṭas, etc.
 <div n="P"/>Br. III. 7. 446-448, 455; M. 6. 30-31; Vā. 69, 325, 328, 335-36;
 Vi. I. 21. 15-16.
@@ -67504,7 +67504,7 @@ Syamantapañcaka for the solar eclipse.<sup>4</sup>
 <L>9679<pc>2-567<k1>BujaNga<k2>BujaNga
 {%Bhujaṅga%}¦ — served as a rope for Manu to tie the divine
 boat to the horn of the fish;<sup>1</sup> Indra took the guise of, to
-disturb the {%tapas%} of Vajrāngī;<sup>2</sup> born to ward off poison.<sup>3</sup>
+disturb the {%tapas%} of Vajrāṅgī;<sup>2</sup> born to ward off poison.<sup>3</sup>
 [Page2-568+ 28]
 <F>1) M. 2. 18; 4. 6.</F>
 <F>2) Ib. 146. 65.</F>
@@ -67525,7 +67525,7 @@ disturb the {%tapas%} of Vajrāngī;<sup>2</sup> born to ward off poison.<sup>3<
 {%Bhutāvāpti%}¦ — of five elements: {%pṛthvi, vāyu, ākāśa, āpa,%}
 and {%jyoti;%} each has its own function; the body is of the earth,
 {%prāṇa%} of māruta or wind, the {%ākāśa%} of water, and {%tejas%} of
-{%jyotsna;%} by their virility, sangrāmas and visayas do their
+{%jyotsna;%} by their virility, saṅgrāmas and visayas do their
 respective work.
 <div n="P"/>Vā. 97. 55.
 <LEND>
@@ -69145,8 +69145,8 @@ bitants were slain by Arjuna.
 <L>9926<pc>2-598<k1>maRqapa<k2>maRqapa
 {%Maṇḍapas%}¦ — three kinds of, superior, middling and in-
 ferior; the different varieties are Puṣpaka, Puṣpabhadra, Suv-
-rata, Amṛtananda, Kauśalya, Buddhisamkīrṇa, Gajabhadrā,
-Jayāvaha, Śrīvatsa, Vijaya, Vāstukīrti, Śrutinjaya, Yajña-
+rata, Amṛtananda, Kauśalya, Buddhisaṅkīrṇa, Gajabhadrā,
+Jayāvaha, Śrīvatsa, Vijaya, Vāstukīrti, Śrutiñjaya, Yajña-
 bhadra, Viśāla, Suśliṣṭa, Śatrumardana, Bhāgapañca, Nan-
 dana, Mānava, Mānabhadraka, Sugrīva. Harita, Karni-
 kāra, Śatardhika,  siṃha, Śyāmabhadra, Subhadra, all total-
@@ -71505,7 +71505,7 @@ gold; father of Nariṣyanta.<sup>2</sup>
 <LEND>
 
 <L>10246<pc>2-641<k1>marutta<k2>marutta<h>II
-{%Marutta%} (II)¦ — a son of Karandhama (Karamdana-
+{%Marutta%} (II)¦ — a son of Karandhama (Karandana-
 {%Vi. P.%}): issueless, adopted Duṣkanta of the Paurava line and
 thus Purvasu family got merged in the Paurava line. It was
 a result of Yayāti's curse.
@@ -72222,7 +72222,7 @@ ruta, Burnouf) and father of Kṛtirāta.
 {%Mahān%} (IV)¦ — manas (mind); came out of Prakṛti
 (sūkṣma śarīram); out of this mahas came other things;
 {%mati%} or wisdom is Brahmā; buddhi is {%bhū;%} khyāti is Īśvara;
-Prajña citti; smṛti, saṃvid; ety of; its two vṛttis sankalpa
+Prajña citti; smṛti, saṃvid; ety of; its two vṛttis saṅkalpa
 and adhyavasāya;<sup>1</sup> attains virāra during Pralaya;<sup>2</sup> a {%pra-%}
 {%dhāna tatva.%}<sup>3</sup>
 [Page2-654+ 26]
@@ -73184,7 +73184,7 @@ the four; bhū and other worlds;<sup>3</sup> see Bhūmī.<sup>4</sup>
 
 <L>10514<pc>2-670<k1>mahI<k2>mahI<h>III
 {%Mahī%} (III)¦ — with Vikeśī: a sthāna of Rudra;<sup>1</sup> his son
-was Lohitānga.<sup>2</sup>
+was Lohitāṅga.<sup>2</sup>
 <F>1) Vi. I. 8. 7.</F>
 <F>2) Ib. I. 8. 11.</F>
 <LEND>
@@ -73795,7 +73795,7 @@ of Aśvins.
 
 <L>10603<pc>2-681<k1>mAdrI<k2>mAdrI<h>II
 {%Mādrī%} (II)¦ — one of the wives of Dṛṣṭi; her sons were
-Yudhājit, Midharāmsa, Animitra and Śinī.
+Yudhājit, Midharāṃsa, Animitra and Śinī.
 <div n="P"/>Br. III. 71. 18-19.
 <LEND>
 
@@ -74233,7 +74233,7 @@ sacred to Kumārī and to Pitṛs.<sup>2</sup>
 <LEND>
 
 <L>10668<pc>2-689<k1>mAyAmayam<k2>mAyAmayam
-{%Māyāmayam sthānam%}¦ — the atom of Īśvara; Śānkhyas
+{%Māyāmayam sthānam%}¦ — the atom of Īśvara; Śāṅkhyas
 style Prakṛti for māyā.
 <div n="P"/>Vā. 101. 218.
 <LEND>
@@ -74483,7 +74483,7 @@ in Paraśurāma's sacrifice.<sup>3</sup>
 
 <L>10699<pc>2-694<k1>mArkaRqeya<k2>mArkaRqeya<h>III
 {%Mārkaṇḍeya%} (III)¦ — speaks of the greatness of the
-Narmadā to Yudhiṣṭhira;<sup>1</sup> came to Syamantapāncaka to see
+Narmadā to Yudhiṣṭhira;<sup>1</sup> came to Syamantapañcaka to see
 Kṛṣṇa.<sup>2</sup>
 <F>1) M. 190. 1; 191. 81; 192. 6; 193. 66; 194. 48.</F>
 <F>2) Bhā. X. 84. 4.</F>
@@ -74545,7 +74545,7 @@ are other dispositions of open spaces.<sup>1</sup>
 <div n="P"/>6. Rathyoparathyas 3 dhanus.
 <div n="P"/>7. Upārathya rathas 2 dhanus.
 [Page2-696+ 27]
-<div n="P"/>8. Janghāpatha 4 feet
+<div n="P"/>8. Jaṅghāpatha 4 feet
 <div n="P"/>9. Gṛhāntaram (lanes) 3 feet.
 <div n="P"/>10. Dhṛtimārga 6 feet and more.
 <div n="P"/>11. Avaskāraparīvāra 1 ft. all round.<sup>2</sup>
@@ -75073,7 +75073,7 @@ wives of Vasudeva.
 <LEND>
 
 <L>10784<pc>2-705<k1>mitrabAhu<k2>mitrabAhu<h>I
-{%Mitrabāhu%} (I)¦ — a son of Nāgnjiti and Kṛṣṇa.
+{%Mitrabāhu%} (I)¦ — a son of Nāgnajiti and Kṛṣṇa.
 <div n="P"/>Br. III. 71. 252; M. 47. 19; Vā. 96. 243.
 <LEND>
 
@@ -75498,7 +75498,7 @@ Atharva Veda again into three parts and included {%nakṣatra%}
 <LEND>
 
 <L>10854<pc>2-713<k1>muRqa<k2>muRqa<h>III
-{%Muṇḍas%} (III)¦ — Shavelings in the guise of Sanyasins in
+{%Muṇḍas%} (III)¦ — Shavelings in the guise of Saṃnyāsins in
 Kaliyuga.
 <div n="P"/>Vā. 58. 59.
 <LEND>
@@ -81208,7 +81208,7 @@ was the Tretāyuga, it looked like Kṛtayuga; sons, Kuśa and
 Lava; ruled for 1010 years;<sup>2</sup> led an exemplary household life,
 by his loyalty to his wedded wife; performed sacrifices by giv-
 ing all his kingdom as {%dakṣiṇa,%} retaining only the ornaments
-and dress, and for Sītā, her {%saumāngalya.%} The Brāhmaṇas
+and dress, and for Sītā, her {%saumāṅgalya.%} The Brāhmaṇas
 returned the kingdom as they had no use for it and praised
 him.<sup>3</sup> One night he went about to know what people talked
 of his rule. He heard a person saying that Rāma was mad
@@ -94579,7 +94579,7 @@ scribed; distinct from Vedacintaka;<sup>1</sup> eligible for Pārvaṇa
 
 <L>13586<pc>3-319<k1>vedavedAMgapAraga<k2>vedavedAMgapAraga
 {%Vedavedāṃgapāraga%}¦ — one fully versed in the Vedas and
-Vedāngas.
+Vedāṅgas.
 <div n="P"/>Vā. 34. 94; 109. 54.
 <LEND>
 
@@ -99231,7 +99231,7 @@ fear of other king's troubles, {%vāyavī%} for diseases of wind, etc.,
 curse, etc., {%prājāpatyā%} for miscarriages in delivery, {%tvāṣṭrī%} for
 bad growth of vegetables, {%kaumārī%} for well being of children,
 {%āgneyī%} for fear of fire and disobedience, troubles from ser-
-vants, etc., {%gāndharvi%} for horses, {%āngirasi%} for elephants,
+vants, etc., {%gāndharvi%} for horses, {%āṅgirasi%} for elephants,
 [Page3-405+ 27]
 {%naiṛṛtī%} for fear of ghosts and spirits, {%yāmyā%} for bad dreams,
 {%kauberi%} for loss of wealth, {%pārthivī%} for loss of trees and
@@ -100946,7 +100946,7 @@ tains Śītānta and with a mahāpadma in the middle where
 superior to his father as a yogi; seeing him firm in renuncia-
 tion, Vyāsa taught him the {%Bhāgavata;%} renounced worldly
 life before his upanayana. Wandered naked from place to
-place and reached the country of Kurujāngalas. When at
+place and reached the country of Kurujāṅgalas. When at
 Hāstināpura he stopped for a few minutes at the threshold
 of householders to purify their abode.<sup>1</sup> Sūta's salutation to:
 called on Parīkṣit doing {%prāyopaveśa%} and imparted know-
@@ -110220,7 +110220,7 @@ vara, Rāma broke the {%dhanus%} of Śiva. Ravished by her
 beauty Rāvaṇa took her to Laṅkā and kept her under a
 {%śiṃśupa%} tree. Recovered by Rāma. Ever devoted to her
 lord, enjoyed his company at the capital. In the sacrifices
-she gave away all her things as gifts except {%saumāngalya.%}
+she gave away all her things as gifts except {%saumāṅgalya.%}
 [Page3-605+ 27]
 Bore the water jar when Bharata carried the Pādukā.<sup>4</sup> Respect
 of, to Brāhmaṇas and elders; was sent to Vālmīki's hermitage
@@ -115578,7 +115578,7 @@ Vinatā.
 <LEND>
 
 <L>16826<pc>3-701<k1>sOdAsa<k2>sOdAsa
-{%Saudāsa%}¦ — also called Mitrasaha and Kalmāṣānghri;
+{%Saudāsa%}¦ — also called Mitrasaha and Kalmāṣāṅghri;
 (Kalmāṣapāda-{%Vā. P.%}) son of Sudāsa; wife of Madayantī,
 [Page3-702+ 29]
 became a Rākṣasa through Vasiṣṭha's curse. Once as he was
