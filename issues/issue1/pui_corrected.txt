@@ -31329,7 +31329,7 @@ Varāhakalpa.
 
 <L>4498<pc>1-569<k1>Goza<k2>Goza<h>I
 {%Ghoṣa%} (I)¦ — a son of Pulinda and father of Vajramitra;
-a Śunga king; ruled for three years.
+a Śuṅga king; ruled for three years.
 <div n="P"/>Bhā. XII. 1. 17. Br. III. 74. 153.
 <LEND>
 
@@ -56205,7 +56205,7 @@ Pīvarī.<sup>6</sup>
 
 <L>8110<pc>2-360<k1>pulinda<k2>pulinda
 {%Pulinda%}¦ — the son of Bhadraka and father of Ghoṣa of
-the Śunga dynasty.
+the Śuṅga dynasty.
 <div n="P"/>Bhā. XII. 1. 17.
 <LEND>
 
@@ -56858,8 +56858,8 @@ Dhruvasandhi.
 <L>8213<pc>2-372<k1>puzyamitra<k2>puzyamitra
 {%Puṣyamitra%}¦ — Commander-in-chief of Bṛhadratha, the
 Mauryan King; killed his own master and usurped the
-throne. He was a Śunga and his line was therefore called
-the Śungas. Father of Agnimitra;<sup>1</sup> ruled for 36 years.<sup>2</sup>
+throne. He was a Śuṅga and his line was therefore called
+the Śuṅgas. Father of Agnimitra;<sup>1</sup> ruled for 36 years.<sup>2</sup>
 <F>1) Bhā. XII. 1. 15[1], 16. Vi. IV. 24. 34.</F>
 <F>2) M. 272. 27.</F>
 <LEND>
@@ -63372,7 +63372,7 @@ Bhīṣma.<sup>2</sup>
 
 <L>9125<pc>2-492<k1>bfhadaSva<k2>bfhadaSva<h>III
 {%Bṛhadaśva%} (III)¦ — ruled for seven years; with him were
-nine kings who ruled for 137 years; the Śungas followed
+nine kings who ruled for 137 years; the Śuṅgas followed
 them,
 <div n="P"/>Vā. 99. 335.
 <LEND>
@@ -67934,7 +67934,7 @@ was Nandiyaśa; the fifth ruler of Vidiśa.
 <LEND>
 
 <L>9742<pc>2-576<k1>BUtimitra<k2>BUtimitra
-{%Bhūtimitra%}¦ — the son of Navakaṇṭhāyana, a Śunga ruled
+{%Bhūtimitra%}¦ — the son of Navakaṇṭhāyana, a Śuṅga ruled
 in Maghada for 24 years.
 <div n="P"/>Vā. 99. 345.
 <LEND>
@@ -77136,7 +77136,7 @@ daughters.
 {%Mauryas%}¦ — (Maurvyas-{%Vi. P.%}) succeeded the Nandas.
 The Purāṇa speaks of ten kings ruling for 137 (173 {%Vi. P.%})
 years. Only nine kings are mentioned from Candragupta
-to Bṛhadratha; were succeeded by the Śungas.<sup>1</sup> {%M.P.%} men-
+to Bṛhadratha; were succeeded by the Śuṅgas.<sup>1</sup> {%M.P.%} men-
 tions Śatadhanva, Bṛhadratha, Śaka and his grandson Daśa-
 ratha and his son; the first four are missing.<sup>2</sup>
 <F>1) Bhā. XII. 1. 12 and 15; Br. III. 74. 149; Vā. 99. 336; Vi. IV.
@@ -84684,7 +84684,7 @@ father of Śamkhana.
 
 <L>12103<pc>3-138<k1>vajramitra<k2>vajramitra<h>I
 {%Vajramitra%} (I)¦ — a son of Ghoṣa(vasu) and father of
-Bhāgavata;<sup>1</sup> a Śunga ruler, ruled for seven years.<sup>2</sup>
+Bhāgavata;<sup>1</sup> a Śuṅga ruler, ruled for seven years.<sup>2</sup>
 [Page3-139+ 27]
 <F>1) Bhā. XII. 1. 17-18; Vi. IV. 24. 35.</F>
 <F>2) Br. III. 74. 154.</F>
@@ -86675,7 +86675,7 @@ Vi. V. 1. 5; 3. 15-23.</F>
 <LEND>
 
 <L>12394<pc>3-175<k1>vasudeva<k2>vasudeva<h>II
-{%Vasudeva%} (II)¦ — a Kaṇva and a minister of the Śunga
+{%Vasudeva%} (II)¦ — a Kaṇva and a minister of the Śuṅga
 king Devabhūti; ({%M.%} and {%Br. P.%}-Devabhūmi); killed his
 master and became king. Father of Bhūmitra; ruled for
 five years; began the line of Kāṇvāyanas.
@@ -110015,7 +110015,7 @@ for śrāddha;<sup>5</sup> confluence of, with the sea holy.<sup>6</sup>
 
 <L>15912<pc>3-601<k1>sinDuka<k2>sinDuka
 {%Sindhuka%}¦ — an Āndhra: overcame the Kaṇva Suśarman
-(Śunga) and began the Āndhra line: ruled for 23 years.
+(Śuṅga) and began the Āndhra line: ruled for 23 years.
 <div n="P"/>Br. III. 74. 161; Vā. 99. 348-9.
 <LEND>
 
