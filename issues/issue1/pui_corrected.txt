@@ -395,7 +395,7 @@ sent at Rāma's abhiṣeka.<sup>2(a</sup> Visited by Paraśurāma, initiated
 him to the Kṛṣṇapremāmṛtam mantra which he heard
 from Śeṣa, the Nāga king. Spoke to him of the threefold
 {%bhakti%} and its characteristics.<sup>3</sup> A Brahmiṣṭha, versed in
-Vaikhānasa; a Devaṛṣi, versed in Vedic literature.<sup>4</sup>
+Vaikhānasa; a Devarṣi, versed in Vedic literature.<sup>4</sup>
 The guest of Ilvala who cooked Vātāpi for him.<sup>5</sup>
 Roaming about, he found all creatures engrossed in
 ignorance. Reaching Kāñcī, he prayed to Kāmākṣi and
@@ -1229,7 +1229,7 @@ Sudarśana (s.v.) to become a reptile for mocking at him.<sup>16</sup>
 Performed a sacrifice when Śarayāti explained on the rituals
 of the second day.<sup>17</sup> Stood near the wheel of the chariot
 Tripurāri in defence; served Prayāga and lived in Benares;
-a {%mahaṛṣi%} and {%mantrakṛt.%}<sup>18</sup>
+a {%maharṣi%} and {%mantrakṛt.%}<sup>18</sup>
 <F>1) Bhā. III. 12. 22, 24; Br. II. 32. 96; M. 3. 6; 5. 14; 15. 16.</F>
 <F>2) Bhā. III. 24. 22; Vi. I. 7. 5, 7; 15. 136.</F>
 <F>3) Bhā. IV. 1. 34-5;
@@ -1290,7 +1290,7 @@ Married Surūpā, daughter of Marīci and had ten sons.<sup>2</sup>
 <L>159<pc>1-024<k1>aNgiras<k2>aNgiras<h>VI
 {%Aṅgiras%} (VI)¦ — A son of Kaśyapa; married Smṛti and
 had two sons and four daughters;<sup>1</sup> flourished in Svāyam-
-bhuva antara; a Devaṛṣi.<sup>2</sup>
+bhuva antara; a Devarṣi.<sup>2</sup>
 <F>1) Br. II. 11. 17; 9. 55; Vā. 28. 14.</F>
 <F>2) Ib. 31. 16; 30. 86;
 Br. II. 11. 17; 13. 53.</F>
@@ -1411,7 +1411,7 @@ offering, all to be done.
 <LEND>
 
 <L>179<pc>1-026<k1>acala<k2>acala<h>IV
-{%Acala%} (IV)¦ — a {%devaṛṣi.%}
+{%Acala%} (IV)¦ — a {%devarṣi.%}
 <div n="P"/>Vā. 61. 84.
 <LEND>
 
@@ -2329,7 +2329,7 @@ Vi. V. 1. 17.
 {%Atri%} (V)¦ — born in {%Vāruṇī yajña%} from Agni's flames;<sup>1</sup>
 Had ten beautiful and chaste wives, all daughters of Bha-
 drāśva and Ghṛtācī. His ten sons were all known as Ātre-
-yas,<sup>2</sup> also Svastyātreyas; a {%mahaṛṣi%} and a {%mantrakṛt.%} Tra
+yas,<sup>2</sup> also Svastyātreyas; a {%maharṣi%} and a {%mantrakṛt.%} Tra
 yārṣeya with Vasiṣṭha and Jātūkarṇa: a contemporary of
 Vṛddha Garga.<sup>3</sup> One of the 18 writers on architecture.
 Has a place in the {%Viśvacakra.%}<sup>4</sup>
@@ -3372,7 +3372,7 @@ this line.
 
 <L>464<pc>1-060<k1>anuvaha<k2>anuvaha
 {%Anuvaha%}¦ — the chief of the 6th {%vātaskandha,%} situated
-between the planets and the Saptaṛṣimaṇḍala.
+between the planets and the Saptarṣimaṇḍala.
 <div n="P"/>Br. III. 5. 87.
 <LEND>
 
@@ -6398,7 +6398,7 @@ Vedic path and take to other non-Vedic doctrines.
 <LEND>
 
 <L>897<pc>1-114<k1>alaka<k2>alaka
-{%Alaka%}¦ — a Śrutaṛṣi.
+{%Alaka%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 4.
 <LEND>
 
@@ -9838,7 +9838,7 @@ whom came the {%Ālambeya gaṇa.%}
 <LEND>
 
 <L>1414<pc>1-175<k1>Alambi<k2>Alambi
-{%Ālambi%}¦ — a Śrutaṛṣi: the chief author of the {%Yajurveda%}
+{%Ālambi%}¦ — a Śrutarṣi: the chief author of the {%Yajurveda%}
 of the Eastern recension.
 <div n="P"/>Br. II. 33. 6.
 <LEND>
@@ -10148,7 +10148,7 @@ dyumna. (Asuri-Burnouf).
 
 <L>1465<pc>1-180<k1>AsurI<k2>AsurI<h>IV
 {%Āsurī%} (IV)¦ — the chief author of the recension of the
-{%Yajur Veda%} of the middle country;<sup>1</sup> a Brahmaṛṣi.<sup>2</sup>
+{%Yajur Veda%} of the middle country;<sup>1</sup> a Brahmarṣi.<sup>2</sup>
 <F>1) Br. II. 35. 12.</F>
 <F>2) M. 102. 18.</F>
 <LEND>
@@ -12015,7 +12015,7 @@ Vāmana elephants.<sup>1</sup> The people were Utkalas.<sup>2</sup>
 <LEND>
 
 <L>1699<pc>1-215<k1>uttaNka<k2>uttaNka<h>I
-{%Uttaṅka%} (I)¦ — a Brahmaṛṣi residing on the Meru slopes;
+{%Uttaṅka%} (I)¦ — a Brahmarṣi residing on the Meru slopes;
 appealed to Bṛhadaśva of Ikṣvāku line to vanquish Dhundhu
 (son of Madhu) residing near his hermitage and causing
 trouble to his peaceful avocations: Kuvalāśva at the bidding
@@ -13471,7 +13471,7 @@ three sons.
 
 <L>1915<pc>1-242<k1>urukzava<k2>urukzava
 {%Urukṣavas%}¦ — the Kṣatriya sons of Urukṣava, who be-
-came Brāhmaṇas, and the best mahaṛṣis among Kāvyas.
+came Brāhmaṇas, and the best maharṣis among Kāvyas.
 <div n="P"/>M. 49. 40.
 <LEND>
 
@@ -14473,7 +14473,7 @@ rāri.<sup>2</sup> Present with {%pada%} and {%krama%} in {%Vāruṇi Yajña.%}<
 <LEND>
 
 <L>2075<pc>1-261<k1>fca<k2>fca<h>I
-{%Ṛca%} (I)¦ — the Brahmaṛṣis superior to the clan of Praty-
+{%Ṛca%} (I)¦ — the Brahmarṣis superior to the clan of Praty-
 aṅgirasa; one learned in {%Rk%} becomes versed in the Vedas.
 <div n="P"/>Vā. 66. 78.
 <LEND>
@@ -15086,7 +15086,7 @@ Had five daughters after whom came the {%Maina gaṇa.%}
 observation, by accident and by past and future events.
 Five groups are distinguished: {%avyaktātmā, mahānātmā,%}
 (also {%mahātmā%}), {%ahamkārātmā, bhūtātmā%} and {%Indriyātmā;%}
-also {%Brahmaṛṣis, devaṛṣis, Rājarṣis, mahaṛṣis, saptaṛṣis,%}
+also {%Brahmarṣis, devarṣis, Rājarṣis, maharṣis, saptarṣis,%}
 {%Ṛṣikas%} — all {%mantravits.%}<sup>1</sup>
 <div n="P"/>Milked the cow Earth when Soma acted as calf; Bṛhas-
 pati was the milkman, the vessel being the Vedas and the
@@ -15104,8 +15104,8 @@ epoch and freed from it in the Vaivasvata.<sup>3</sup>
 88,000; live in the southern path of the sun till the end of the
 world;<sup>4</sup> quality of immanence in them; kinds of;<sup>5</sup> place of
 8000 sages.<sup>6</sup>
-<div n="P"/>{%Ṛṣi — Paramaṛṣi, Ṛṣitā, Mahaṛṣis, Ṛṣikas, Ṛṣiputrakas,%}
-{%Śrutaṛṣis%} and {%Ṛṣijāti,%} ety. of.
+<div n="P"/>{%Ṛṣi — Paramarṣi, Ṛṣitā, Maharṣis, Ṛṣikas, Ṛṣiputrakas,%}
+{%Śrutarṣis%} and {%Ṛṣijāti,%} ety. of.
 <div n="P"/>Vā. 59. 79-87.
 <F>4) M. 124. 98-100, 102-4.</F>
 <F>5) Vā. 5. 35; 49. 126; 59. 63.</F>
@@ -15187,7 +15187,7 @@ texts by introducing changes.<sup>2</sup>
 <LEND>
 
 <L>2181<pc>1-273<k1>fziprakfti<k2>fziprakfti
-{%Ṛṣiprakṛtis%}¦ — three, {%Brahmaṛṣi, Devaṛṣi%} and {%Rājarṣi.%}
+{%Ṛṣiprakṛtis%}¦ — three, {%Brahmarṣi, Devarṣi%} and {%Rājarṣi.%}
 <div n="P"/>Vā. 61. 80; Vi. III. 6. 29.
 <LEND>
 [Page1-274+ 31]
@@ -16140,7 +16140,7 @@ performance; here grow all trees which could be used for
 <LEND>
 
 <L>2326<pc>1-292<k1>kaMkamudga<k2>kaMkamudga
-{%Kaṃkamudga%}¦ — a Śrutaṛṣi.
+{%Kaṃkamudga%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 10.
 <LEND>
 
@@ -16620,7 +16620,7 @@ Medhātithi.
 <LEND>
 
 <L>2388<pc>1-301<k1>kaRWakAla<k2>kaRWakAla
-{%Kaṇṭhakāla%}¦ — a {%Śrutaṛṣi.%}
+{%Kaṇṭhakāla%}¦ — a {%Śrutarṣi.%}
 <div n="P"/>Br. II. 33. 5.
 <LEND>
 
@@ -17515,7 +17515,7 @@ Bhā. VIII. 21. 4.</F>
 <LEND>
 
 <L>2531<pc>1-317<k1>kamalApati<k2>kamalApati<h>I
-{%Kamalāpati%} (I)¦ — a Śrutaṛṣi.
+{%Kamalāpati%} (I)¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 6.
 <LEND>
 
@@ -18099,7 +18099,7 @@ penance.
 <L>2623<pc>1-328<k1>kardama<k2>kardama<h>II
 {%Kardama%} (II)¦ — a son of Pulaha and Kṣamā; married
 Sruti; son Śaṅkhapada and daughter Kāmyā; a Prajāpati; a
-sage by {%tapas%} and a devaṛṣi;<sup>1</sup> a pravara.<sup>2</sup>
+sage by {%tapas%} and a devarṣi;<sup>1</sup> a pravara.<sup>2</sup>
 <F>1) Br. I. 1. 65; II. 11. 23 and 31; 32. 99; 35. 94; III. 8. 18;
 10. 93; M. 145. 93; Vā. 1. 80; 3. 3; 28. 25-29; 33. 7; 38. 7; 59.
 91; 61. 84; 65. 53; Vi. I. 10. 10.</F>
@@ -18419,7 +18419,7 @@ Removed by hearing the story of Kṛṣṇa, as the Ṛṣis did in
 the Naimiṣa forest. The source of unrighteousness.<sup>1</sup> Form
 of Hari worshipped in.<sup>2</sup> Reflections on the conduct of
 castes and observance of {%dharma%} by persons. {%Kali%} becomes
-{%Kṛta%} after the {%avatār%} of Kalki. When the Saptaṛṣis traverse
+{%Kṛta%} after the {%avatār%} of Kalki. When the Saptarṣis traverse
 Maghas, and on the day when Kṛṣṇa left the earth for
 Heaven then began Kali of 1200 divine years. Grows in
 strength commencing with Nanda. The actual beginning
@@ -18860,7 +18860,7 @@ tions.<sup>6</sup> A sage of the Vaivasvata epoch. His descendants.<sup>7</sup>
 Father of Vivasvat.<sup>8</sup> Awarded Madhyadeśā by Paraśu-
 rāma.<sup>9</sup> Visited with pupils Bhīṣma on his death-bed;<sup>10</sup> goes
 round Dhruva.<sup>11</sup> See {%Diti, Indra.%}
-<div n="P"/>A Brahmavādin and a Prajāpati. A Devaṛṣi. His sons
+<div n="P"/>A Brahmavādin and a Prajāpati. A Devarṣi. His sons
 were Nārada and Parvata, as also Ādityas, Maruts and
 Rudras.<sup>12</sup> An {%amśa%} of Brahmā.<sup>13</sup>
 <div n="P"/>When Dakṣa grew angry on account of his daughter
@@ -21530,7 +21530,7 @@ which the Ganges flows.<sup>2</sup>
 <LEND>
 
 <L>3120<pc>1-388<k1>kuRqaka<k2>kuRqaka<h>I
-{%Kuṇḍaka%} (I)¦ — a Śrutaṛṣi.
+{%Kuṇḍaka%} (I)¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 10.
 <LEND>
 
@@ -23003,7 +23003,7 @@ born his son Gādhi by name. See {%Kusastamba.%}
 <LEND>
 
 <L>3331<pc>1-415<k1>kuSika<k2>kuSika<h>II
-{%Kuśika%} (II)¦ — a great sage {%(Vipraṛṣi).%}
+{%Kuśika%} (II)¦ — a great sage {%(Viprarṣi).%}
 <div n="P"/>Vā. 1. 157.
 <LEND>
 
@@ -23155,7 +23155,7 @@ return from {%tapas.%}
 <LEND>
 
 <L>3359<pc>1-418<k1>kusumi<k2>kusumi
-{%Kusumi%}¦ — a Śrutaṛṣi: a pupil of Pauṣyañji.
+{%Kusumi%}¦ — a Śrutarṣi: a pupil of Pauṣyañji.
 <div n="P"/>Br. II. 33. 8; 35. 40.
 <LEND>
 
@@ -26084,7 +26084,7 @@ III. 7. 355; 66. 59; Vā. 91. 88.</F>
 <LEND>
 
 <L>3731<pc>1-475<k1>kOSilya<k2>kOSilya<h>I
-{%Kauśilya%} (I)¦ — a Śrutaṛṣi.
+{%Kauśilya%} (I)¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 8.
 <LEND>
 
@@ -26094,7 +26094,7 @@ III. 7. 355; 66. 59; Vā. 91. 88.</F>
 <LEND>
 
 <L>3733<pc>1-475<k1>kOSIti<k2>kOSIti
-{%Kauśīti%}¦ — a Śrutaṛṣi.
+{%Kauśīti%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 10.
 <LEND>
 
@@ -26347,7 +26347,7 @@ group of devas.
 <LEND>
 
 <L>3774<pc>1-480<k1>kraMTala<k2>kraMTala
-{%Kraṃthala%}¦ — a Śrutaṛṣi.
+{%Kraṃthala%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 11.
 <LEND>
 
@@ -35438,7 +35438,7 @@ Jaṣaketu, Makaradhvaja.
 <L>5115<pc>1-644<k1>jAjali<k2>jAjali<h>I
 {%Jājali%} (I)¦ — a disciple of Pathya. He is said to have
 attained {%siddhi%} at a certain place on the western sea. This
-spot the Pracetasas chose for their {%siddhi;%}<sup>1</sup> a Śrutaṛṣi.<sup>2</sup>
+spot the Pracetasas chose for their {%siddhi;%}<sup>1</sup> a Śrutarṣi.<sup>2</sup>
 <F>1) Bhā. XII. 7. 2; IV. 31. 2; Vā. 61. 52.</F>
 <F>2) Br. II. 33. 2; 35. 59;
 III. 36. 5.</F>
@@ -35952,7 +35952,7 @@ before he left for Heaven.
 <L>5197<pc>1-653<k1>jEmini<k2>jEmini<h>I
 {%Jaimini%} (I)¦ — a pupil of Vyāsa in charge of Sāma Veda
 (Chandogasamhitā). Was invited for Yudhiṣṭhira's Rāja-
-sūya. His disciple was Hiraṇyanābha;<sup>1</sup> a Śrutaṛṣi who
+sūya. His disciple was Hiraṇyanābha;<sup>1</sup> a Śrutarṣi who
 taught his son Sumantu;<sup>2</sup> an authority on Yoga.<sup>3</sup>
 <F>1) Bhā. I. 4. 21; IX. 12. 3; X. 74. 8; XII. 6. 53 and 75. Vā. 60.
 13, 18; 61. 26; Vi. III. 4. 9.</F>
@@ -39631,7 +39631,7 @@ Moon god with consumption {%(yakṣma).%}<sup>14</sup> Wondered at
 Mārkaṇḍeya's vrata;<sup>15</sup> had not yet seen the Supreme Being;
 identified with Hari.<sup>16</sup>
 <div n="P"/>Drank of the Saubhāgya from the thigh of Hari and
-brought forth a daughter Satī married by Śiva;<sup>17</sup> a Mahaṛṣi;
+brought forth a daughter Satī married by Śiva;<sup>17</sup> a Maharṣi;
 heard the Purāṇa from Brahmā along with other sages;<sup>18</sup>
 son of Brahmā, married Ūrjā.<sup>19</sup>
 <F>1) Bhā. III. 12. 22-3; Ib. II. 6. 42; 7. 6; Br. II. 32. 96; 36. 84;
@@ -42604,7 +42604,7 @@ he expounded the Sātvata Tantra.
 [Page2-113+ 37]
 
 <L>6174<pc>2-113<k1>devafzi<k2>devafzi
-{%Devaṛṣis%}¦ — a list of;<sup>1</sup> established in the Devaloka.<sup>2</sup>
+{%Devarṣis%}¦ — a list of;<sup>1</sup> established in the Devaloka.<sup>2</sup>
 <F>1) Vā. 61. 83-85.</F>
 <F>2) Br. II. 35. 89-98; Vā. 61. 80, 88.</F>
 <LEND>
@@ -43075,7 +43075,7 @@ when Arjuna carried off Subhadrā.
 <L>6245<pc>2-121<k1>devayAna<k2>devayAna
 {%Devayāna%}¦ — as opposed to Pitṛyāna; the north road of
 the sun, situated to the north of Nāgavīthi and south of
-the Saptaṛṣiś; here live Siddhas and they have no rebirths;<sup>1</sup>
+the Saptarṣiś; here live Siddhas and they have no rebirths;<sup>1</sup>
 reached through the {%Pingala%} passage (on the right side of
 the body);<sup>2</sup> four roads to and the door of the sun leading to
 them;<sup>3</sup> Śibi's lavish gifts to attain Devayāna.<sup>4</sup>
@@ -43299,7 +43299,7 @@ ble for śrāddhā purposes.
 <L>6272<pc>2-125<k1>devaloka<k2>devaloka
 {%Devalokas%}¦ — seven in number — Bhū, Bhuva, Sva, Maha,
 Jana, Tapa and Satya; sacred to Indrāṇī; residences of
-Devaṛṣis.
+Devarṣis.
 <div n="P"/>M. 13. 52; 61. 1-2; Vā. 61. 88.
 <LEND>
 
@@ -45156,7 +45156,7 @@ Uśanas.
 <LEND>
 
 <L>6532<pc>2-160<k1>Darma<k2>Darma<h>XI
-{%Dharma%} (XI)¦ — a Devaṛṣi and the 14th Vedavyāsa;
+{%Dharma%} (XI)¦ — a Devarṣi and the 14th Vedavyāsa;
 wife Lakṣmi and daughter Sūnṛtā; married ten daughters
 of Dakṣa; father of 12 Sādhyas, 8 Vasavas, 10 Viśvedevas,
 of Maruts, of Bhānus, of Muhūrtas and so on. Father of
@@ -45305,7 +45305,7 @@ Narmadā māhatmya from Mārkaṇḍeya.
 <LEND>
 
 <L>6556<pc>2-162<k1>Darmaputra<k2>Darmaputra<h>III
-{%Dharmaputra%} (III)¦ — a Devaṛṣi.
+{%Dharmaputra%} (III)¦ — a Devarṣi.
 <div n="P"/>Vā. 61. 83.
 <LEND>
 [Page2-163+ 29]
@@ -46667,7 +46667,7 @@ Harī, the power of whose yoga he knew.<sup>4</sup>
 sang his praise.
 <div n="P"/>The Pole-star: earned a place in Viṣṇupada: at the end
 of the tail of Siśumāra:<sup>5</sup> with Indra, Agni and other deities,
-and in front of the Saptaṛṣis:<sup>6</sup> Helps the planets in their
+and in front of the Saptarṣis:<sup>6</sup> Helps the planets in their
 movements: responsible for the days, nights and seasons of
 the year: aids in the formation of clouds and fall of rains:<sup>7</sup>
 the year of Dhruva: In praise of.<sup>8</sup>
@@ -47159,7 +47159,7 @@ X. 52. 32-35.</F>
 <L>6832<pc>2-196<k1>nanda<k2>nanda<h>V
 {%Nanda%} (V)¦ — a king of the Nanda dynasty;<sup>1</sup> from
 Parīkṣit to Nanda the period was 1115 years; At the time
-of Nanda the Saptaṛṣis moved from Magha to Pūrvāṣāḍha.<sup>2</sup>
+of Nanda the Saptarṣis moved from Magha to Pūrvāṣāḍha.<sup>2</sup>
 <F>1) Bhā. XII. 1. 9.</F>
 <F>2) Ib. XII. 2. 26-7, 32.</F>
 <LEND>
@@ -47760,7 +47760,7 @@ Kubera's chariot.
 <LEND>
 
 <L>6926<pc>2-206<k1>nara<k2>nara<h>XI
-{%Nara%} (XI)¦ — a devaṛṣi.
+{%Nara%} (XI)¦ — a devarṣi.
 <div n="P"/>Vā. 61. 83.
 <LEND>
 
@@ -48783,7 +48783,7 @@ of Sānkhya and yoga; did not comprehend Hari's {%māyā;%}
 faith in Kriyayoga which he expounded; in previous births,
 he was a Gandharva by name Upabarhaṇa and a son of a
 dāsi.<sup>1</sup>
-<div n="P"/>A devaṛṣi holding the {%vīṇā%} in his hand; called on Vyāsa
+<div n="P"/>A devarṣi holding the {%vīṇā%} in his hand; called on Vyāsa
 and complimented him on having produced the {%Bhārata%} and
 asked him why he looked uneasy; when he admitted his
 inability to explain the cause, the sage treated him to a dis-
@@ -49144,7 +49144,7 @@ the Hari of the Svārociṣa epoch.
 <LEND>
 
 <L>7086<pc>2-232<k1>nArAyaRa<k2>nArAyaRa<h>VI
-{%Nārāyaṇa%} (VI)¦ — a devaṛṣi.
+{%Nārāyaṇa%} (VI)¦ — a devarṣi.
 <div n="P"/>Vā. 61. 83.
 <LEND>
 [Page2-233+ 31]
@@ -51048,7 +51048,7 @@ Nirṛti in Śrāddha.<sup>2</sup>
 <LEND>
 
 <L>7376<pc>2-267<k1>nEla<k2>nEla
-{%Naila%}¦ — a Śrutaṛṣi.
+{%Naila%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 4.
 <LEND>
 
@@ -51211,7 +51211,7 @@ and Kṛṣṇa (dark).
 <LEND>
 
 <L>7399<pc>2-270<k1>pakzaganta<k2>pakzaganta
-{%Pakṣaganta%}¦ — a Śrutaṛṣi.
+{%Pakṣaganta%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 4.
 <LEND>
 
@@ -51560,7 +51560,7 @@ Madana.
 <LEND>
 
 <L>7453<pc>2-276<k1>paYcaSiKa<k2>paYcaSiKa<h>I
-{%Pañcaśikha%} (I)¦ — a Brahmaṛṣi<sup>1</sup> of the eighth dvāpara.<sup>2</sup>
+{%Pañcaśikha%} (I)¦ — a Brahmarṣi<sup>1</sup> of the eighth dvāpara.<sup>2</sup>
 <F>1) M. 102. 18.</F>
 <F>2) Vā. 23. 141.</F>
 <LEND>
@@ -52081,7 +52081,7 @@ lowed Rāma in his expedition to Lankā.<sup>2</sup>
 <LEND>
 
 <L>7541<pc>2-286<k1>pannaga<k2>pannaga
-{%Pannaga%}¦ — a Śrutaṛṣi.
+{%Pannaga%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 4.
 <LEND>
 
@@ -52258,7 +52258,7 @@ culable.<sup>3</sup>
 <LEND>
 
 <L>7570<pc>2-289<k1>paramafzi<k2>paramafzi
-{%Paramaṛṣi%}¦ — etymology of.
+{%Paramarṣi%}¦ — etymology of.
 <div n="P"/>M. 145. 82.
 <LEND>
 
@@ -52508,7 +52508,7 @@ hell and of other sins.<sup>2</sup>
 {%Parāśara%} (I)¦ — the son of Śakti and Adṛśyantī; wife
 Kālyā (Satyavatī, Acchoda Matsya Gandhi) and son
 Kṛṣṇadvaipāyana;<sup>1</sup> a Ṛṣika became sage by satya;<sup>2</sup> a pupil of
-Yājñavalkya;<sup>3</sup> of Bāṣkala, a Vāsiṣṭha;<sup>4</sup> a Śrutaṛṣi;<sup>5</sup> a Veda-
+Yājñavalkya;<sup>3</sup> of Bāṣkala, a Vāsiṣṭha;<sup>4</sup> a Śrutarṣi;<sup>5</sup> a Veda-
 vyāsa<sup>6</sup> of the 26th dvāpara; heard the {%Br. Purāṇa (Vāyu P.)%}
 from Śakti when in embryo and narrated it to Jātu — 
 karṇi;<sup>7</sup> praised Śiva, out to destroy Tripura;<sup>8</sup> invited for the
@@ -52944,7 +52944,7 @@ festivals on ordinary days for gain.
 
 <L>7666<pc>2-301<k1>parvata<k2>parvata<h>II
 {%Parvata%} (II)¦ — a son of Kaśyapa; brother of Nārada and
-a devaṛṣi;<sup>1</sup> a sage born in Nārada hill in Plakṣa.<sup>2</sup>
+a devarṣi;<sup>1</sup> a sage born in Nārada hill in Plakṣa.<sup>2</sup>
 <F>1) Br. II. 19. 9; Vā. 61. 85; 70. 79.</F>
 <F>2) Br. II. 35. 95; III. 7. 27;
 8. 86; Vā. 30. 86; 49. 8.</F>
@@ -53029,7 +53029,7 @@ a King.
 <LEND>
 
 <L>7679<pc>2-303<k1>palARqu<k2>palARqu
-{%Palāṇḍu%}¦ — a Śrutaṛṣi.
+{%Palāṇḍu%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 6.
 <LEND>
 
@@ -56110,10 +56110,10 @@ son, Bālaka on the throne.
 {%Pulastya%}¦ — a mind-born son of Brahmā born of his
 ears in Vāruṇī {%yajna;%} married Kardama's daughter Havir-
 bhū; father of Agastya (Dhrāgni in another birth) and
-Viśravas;<sup>1</sup> a Mahaṛṣi; sage presiding over the month of
+Viśravas;<sup>1</sup> a Maharṣi; sage presiding over the month of
 Madhu;<sup>2</sup> āśrama of; near Pulaha's;<sup>3</sup> requested Parāśara to
 impart Bhāgavata to Maitreya;<sup>4</sup> not seen the Supreme
-Being;<sup>5</sup> came to Syamantapañcaka to see Kṛṣṇa;<sup>6</sup> a Devaṛṣi
+Being;<sup>5</sup> came to Syamantapañcaka to see Kṛṣṇa;<sup>6</sup> a Devarṣi
 of Dāruvana;<sup>7</sup> married the twelve daughters of Krodha,
 whose sons were {%Uragas%} and {%Nagas;%}<sup>8</sup> father of Kubera and
 Rāvaṇa and appealed to Kārtavīrya Arjuna to release
@@ -56163,7 +56163,7 @@ II. 11. 26; 13. 53; Vā. 31. 16.</F>
 born of his navel; married Kardama's daughter, Gatī and
 had three sons; born from the Keśa of fire to which
 Brahmā's śukram was offered; presiding over the month
-of Mādhava;<sup>1</sup> a Mahaṛṣi; his hermitage, sacred to Hari;
+of Mādhava;<sup>1</sup> a Maharṣi; his hermitage, sacred to Hari;
 visited by Balarāma; Bharata spent his last days in it;<sup>2</sup> had
 not realised the Supreme Being;<sup>3</sup> his descendants became
 Ājyapa manes;<sup>4</sup> praised Śiva out to destroy Tripura;<sup>5</sup> gave
@@ -56498,7 +56498,7 @@ mental in putting an end to them also.
 
 <L>8152<pc>2-365<k1>puzkari<k2>puzkari
 {%Puṣkari%}¦ — the son of Urukṣava and Viśālā, became a
-Brāhmaṇa, and one of the three best mahaṛṣis among the
+Brāhmaṇa, and one of the three best maharṣis among the
 Kāvyas.
 <div n="P"/>M. 49. 39.
 <LEND>
@@ -57884,7 +57884,7 @@ the latter with {%rajas.%}
 {%Paila%} (I)¦ — a pupil of Vyāsa, Parāśarya and in charge
 of the Ṛg Veda;<sup>1</sup> was taught Bahvṛca (Ṛg Veda). He taught
 it to Indrapramati and to Bāṣkala;<sup>2</sup> was invited for the Rāja-
-sūya of Yudhiṣṭhira.<sup>3</sup> A Śrutaṛṣi.<sup>4</sup> He took the floating Ṛks
+sūya of Yudhiṣṭhira.<sup>3</sup> A Śrutarṣi.<sup>4</sup> He took the floating Ṛks
 and classified them into two parts each of which was given
 to two disciples, Indrapramati and Bāṣkala.<sup>5</sup>
 <F>1) Bhā. I. 4. 21; Vā. 60. 13; Vi. III. 4. 8.</F>
@@ -58369,7 +58369,7 @@ in tank ritual.
 {%Pauṣyañji%} (II)¦ — (Pauṣpinji-{%Vi. P.%}) a disciple of
 Sukarma among the disciples of the North given by Indra;
 taught the five hundred Samhitas; Langākṣi and Mangali
-were some of his disciples;<sup>1</sup> a Srutaṛṣi and the chief among
+were some of his disciples;<sup>1</sup> a Srutarṣi and the chief among
 the Sāmagas;<sup>2</sup> his disciples;<sup>3</sup> Udicya Samagas.
 [Page2-400+ 31]
 <F>1) Bhā. XII. 6. 77 and 79; Vā. 61. 33.</F>
@@ -58661,7 +58661,7 @@ arms.
 <LEND>
 
 <L>8477<pc>2-405<k1>prajAhetava<k2>prajAhetava
-{%Prajāhetava%}¦ — the Saptaṛṣis as Dārāgṇihotrins.
+{%Prajāhetava%}¦ — the Saptarṣis as Dārāgṇihotrins.
 <div n="P"/>Vā. 61. 100.
 <LEND>
 
@@ -59244,7 +59244,7 @@ other.
 <LEND>
 
 <L>8561<pc>2-415<k1>pratyUza<k2>pratyUza<h>I
-{%Pratyūṣa%} (I)¦ — a Devaṛṣi.
+{%Pratyūṣa%} (I)¦ — a Devarṣi.
 <div n="P"/>Br. II. 35. 92.
 <LEND>
 
@@ -62417,7 +62417,7 @@ pakṣa is day and Śuklapakṣa is night.
 <LEND>
 
 <L>8983<pc>2-475<k1>bahvfca<k2>bahvfca
-{%Bahvṛca%}¦ — a Śrutaṛṣi.
+{%Bahvṛca%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 2.
 <LEND>
 
@@ -62694,7 +62694,7 @@ pupils.
 <LEND>
 
 <L>9025<pc>2-480<k1>bAzkali<k2>bAzkali<h>II
-{%Bāṣkali%} (II)¦ — an Aṅgirasa and a Mantrakṛt; a Śrutaṛṣi;
+{%Bāṣkali%} (II)¦ — an Aṅgirasa and a Mantrakṛt; a Śrutarṣi;
 a pupil of Paiḷa in charge of the Ṛg Veda; he arranged it
 into four Samhitās; his disciples were Bodhya, Agnimāṭhara,
 Parāśara and Yājñavalkya.
@@ -64001,8 +64001,8 @@ charge of the first Ṛk Śākha.
 <LEND>
 
 <L>9219<pc>2-503<k1>brahmafzi<k2>brahmafzi
-{%Brahmaṛṣis%}¦ — the seven chief sages of whom Bhṛgu
-was the chief;<sup>1</sup> Vālakhilyas are Brahmaṛṣis;<sup>2</sup> heard the {%Vedas%}
+{%Brahmarṣis%}¦ — the seven chief sages of whom Bhṛgu
+was the chief;<sup>1</sup> Vālakhilyas are Brahmarṣis;<sup>2</sup> heard the {%Vedas%}
 from Brahmā;<sup>3</sup> obtained Sāyujya at Benares;<sup>4</sup> ety. see
 Brahmā;<sup>5</sup> got established in the Brahmaloka.<sup>6</sup>
 [Page2-504+ 32]
@@ -64305,7 +64305,7 @@ zas.
 <LEND>
 
 <L>9262<pc>2-509<k1>brahmabala<k2>brahmabala<h>I
-{%Brahmabala%} (I)¦ — a Śrutaṛṣi: a pupil of Devadarśa;<sup>1</sup> an
+{%Brahmabala%} (I)¦ — a Śrutarṣi: a pupil of Devadarśa;<sup>1</sup> an
 Ekārṣeya.<sup>2</sup>
 <F>1) Br. II. 33. 10; 35. 57.</F>
 <F>2) M. 200. 6.</F>
@@ -64368,7 +64368,7 @@ to;<sup>3</sup> Viraja became Ekārṣṭaka here;<sup>4</sup> hearing of the le
 of Brahmadatta takes one to;<sup>5</sup> Yayāti went from Devaloka
 to;<sup>6</sup> the giver of Hiraṇyagarbha enjoys the world of;<sup>7</sup> the
 giver of the {%Brahmavaivarta Purāṇa%} on the Full Moon day
-of Māgha reaches this;<sup>8</sup> residence of the Brahmaṛṣis;<sup>9</sup> fire
+of Māgha reaches this;<sup>8</sup> residence of the Brahmarṣis;<sup>9</sup> fire
 reduced to ashes would not become fire again; so also the
 person reaching this loka would not have rebirth: {%advaita%}
 {%mokṣa;%}<sup>10</sup> Brahmā, Purohita at;<sup>11</sup> the last place where Vaitā-
@@ -64493,7 +64493,7 @@ Janaloka.<sup>2</sup>
 
 <L>9288<pc>2-512<k1>brahmasatram<k2>brahmasatram
 {%Brahmasatram%}¦ — White, eternal, never failing, all per-
-vading (Vedānta);<sup>1</sup> enjoyed by Devaṛṣis.<sup>2</sup>
+vading (Vedānta);<sup>1</sup> enjoyed by Devarṣis.<sup>2</sup>
 <F>1) Vā. 101. 86.</F>
 <F>2) Br. IV. 2. 84.</F>
 <LEND>
@@ -66865,7 +66865,7 @@ with him;<sup>1</sup> did propaganda for the spread of {%varṇa dharma.%}<sup>2
 <LEND>
 
 <L>9592<pc>2-556<k1>BArgava<k2>BArgava<h>II
-{%Bhārgava%} (II)¦ — a Śrutaṛṣi;<sup>1</sup> got wealth by meditating
+{%Bhārgava%} (II)¦ — a Śrutarṣi;<sup>1</sup> got wealth by meditating
 on the 108 names of the Devī;<sup>2</sup> made the 16 gifts;<sup>3</sup> got siddhi
 at Benares.<sup>4</sup>
 <F>1) Br. II. 24. 89, 104; 33. 2.</F>
@@ -68112,7 +68112,7 @@ sons of Brahmā; born of his skin; married Kardama's daugh-
 ter Khyātī and had two sons and a daughter; married the
 daughter of Puloma and brought forth twelve sons besides
 Cyavana and Ānuvan; married two daughters of Dakṣa; a
-sage of the Cākṣuṣa epoch;<sup>1</sup> a Mahaṛṣi; a Mantrakṛt; a Pra-
+sage of the Cākṣuṣa epoch;<sup>1</sup> a Maharṣi; a Mantrakṛt; a Pra-
 vara; accompanied Brahmā going to Hiraṇyakaśipu; was
 present at the anointing of Vāmana Hari and praised the
 Lord and Aditi; learnt the {%kriyayoga%} from Brahmā;<sup>2</sup> and the
@@ -69566,7 +69566,7 @@ are distinguished.
 <LEND>
 
 <L>9982<pc>2-605<k1>madagala<k2>madagala
-{%Madagala%}¦ — a Śrutaṛṣi.
+{%Madagala%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 11.
 <LEND>
 
@@ -71859,7 +71859,7 @@ II. 7. 13.</F>
 <LEND>
 
 <L>10296<pc>2-647<k1>mahafzi<k2>mahafzi
-{%Mahaṛṣis%}¦ — mind-born sons of Brahmā, seven in num-
+{%Maharṣis%}¦ — mind-born sons of Brahmā, seven in num-
 ber, like Bhṛgu, Marīci, and Aṅgiras;<sup>1</sup> ety. from root {%ṛṣi%}
 {%gatau%} — meaning knowledge; great {%jñānins;%}<sup>2</sup> their role in
 creation.<sup>3</sup>
@@ -73478,7 +73478,7 @@ married woman.
 <LEND>
 
 <L>10554<pc>2-675<k1>mAWara<k2>mAWara<h>I
-{%Māṭhara%} (I)¦ — a Śrutaṛṣi.
+{%Māṭhara%} (I)¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 3.
 <LEND>
 [Page2-676+ 25]
@@ -73527,7 +73527,7 @@ who cursed Yama to be born as Vidura.<sup>2</sup>
 <LEND>
 
 <L>10563<pc>2-676<k1>mARquki<k2>mARquki
-{%Māṇḍuki%}¦ — a Śrutaṛṣi; a pupil of Indrapramati in charge
+{%Māṇḍuki%}¦ — a Śrutarṣi; a pupil of Indrapramati in charge
 of a part of the Ṛg Veda.
 <div n="P"/>Br. II. 33. 3; 34. 28.
 <LEND>
@@ -74975,7 +74975,7 @@ Khāṇḍikya.
 <LEND>
 
 <L>10771<pc>2-703<k1>mitra<k2>mitra<h>I
-{%Mitra%} (I)¦ — a Brahmaṛṣi, and one of the seven sons of
+{%Mitra%} (I)¦ — a Brahmarṣi, and one of the seven sons of
 Vasiṣṭha.
 <div n="P"/>Bhā. IV. 1. 41.
 <LEND>
@@ -78582,7 +78582,7 @@ Devarāta (Brahmarāta {%Vi. P.%}) quarrelled with his guru and
 vomited the {%Yajus%} (s.v.) he learnt; propitiated the Sun god
 to get {%Chandas%} unknown to his guru. Pleased with him the
 Sun god instructed him in Vājasenyastas (Yajus ayātayāma,
-{%Vi. P.%}); in the form of a horse;<sup>1</sup> a Śrutaṛṣi; one of the madhya-
+{%Vi. P.%}); in the form of a horse;<sup>1</sup> a Śrutarṣi; one of the madhya-
 mādhvaryus; in charge of a śākhā in the Ṛg Veda; recipient
 of Janaka's present in a contest for great learning;<sup>2</sup> an
 Ekārṣeya.<sup>3</sup>
@@ -78865,7 +78865,7 @@ with {%Dhaniṣṭhā nakṣatra%} — the five years are respectively
 Agni, Sūrya, Soma, Vāyu and Rudra; consists of Samvat-
 sara, Parivatsara, Idvatsara, Anuvatsara and Vatsara;
 revolves like the wheel owing to the movement of the Sun.<sup>2</sup>
-Social conditions in;<sup>3</sup> of Śaptaṛṣis.<sup>4</sup>
+Social conditions in;<sup>3</sup> of Śaptarṣis.<sup>4</sup>
 <F>1) Bhā. II. 8. 17; III. 11. 18; XII. Ch. 4 (whole) ; Vā. 7. 22;
 23. 83; 24. 1; 31. 21; Vi. I. 3. 11-15.</F>
 <F>2) Br. II. 13. 115, 147; 21.
@@ -82576,7 +82576,7 @@ earth; was advised to give her to Balarāma, and so he did.
 Devabāhu and six other sages, Gods named Ābhūtara-
 jasas.<sup>1</sup> Vibhu was Indra; Amitābha and other three
 gaṇas of gods each 14 in number; Hiraṇyaroma and
-other six formed the saptaṛṣis; Balabandhu and others were
+other six formed the saptarṣis; Balabandhu and others were
 his sons; of the Priyavrata line.<sup>2</sup>
 <F>1) M. 9. 19-22; Vā. 62. 3.</F>
 <F>2) Vi. III. 1. 6, 20-4.</F>
@@ -83616,7 +83616,7 @@ najit;<sup>1</sup> in charge of a Samhitā.<sup>2</sup>
 
 <L>11940<pc>3-119<k1>lAMgalI<k2>lAMgalI<h>I
 {%Lāṃgalī%} (I)¦ — one of the four pupils of Pauṣyañji; a Śru-
-taṛṣi;<sup>1</sup> composed six Samhitas.<sup>2</sup>
+tarṣi;<sup>1</sup> composed six Samhitas.<sup>2</sup>
 <F>1) Br. II. 33. 8; 35. 40; Vā. 61. 36; Vi. III. 6. 6.</F>
 <F>2) Vā. 61. 42.</F>
 <LEND>
@@ -84082,7 +84082,7 @@ Sudhāman and others on the four directions.<sup>4</sup>
 <LEND>
 
 <L>12007<pc>3-127<k1>loBAloBa<k2>loBAloBa
-{%Lobhālobha%}¦ — a Śrutaṛṣi.
+{%Lobhālobha%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 10.
 <LEND>
 [Page3-128+ 32]
@@ -84335,7 +84335,7 @@ how those who get no śrāddha suffer.<sup>2</sup>
 {%rātri,%} etc., one 100 Laukika years equal to 3 years of Pitṛs;
 one year (Laukikamānam) equals one day for Devas. — 
 Uttarāyanam is the day time and Dakṣiṇāyanam the night of
-gods, 3030 years equal to one Saptaṛṣi vatsara.
+gods, 3030 years equal to one Saptarṣi vatsara.
 <div n="P"/>Br. II. 29. 5-17.
 <F>1) Br. II. 28. 69-78.</F>
 <F>2) Vā. 56. 63-5, 68-79.</F>
@@ -84365,7 +84365,7 @@ modanāgni, well-known as Bharata; also Atharvā.<sup>2</sup>
 <LEND>
 
 <L>12053<pc>3-133<k1>lOgAkzi<k2>lOgAkzi
-{%Laugākṣi%}¦ — a pupil of Pauṣyañji; a Śrutaṛṣi.
+{%Laugākṣi%}¦ — a pupil of Pauṣyañji; a Śrutarṣi.
 <div n="P"/>Br. II. 33. 8; 35. 40.
 <LEND>
 
@@ -84395,7 +84395,7 @@ modanāgni, well-known as Bharata; also Atharvā.<sup>2</sup>
 <LEND>
 
 <L>12059<pc>3-133<k1>lOhitya<k2>lOhitya<h>I
-{%Lauhitya%} (I)¦ — a Śrutaṛṣi.
+{%Lauhitya%} (I)¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 5.
 <LEND>
 
@@ -86219,7 +86219,7 @@ Piṇḍāraka.<sup>4</sup>
 <L>12342<pc>3-166<k1>vasizWa<k2>vasizWa<h>II
 {%Vasiṣṭha%} (II)¦ — a son of Brahmā, born of his breath;
 married Kardama's daughter, Arundhatī. Father of seven
-sons, all Brahmaṛṣis; cursed the fires Pāvaka, Pavamāna
+sons, all Brahmarṣis; cursed the fires Pāvaka, Pavamāna
 and Śuci who were born sons of Vijitāśva;<sup>1</sup> when invited to
 be Nimi's {%Ṛtvik,%} he went away to Indra's {%yajña%} to which
 he had been called earlier and asked Nimi to wait till his
@@ -86289,7 +86289,7 @@ genitor of Pitṛs, Sukātas.
 
 <L>12348<pc>3-167<k1>vasizWa<k2>vasizWa<h>VIII
 {%Vasiṣṭha%} (VIII)¦ — cursed Haihaya to be ruined; of
-madhyama bhakti;<sup>1</sup> a mahaṛṣi and a Brahmavādin.<sup>2</sup>
+madhyama bhakti;<sup>1</sup> a maharṣi and a Brahmavādin.<sup>2</sup>
 [Page3-168+ 35]
 <F>1) Br. III. 30. 70; 34. 40.</F>
 <F>2) M. 145. 90 and 109; 171. 27.</F>
@@ -87303,7 +87303,7 @@ the names not clear.
 {%Vātaskandhas%}¦ — Paths of Vāyu through which the
 Marut gaṇas travel. Seven of them are said to have their
 stations in Pṛthvī (earth), Bhāskara (sun), Soma (moon)
-Constellation group, Planets, Saptaṛṣimaṇḍala and Dhruva,
+Constellation group, Planets, Saptarṣimaṇḍala and Dhruva,
 with their respective chiefs: Āvaha, Pravaha, Udvaha,
 Samvaha, Vivaha, Anuvaha and Parivaha.
 <div n="P"/>Br. III. 5. 78-80; Vā. 67. 110-12.
@@ -90773,7 +90773,7 @@ gives one {%nirvāṇa.%}<sup>3</sup>
 
 <L>13013<pc>3-249<k1>viBUti<k2>viBUti
 {%Vibhūtis%}¦ — of Hari; Indra among gods, Viṣṇu among
-Ādityas, Bhṛgu among Brahmaṛṣis and so on.
+Ādityas, Bhṛgu among Brahmarṣis and so on.
 <div n="P"/>Bhā. XI. 16. 9-40; Vā. 101. 329.
 <LEND>
 [Page3-250+ 25]
@@ -95689,7 +95689,7 @@ sons and a third Lomapāda.
 {%Vaiśampāyana%} (I)¦ — a pupil of Vyāsa in charge of the
 {%Yajus;%} was taught Nigada (Yajurveda). His pupils were Ca-
 rakādhvaryus. Yājñavalkya was one of the pupils; was also a
-Paurāṇika.<sup>1</sup> A Śrutaṛṣi, divided the Yajur Veda into 86 parts
+Paurāṇika.<sup>1</sup> A Śrutarṣi, divided the Yajur Veda into 86 parts
 and distributed them among his 86 pupils;<sup>2</sup> did not attend
 the Meru conference and ordered his pupils to take to
 Brahma vidyā.<sup>3</sup>
@@ -96027,7 +96027,7 @@ hands in the {%varada pose.%}
 <LEND>
 
 <L>13801<pc>3-345<k1>voQu<k2>voQu<h>I
-{%Voḍhu%} (I)¦ — a Brahmaṛṣi.
+{%Voḍhu%} (I)¦ — a Brahmarṣi.
 <div n="P"/>M. 102. 18.
 <LEND>
 
@@ -96806,7 +96806,7 @@ pective of caste or sex.
 <LEND>
 
 <L>13917<pc>3-359<k1>SaktirAja<k2>SaktirAja
-{%Śaktirāja%}¦ — a Śrutaṛṣi.
+{%Śaktirāja%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 8.
 <LEND>
 
@@ -98893,7 +98893,7 @@ those present. The prize was won by Yājñavalkya but
 <LEND>
 
 <L>14238<pc>3-398<k1>SAkali<k2>SAkali
-{%Śākali%}¦ — a Śrutaṛṣi.
+{%Śākali%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 35. 3.
 <LEND>
 
@@ -99558,7 +99558,7 @@ father of Somaśarman.
 <LEND>
 
 <L>14354<pc>3-410<k1>SAlihotra<k2>SAlihotra<h>I
-{%Śālihotra%} (I)¦ — a Śrutaṛṣi;<sup>1</sup> composed six Samhitās.<sup>2</sup>
+{%Śālihotra%} (I)¦ — a Śrutarṣi;<sup>1</sup> composed six Samhitās.<sup>2</sup>
 [Page3-411+ 30]
 <F>1) Br. II. 33. 8.</F>
 <F>2) Vā. 61. 42.</F>
@@ -100748,7 +100748,7 @@ by Bhīṣmaka for his daughter Rukmiṇī under the influence
 of Rukmin, his eldest son; defeated by Kṛṣṇa who carried
 off Rukmiṇī; consoled by his friends that Time was not in
 his favour he returned to his city.<sup>3</sup> Protested against the
-place of honour being given to Kṛṣṇa when Brahmaṛṣis and
+place of honour being given to Kṛṣṇa when Brahmarṣis and
 Rājarṣis were available. He vilified him as a cowherd given
 to drinking and not an observer of Varṇadharma. While the
 Pāṇḍavas drew their swords, Kṛṣṇa cut off his head.<sup>4</sup> His
@@ -101066,7 +101066,7 @@ and Divyā, hence Kāvya); married Ūrjasvatī, and father of
 [Page3-439+ 49]
 Devayānī through Jayantī.<sup>1</sup> The Purohita of Hiraṇyakaśipu.
 Father of Śaṇḍa and Marka, tutors of Prahlāda. Took part
-in Prahlāda's coronation. A Brahmaṛṣi: Heard of the in-
+in Prahlāda's coronation. A Brahmarṣi: Heard of the in-
 sult offered to his daughter by Śarmiṣṭhā, the daughter of
 the ruler Vṛṣaparvan and left the capital. The Purohita of
 Vṛṣaparvan, the latter made him stay offering to make his
@@ -102553,7 +102553,7 @@ the presiding deity — see Śiśumāra.
 <LEND>
 
 <L>14779<pc>3-465<k1>SokApARi<k2>SokApARi
-{%Śokāpāṇi%}¦ — a Śrutaṛṣi.
+{%Śokāpāṇi%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 4.
 <LEND>
 
@@ -102914,7 +102914,7 @@ Mātanga and agreed to be his daughter. Hence Mātangī.
 <LEND>
 
 <L>14839<pc>3-472<k1>SyAmApati<k2>SyAmApati
-{%Śyāmāpati%}¦ — a Śrutaṛṣi.
+{%Śyāmāpati%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 6.
 <LEND>
 
@@ -103630,12 +103630,12 @@ father of Nābha(ga).
 <LEND>
 
 <L>14945<pc>3-485<k1>Srutafzi<k2>Srutafzi
-{%Śrutaṛṣi%}¦ — a learned Purāṇa reader.
+{%Śrutarṣi%}¦ — a learned Purāṇa reader.
 <div n="P"/>Vā. 99. 417.
 <LEND>
 
 <L>14946<pc>3-485<k1>Srutafzi<k2>Srutafzi
-{%Śrutaṛṣis%}¦ — 8000 in number, are born again and again
+{%Śrutarṣis%}¦ — 8000 in number, are born again and again
 and take up the arrangement of the {%Śamhitās;%}<sup>1</sup> remembered
 88,000 {%Samhitās%} which return again and again.<sup>2</sup>
 <F>1) Br. II. 33. 2; 35. 146; M. 145. 88.</F>
@@ -105889,7 +105889,7 @@ Viṣṇuloka.
 <LEND>
 
 <L>15292<pc>3-526<k1>sananda<k2>sananda<h>II
-{%Sananda%} (II)¦ — a Brahmaṛṣi; water oblation to, after
+{%Sananda%} (II)¦ — a Brahmarṣi; water oblation to, after
 bath.
 <div n="P"/>M. 102. 17.
 <LEND>
@@ -106090,7 +106090,7 @@ Vā. 30. 15; 50. 162; 51. 11.</F>
 [Page3-530+ 31]
 
 <L>15323<pc>3-530<k1>saMDyAsti<k2>saMDyAsti
-{%Saṃdhyāsti%}¦ — a Śrutaṛṣi.
+{%Saṃdhyāsti%}¦ — a Śrutarṣi.
 <div n="P"/>Br. II. 33. 3.
 <LEND>
 
@@ -106178,7 +106178,7 @@ the devas;<sup>1</sup> leads up to the cleansing of the pollution.<sup>2</sup>
 <LEND>
 
 <L>15336<pc>3-531<k1>saptafzi<k2>saptafzi<h>I
-{%Saptaṛṣis%} (I)¦ — the sons of Brahmā who bear the Gaṅgā
+{%Saptarṣis%} (I)¦ — the sons of Brahmā who bear the Gaṅgā
 in their locks; with the constellations traversing Maghas, com-
 menced the Kali age; when they move to Pūrvāṣāḍha, there
 began the reign of Nanda;<sup>1</sup> separate for every epoch; cursed
@@ -106197,7 +106197,7 @@ III. 1. 13.</F>
 <LEND>
 
 <L>15337<pc>3-532<k1>saptafzi<k2>saptafzi<h>II
-{%Saptaṛṣis%} (II)¦ — the seven sages born on the earth
+{%Saptarṣis%} (II)¦ — the seven sages born on the earth
 in Dvāpara; conquered death by foregoing desire for
 progeny; were followed in the path of Ūrdhvaretasas
 by 88,000 others; all immortals decline after the
@@ -106222,7 +106222,7 @@ Br: II. 32. 34, 42, 91-4; 35. 103, 184, 189.</F>
 <LEND>
 
 <L>15338<pc>3-532<k1>saptafziSEla<k2>saptafziSEla
-{%Saptaṛṣiśaila%}¦ — Mt., a hill.
+{%Saptarṣiśaila%}¦ — Mt., a hill.
 <div n="P"/>M. 163. 89.
 <LEND>
 
@@ -107110,7 +107110,7 @@ shipped by Brahmans.
 {%Samvatsara%} (II)¦ — a part of the five-year yuga;<sup>1</sup> a year,
 the first among years; is Agni; represented by Kāvya pitṛs;<sup>2</sup>
 of different kinds — dīvyasamvatsara, Dhruvasamvatsara,
-Pitṛsamvatsara, and Saptaṛṣisamvatsara.<sup>3</sup>
+Pitṛsamvatsara, and Saptarṣisamvatsara.<sup>3</sup>
 <F>1) Bhā. III. 11. 14; V. 22. 7; Vi. II. 8. 71-2.</F>
 <F>2) Br. II. 21. 131; 24.
 57, 141; 28. 15; III. 8. 17; 72. 30.</F>
@@ -115171,7 +115171,7 @@ of Maryāda hill.<sup>2</sup>
 by Śiva and Umā; borne for 300 years by {%diks%} (directions)
 and when released became an {%amśa%} of Brahmā who took
 him in his Vedic chariot of 1000 horses to his loka where
-Brahmaṛṣis adored him as their king and was praised
+Brahmarṣis adored him as their king and was praised
 by {%Mantras;%} nourished the crying Māriṣā in her babyhood
 with nectar; presented Pṛthu with undying horses.<sup>1</sup> Appealed
 to Pracetas not to destroy trees and offered their daughter
@@ -119437,7 +119437,7 @@ Narmadā.
 and his pupil was Kṛta: a siddha;<sup>1</sup> son of Vidhṛti and pupil
 of Jaimini. From him Yājñavalkya learnt the Ātmavidyā.
 Father of Puṣya (son of Viśvasaha; got instructed in Yoga
-from Yājñavalkya disciple of Jaimini-{%Vi. P.%});<sup>2</sup> a Śrutaṛṣi:
+from Yājñavalkya disciple of Jaimini-{%Vi. P.%});<sup>2</sup> a Śrutarṣi:
 considered as the disciple of Pauṣyañji in the Prācyasāma.
 His disciples were Samagas of the East;<sup>3</sup> teacher of Kṛta who
 composed the Sāmasamhitā in 24 parts known as Prācya-
