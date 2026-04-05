@@ -46729,7 +46729,7 @@ tapas.
 <LEND>
 
 <L>6780<pc>2-188<k1>Druva<k2>Druva<h>VIII
-{%Dhruva%} (VIII)¦ — a son of Angada.
+{%Dhruva%} (VIII)¦ — a son of Aṅgada.
 <div n="P"/>Br. III. 7. 220.
 <LEND>
 
@@ -76962,7 +76962,7 @@ M. 13. 7; 121. 72; 162. 30; Vā. 30. 32; 45. 90; 47. 75; 71. 4; 72. 5;
 
 <L>11083<pc>2-741<k1>mEnda<k2>mEnda
 {%Mainda%}¦ — a brother of Vānara Dvivida (s.v.); father-
-in-law of Angada.
+in-law of Aṅgada.
 <div n="P"/>Bhā. X. 67. 2; Br. III. 7. 220 and 238.
 <LEND>
 
@@ -83087,7 +83087,7 @@ it grants Brahmapada.
 {%Lakṣmaṇa%} (I)¦ — a son of Daśaratha and younger bro-
 ther of Rāma;<sup>1</sup> took part in the Laṅkā expedition; respected
 the Brahmaṇas and elders; present at Rāma's coronation;
-father of Angada and Citraketu,<sup>2</sup> whose cities were Kora-
+father of Aṅgada and Citraketu,<sup>2</sup> whose cities were Kora-
 yaṇa and Candracakra, near the Himālayas; created with
 Rāma by Lalitā, he killed Meghanāda in Bhaṇḍāsura war.<sup>3</sup>
 <F>1) Bhā. IX. 10. 3; V. 19. 1 and 6.</F>
@@ -88346,7 +88346,7 @@ reṇu (s.v.).
 <L>12637<pc>3-206<k1>vAli<k2>vAli<h>I
 {%Vāli%} (I)¦ — a son of Virajā (the daughter of Ṛkṣa) and
 Mahendra. Crowned king of Kiṣkinda and ruled with
-Sugrīva; wife Tārā and son Angada: crossed the seas, van-
+Sugrīva; wife Tārā and son Aṅgada: crossed the seas, van-
 quished Rāvaṇa at Puṣkara, and agreed to be his ally on
 his request; performed Vedic {%yajñas,%} learned in the Vedic
 lore; applauded by Nārada;<sup>1</sup> killed by Rāma.<sup>2</sup>
