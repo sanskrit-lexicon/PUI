@@ -2540,7 +2540,7 @@ childless Nirṛti.<sup>4</sup> Five branches of: {%vidharma, paradharma,%}
 <LEND>
 
 <L>336<pc>1-046<k1>aDarma<k2>aDarma<h>II
-{%Adharma%} (II)¦ — wife, Himsā; sons Nikṛti, Anṛta.
+{%Adharma%} (II)¦ — wife, Hiṃsā; sons Nikṛti, Anṛta.
 (daughter Nikṛtī-{%Vi. P.%}).
 <div n="P"/>Br. II. 9. 63; Vā. 10. 39; Vi. I. 7. 32.
 <LEND>
@@ -3466,7 +3466,7 @@ is in danger, and when deprived of his wealth.<sup>3</sup>
 <LEND>
 
 <L>476<pc>1-062<k1>anftam<k2>anftam
-{%Anṛtam%}¦ — son of Himsā and Adharma; father of Bhaya
+{%Anṛtam%}¦ — son of Hiṃsā and Adharma; father of Bhaya
 and Naraka.
 <div n="P"/>Br. II. 9. 63; Vā. 10. 39.
 <LEND>
@@ -18351,7 +18351,7 @@ dhana.
 <L>2656<pc>1-332<k1>kali<k2>kali<h>III
 {%Kali%} (III)¦ — a son of Varuṇa and Śunādevī (Sāmudri-
 {%Vā. P.%}); father of Jaya and Vijaya; one wife of Kali, Surā,
-mother of Mada; other wives, Tvāṣṭri, Himsā and Nikṛti;
+mother of Mada; other wives, Tvāṣṭri, Hiṃsā and Nikṛti;
 other sons of Kali, all cannibals, Nāka, Vighna, Śadrama and
 Vidhama.
 <div n="P"/>Br. III. 59. 6; Vā. 84. 6-10.
@@ -23442,7 +23442,7 @@ Kaumārī.<sup>3</sup>
 
 <L>3405<pc>1-423<k1>kfcCrAtikfcCram<k2>kfcCrAtikfcCram
 {%Kṛcchrātikṛcchram%}¦ — an expiation for {%yatis%} causing
-{%himsā%} even inadvertently.
+{%hiṃsā%} even inadvertently.
 <div n="P"/>Vā. 18. 16.
 <LEND>
 
@@ -29562,7 +29562,7 @@ states are normal it is prakṛti, pradhāna or avyakta. If in
 a condition of agitation, three deities Brahma, Viṣṇu and
 Śiva are the result.<sup>2</sup> Twelve qualities;<sup>3</sup> twenty-six in num-
 ber; yoga, sāmkhya, tapas, vidyā, vidhi, kriyā, ṛtam, satyam,
-ahimsā, dhyānam, sānti, avidyā, mati, dhṛti, kānti, smṛti,
+ahiṃsā, dhyānam, sānti, avidyā, mati, dhṛti, kānti, smṛti,
 medha, lajjā, śuddhi, sarasvati, tuṣti, puṣti etc., all in
 Brahmā.<sup>4</sup>
 <F>1) Bhā. XI. 25. 9-35.</F>
@@ -39546,7 +39546,7 @@ the Cākṣuṣa epoch;<sup>2</sup> of five rays.<sup>3</sup>
 
 <L>5734<pc>2-057<k1>Tuklasa<k2>Tuklasa
 {%Thuklasa (Puklasa?)%}¦ — a commander of Bhaṇḍa to aid
-Viṣanga; killed by Śivadūti.
+Viṣaṅga; killed by Śivadūti.
 <div n="P"/>Br. IV. 25. 28, 96.
 <LEND>
 <H>D
@@ -40389,7 +40389,7 @@ VII. 1. 17. Vā. 96. 158.</F>
 <LEND>
 
 <L>5842<pc>2-073<k1>damana<k2>damana<h>II
-{%Damana%} (II)¦ — a commander to aid Viṣanga, killed by
+{%Damana%} (II)¦ — a commander to aid Viṣaṅga, killed by
 Kāmesvarī.
 <div n="P"/>Br. IV. 25. 30, 46, 94.
 <LEND>
@@ -41863,7 +41863,7 @@ yāruṇi and others; attained Brahmaṇagati; see Durukṣaya.
 <LEND>
 
 <L>6064<pc>2-099<k1>durukti<k2>durukti
-{%Durukti%}¦ — born of Krodha and Himsā; sister and also
+{%Durukti%}¦ — born of Krodha and Hiṃsā; sister and also
 wife of Kali.
 <div n="P"/>Bhā. IV. 8. 3-4.
 <LEND>
@@ -49348,7 +49348,7 @@ Māyā;<sup>1</sup> the first wife of Kali.<sup>2</sup>
 <LEND>
 
 <L>7118<pc>2-236<k1>nikfti<k2>nikfti<h>II
-{%Nikṛti%} (II)¦ — a daughter of Himsā and Adharma;
+{%Nikṛti%} (II)¦ — a daughter of Hiṃsā and Adharma;
 mother of Bhaya and Naraka.
 <div n="P"/>Br. II. 9. 63; Vā. 10. 39.
 <LEND>
@@ -53163,15 +53163,15 @@ the 14th Bhauta Manu: are the seven worlds.
 
 <L>7703<pc>2-305<k1>paSu<k2>paSu
 {%Paśu%}¦ — born of Savitā: grāmya and āraṇya; killing of
-except in {%Yajñas%} considered as himsā; sacrifice of, for preta,
+except in {%Yajñas%} considered as hiṃsā; sacrifice of, for preta,
 bhūta, and gaṇas irreligious and sinful;<sup>1</sup> the sages finding
 many heads of cattle for sacrificial purposes by Indra com-
-plained about the himsā and said that himsā must be remov-
+plained about the hiṃsā and said that hiṃsā must be remov-
 ed from the sacrifices and that they could be performed only
 with seeds and corns; there was a difference of opinion and
 the sages referred the question to king Vasu; he called it
-himsā and was punished; final conclusion that in killing
-Paśu in a {%Yajña%} there was no himsā;<sup>2</sup> fourteen kinds dis-
+hiṃsā and was punished; final conclusion that in killing
+Paśu in a {%Yajña%} there was no hiṃsā;<sup>2</sup> fourteen kinds dis-
 tinguished.<sup>3</sup>
 [Page2-306+ 28]
 <F>1) Bhā. VI. 18. 1; VII. 15. 7-10; XI. 10. 28; 21. 29-30; Vi. I. 5.
@@ -55106,7 +55106,7 @@ hunter;<sup>1</sup> became king.<sup>2</sup>
 <LEND>
 
 <L>7980<pc>2-340<k1>puRqraketu<k2>puRqraketu
-{%Puṇḍraketu%}¦ — a commander of Bhaṇḍa to aid Viṣanga,
+{%Puṇḍraketu%}¦ — a commander of Bhaṇḍa to aid Viṣaṅga,
 killed by Tvaritā.
 <div n="P"/>Br. IV. 21. 79; 25. 28, 97.
 <LEND>
@@ -69606,7 +69606,7 @@ Ananga in the world sometime hence.<sup>5</sup>
 
 <L>9986<pc>2-606<k1>madana<k2>madana
 {%Madana(ka)%}¦ — a commander of Bhaṇḍa sent to aid
-Viṣanga.
+Viṣaṅga.
 <div n="P"/>Br. IV. 21. 78; 25. 27.
 <LEND>
 
@@ -77519,7 +77519,7 @@ Br. II. 9. 44ff.</F>
 
 <L>11144<pc>3-005<k1>yajYa<k2>yajYa<h>III
 {%Yajña%} (III)¦ — origin of, in Treta and dispute on its
-nature, whether himsā or not;<sup>1</sup> trees fit for; samāna, plakṣa,
+nature, whether hiṃsā or not;<sup>1</sup> trees fit for; samāna, plakṣa,
 nyagrodha, aśvattha, udumbara, vikarika, bilva, candaṇa,
 sarala, devadāru, śāla, khadira; unfit are: śleṣmātaka, nak-
 tamāla, kapittha, śālmali, nīpa, vibhītaka and those which
@@ -77542,7 +77542,7 @@ and 14.</F>
 
 <L>11145<pc>3-005<k1>yajYa<k2>yajYa<h>IV
 {%Yajña%} (IV)¦ — (Japa) for Brāhmaṇas;<sup>1</sup> introduced by
-Indra in Tretāyuga; questioned by the sages as to {%himsā%} of
+Indra in Tretāyuga; questioned by the sages as to {%hiṃsā%} of
 animals. Vasu, son of Uttānapāda who was appointed arbi-
 trator said that {%yajña%} pleases the gods and {%tapas,%} Vairāja
 leading to Kaivalya. Not favoured in Kaliyuga;<sup>2</sup> prohibited
@@ -88986,7 +88986,7 @@ the shape of the elephant sits on the belly of the Śilā.<sup>3</sup>
 
 <L>12736<pc>3-217<k1>vicAra<k2>vicAra
 {%Vicāra%}¦ — the importance of good consultation and its
-success — the words of Viṣanga to Bhaṇḍa.
+success — the words of Viṣaṅga to Bhaṇḍa.
 <div n="P"/>Br. IV. 21. 50-51.
 <LEND>
 
@@ -103396,7 +103396,7 @@ Bhaṇḍa; also Potrinī; her march described; in Kiricakra-
 ratha: Her mount was the lion Vajraghoṣa;<sup>1</sup> hit Kuṭalākṣa,
 the chief commander of Bhaṇḍa: consulted Mantrinī: helped
 Kumārī in her expedition against sons of Bhaṇḍa: ascended
-Geyacakra and fought with Viṣanga: became happy at the
+Geyacakra and fought with Viṣaṅga: became happy at the
 end.<sup>2</sup>
 <F>1) Br. IV. 16. 31; 17. 8, 27; ch. 21.</F>
 <F>2) Ib. IV. 26. 1-113; 27.
