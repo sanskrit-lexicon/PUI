@@ -9922,7 +9922,7 @@ copiously.
 <LEND>
 
 <L>1429<pc>1-176<k1>AvasaTya<k2>AvasaTya
-{%Āvasathya%}¦ — a son of Śamsya Agni.
+{%Āvasathya%}¦ — a son of Śaṃsya Agni.
 <div n="P"/>Vā. 29. 12.
 <LEND>
 
@@ -20497,7 +20497,7 @@ yana.
 
 <L>2975<pc>1-369<k1>kAverI<k2>kAverI<h>I
 {%Kāverī%} (I)¦ — R. personified as one of the wives of
-Havyavāhana (Śamsya) fire; Sangamam in the Narmadā,
+Havyavāhana (Śaṃsya) fire; Sangamam in the Narmadā,
 where Kubera attained {%siddhi%} by penance to Śiva. Its great-
 ness described.
 <div n="P"/>Br. II. 12. 14; M. 51. 13; 163. 61; 189. 2-20; Vā. 29. 130.
@@ -29310,7 +29310,7 @@ son was Kālayavana.
 <L>4193<pc>1-532<k1>gArhapatya<k2>gArhapatya
 {%Gārhapatya%}¦ — the sacrificial fire; Dharmavrata per-
 formed austerities standing in this fire;<sup>1</sup> the face of the
-Veda.<sup>2</sup> Nirmathya agni; father of two sons, Śamsya and
+Veda.<sup>2</sup> Nirmathya agni; father of two sons, Śaṃsya and
 Śukra.<sup>3</sup>
 <F>1) Vā. 97. 25, 111.</F>
 <F>2) Ib. 104. 85; 106. 41.</F>
@@ -106435,7 +106435,7 @@ father of Kālanara (Kālānala {%Br.%} and {%Vi. P.%}).
 <LEND>
 
 <L>15371<pc>3-536<k1>saBya<k2>saBya
-{%Sabhya%}¦ — a son of Śamsya agni.
+{%Sabhya%}¦ — a son of Śaṃsya agni.
 <div n="P"/>Vā. 29. 12.
 <LEND>
 
