@@ -22258,7 +22258,7 @@ lord of the 25th {%dvāpara.%}
 
 <L>3223<pc>1-402<k1>kumBakarRa<k2>kumBakarRa
 {%Kumbhakarṇa%}¦ — a son of Viśravas and Kaikarī, killed
-by Rāma in the Lankā war;<sup>1</sup> a brother of Rāvaṇa.<sup>2</sup>
+by Rāma in the Laṅkā war;<sup>1</sup> a brother of Rāvaṇa.<sup>2</sup>
 <F>1) Bhā. IV. 1. 37; VII. 1. 43; 10. 36; IX. 10. 18; Vā. 70. 41.</F>
 <F>2) Br. III. 8. 47; IV. 29. 113 and 116.</F>
 <LEND>
@@ -28078,7 +28078,7 @@ by the Gandharvas.
 
 <L>4027<pc>1-510<k1>ganDamAda<k2>ganDamAda<h>I
 {%Gandhamāda%} (I)¦ — followed Rāma in his expedition to
-Lankā.
+Laṅkā.
 <div n="P"/>Bhā. IX. 10. 19: Br. III. 71. 112.
 <LEND>
 
@@ -38708,7 +38708,7 @@ trees.<sup>2</sup>
 <LEND>
 
 <L>5615<pc>2-042<k1>trikUwa<k2>trikUwa<h>II
-{%Trikūṭa%} (II)¦ — Here is Lankā in Malayadvīpa.
+{%Trikūṭa%} (II)¦ — Here is Laṅkā in Malayadvīpa.
 <div n="P"/>Vā. 48. 26.
 <LEND>
 
@@ -43603,7 +43603,7 @@ Paurava.
 Kali in Kalāpagrāma; Kṣatrapraṇetāra in the 24th Catur-
 yuga. Originator of Kṣatriyas in the Kṛta.<sup>1</sup> A son of Pra-
 tīpa. Even as a child retired to forest. The famine in his
-brother Santanu's (s.v) kingdom was said to be due to his
+brother Śantanu's (s.v) kingdom was said to be due to his
 elder brother Devāpi having been passed over for succes-
 sion. Infected with heretical views through the minister
 of Śantanu by means of ascetics in the forest; thus disquali-
@@ -46113,7 +46113,7 @@ Vedaśiras.
 
 <L>6689<pc>2-177<k1>DUmrAkza<k2>DUmrAkza<h>I
 {%Dhūmrākṣa%} (I)¦ — a Rākṣasa, son of Hemacandra and
-father of Samyama; killed in the Lankā war.
+father of Samyama; killed in the Laṅkā war.
 <div n="P"/>Bhā. IX. 2. 34; 10. 18.
 <LEND>
 
@@ -47918,7 +47918,7 @@ dhumān, whom Akrūra killed.
 
 <L>6944<pc>2-209<k1>narAntaka<k2>narAntaka
 {%Narāntaka%}¦ — a son of Kālanemi;<sup>1</sup> was killed in the
-Lankā war.<sup>2</sup>
+Laṅkā war.<sup>2</sup>
 <F>1) Br. III. 5. 39; Vā 67. 80.</F>
 <F>2) Bhā. IX. 10. 18.</F>
 <LEND>
@@ -50499,7 +50499,7 @@ I. 1. 69; II. 15. 22, 28; 17. 35; Vā. 1. 85; 42. 67; 46. 34.</F>
 
 <L>7293<pc>2-257<k1>nIla<k2>nIla<h>II
 {%Nīla%} (II)¦ — a monkey chief, a friend of Rāma; followed
-Rāma in the Lankā expedition.
+Rāma in the Laṅkā expedition.
 <div n="P"/>Bhā. IX. 10. 16, 19.
 <LEND>
 
@@ -52074,7 +52074,7 @@ Paraśurāma; of Kapila.
 
 <L>7540<pc>2-285<k1>panasa<k2>panasa
 {%Panasa%}¦ — A Vānara, whose daughter was Rumā;<sup>1</sup> fol-
-lowed Rāma in his expedition to Lankā.<sup>2</sup>
+lowed Rāma in his expedition to Laṅkā.<sup>2</sup>
 [Page2-286+ 26]
 <F>1) Br. III. 7. 221, 231.</F>
 <F>2) Bhā. IX. 10. 19.</F>
@@ -60236,7 +60236,7 @@ from Nārāyaṇa.
 <LEND>
 
 <L>8699<pc>2-433<k1>prahasta<k2>prahasta<h>I
-{%Prahasta%} (I)¦ — a Rākṣasa who was killed in the Lankā
+{%Prahasta%} (I)¦ — a Rākṣasa who was killed in the Laṅkā
 war.
 <div n="P"/>Bhā. IX. 10. 18.
 <LEND>
@@ -71678,7 +71678,7 @@ XII. 8. 16; M. 61. 37.</F>
 <L>10270<pc>2-644<k1>malayadvIpam<k2>malayadvIpam
 {%Malayadvīpam%}¦ — a pradeśa of Jambudvīpa of the {%Mlec-%}
 {%chas;%} here is Mahāmalaya hill called second Mandaram as
-also Agastya's āśrama and Lankā.
+also Agastya's āśrama and Laṅkā.
 <div n="P"/>Vā. 48. 14, 20-30.
 <LEND>
 
@@ -72528,7 +72528,7 @@ the moon of, arose from Vyāsa.<sup>2</sup>
 <LEND>
 
 <L>10404<pc>2-659<k1>mahABiza<k2>mahABiza
-{%Mahābhiṣa%}¦ — the name of Santanu in a previous life.
+{%Mahābhiṣa%}¦ — the name of Śantanu in a previous life.
 <div n="P"/>Bhā. IX. 22. 12; Vā. 99. 237.
 <LEND>
 
@@ -83085,7 +83085,7 @@ it grants Brahmapada.
 
 <L>11863<pc>3-109<k1>lakzmaRa<k2>lakzmaRa<h>I
 {%Lakṣmaṇa%} (I)¦ — a son of Daśaratha and younger bro-
-ther of Rāma;<sup>1</sup> took part in the Lankā expedition; respected
+ther of Rāma;<sup>1</sup> took part in the Laṅkā expedition; respected
 the Brahmaṇas and elders; present at Rāma's coronation;
 father of Angada and Citraketu,<sup>2</sup> whose cities were Kora-
 yaṇa and Candracakra, near the Himālayas; created with
@@ -88744,7 +88744,7 @@ of Bhaṇḍa.
 <LEND>
 
 <L>12696<pc>3-212<k1>vikampana<k2>vikampana
-{%Vikampana%}¦ — a Rākṣasa killed in the Lankā war.
+{%Vikampana%}¦ — a Rākṣasa killed in the Laṅkā war.
 <div n="P"/>Bhā. IX. 10. 18.
 <LEND>
 
@@ -90645,7 +90645,7 @@ Soma;<sup>1</sup> Yayāti of Kuruvamśa compared to.<sup>2</sup>
 {%Vibhīṣaṇa%} (II)¦ — a son of Viśravas and Kaikaśī, and a
 friend of Rāma. On the advice of Rāma, performed funeral
 rites to his kith and kin, according to established conventions.
-Was made king of Lankā by Rāma. Held the {%cāmara%} when
+Was made king of Laṅkā by Rāma. Held the {%cāmara%} when
 Bharata carried {%pādukā%} of Rāma;<sup>1</sup> knew the yoga power of
 Hari and attained salvation by {%satsanga;%} of superior bhakti;<sup>2</sup> a brother of Rāvaṇa;<sup>3</sup> was present at Rāma's {%abhiṣeka.%}<sup>4</sup>
 <F>1) Bhā. IV. 1. 37; IX. 10. 16, 29 and 43.</F>
@@ -99476,7 +99476,7 @@ Pitṛs;<sup>3</sup> the Nāgarāṭ {%tīrtha%} at.<sup>4</sup>
 <LEND>
 
 <L>14338<pc>3-409<k1>SAlankAyana<k2>SAlankAyana
-{%Śālankāyanas%}¦ — of Kauśika gotra.
+{%ŚāLaṅkāyanas%}¦ — of Kauśika gotra.
 <div n="P"/>Br. III. 66. 72.
 <LEND>
 
@@ -109474,7 +109474,7 @@ by Bharata at.<sup>2</sup>
 <LEND>
 
 <L>15831<pc>3-591<k1>sAlankAyana<k2>sAlankAyana
-{%Sālankāyanas%}¦ — of Kauśika gotra.
+{%SāLaṅkāyanas%}¦ — of Kauśika gotra.
 <div n="P"/>Vā. 91. 100.
 <LEND>
 
@@ -110217,7 +110217,7 @@ Vā. 42. 17-35; 47. 39, 43; 55. 42; Vi. II. 2. 34-5; 8. 113.</F>
 Lakṣmī; the wife of Rāma;<sup>2</sup> was discovered by Sīradhvaja
 when ploughing the earth for a sacrifice.<sup>3</sup> In her svayam-
 vara, Rāma broke the {%dhanus%} of Śiva. Ravished by her
-beauty Rāvaṇa took her to Lankā and kept her under a
+beauty Rāvaṇa took her to Laṅkā and kept her under a
 {%śimśupa%} tree. Recovered by Rāma. Ever devoted to her
 lord, enjoyed his company at the capital. In the sacrifices
 she gave away all her things as gifts except {%saumāngalya.%}
@@ -110680,7 +110680,7 @@ Puṇḍra.
 
 <L>16020<pc>3-613<k1>sugrIva<k2>sugrIva<h>I
 {%Sugrīva%} (I)¦ — a friend of Rāma. Dvivida was one of his
-ministers. Helped Rāma in his expedition to Lankā. Held
+ministers. Helped Rāma in his expedition to Laṅkā. Held
 the chauri when Bharata carried the Pādukā. Attained
 salvation by satsanga;<sup>1</sup> the son of Viraja and Sūrya: Rumā
 was his queen: younger brother of Vāli;<sup>2</sup> present at Rāma's
@@ -113397,7 +113397,7 @@ churned.
 <LEND>
 
 <L>16476<pc>3-662<k1>surAnta<k2>surAnta
-{%Surānta%}¦ — a Rākṣaṣa who was killed in Lankā war.
+{%Surānta%}¦ — a Rākṣaṣa who was killed in Laṅkā war.
 <div n="P"/>Bhā. IX. 10. 18.
 <LEND>
 [Page3-663+ 24]
@@ -114876,7 +114876,7 @@ Prācīnagarbha and others.
 
 <L>16716<pc>3-689<k1>setu<k2>setu<h>II
 {%Setu%} (II)¦ — the name of the bridge built by Rāma to go
-to Lankā as testified by Jāmbavan; sacred to Hari. Visited by
+to Laṅkā as testified by Jāmbavan; sacred to Hari. Visited by
 Balarāma who made a gift of cows to Brahmans here.
 <div n="P"/>Bhā. X. 56. 28; VII. 14. 36; X. 79. 15-16.
 <LEND>
@@ -117512,7 +117512,7 @@ to whatever community he belonged is the most heinous.
 
 <L>17116<pc>3-737<k1>hanumAn<k2>hanumAn<h>I
 {%Hanumān%} (I)¦ — a friend of Rāma; son of Marut and
-Añjanā; took part in Lankā expedition; knew the yoga power
+Añjanā; took part in Laṅkā expedition; knew the yoga power
 of Viṣṇu and worshipped along with Rāma in the Kimpuruṣa
 country; attained final release by {%satsanga.%} Had the white
 umbrella when Bharata took the pādukā.<sup>1</sup> The best, the
