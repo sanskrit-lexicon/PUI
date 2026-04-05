@@ -6705,7 +6705,7 @@ of Soma.<sup>2</sup>
 <LEND>
 
 <L>944<pc>1-119<k1>avikzit<k2>avikzit
-{%Avikṣit%}¦ — the son of Karamdhama and father of
+{%Avikṣit%}¦ — the son of Karandhama and father of
 Marutta.
 <div n="P"/>Bhā. IX. 2. 26; Vi. IV. 1. 30-31.
 <LEND>
@@ -8833,7 +8833,7 @@ the {%Adhvaryu%} in an {%yajña.%}
 <LEND>
 
 <L>1252<pc>1-157<k1>Anaka<k2>Anaka<h>I
-{%Ānaka%} (I)¦ — a son of Śūra and Māriṣā. Married Kankā
+{%Ānaka%} (I)¦ — a son of Śūra and Māriṣā. Married Kaṅkā
 and had two sons — Satyajit and Purujit.
 <div n="P"/>Bhā. IX. 24. 28 and 41.
 <LEND>
@@ -17703,8 +17703,8 @@ sent out {%Nakulis%} which put an end to all reptiles.
 <div n="P"/>Bhā. IX. 23. 17; Br. III. 74. 2; M. 48. 2; Vā. 99. 2.
 <LEND>
 
-<L>2563<pc>1-320<k1>karanDama<k2>karanDama<h>III
-{%Karandhama%} (III)¦ — the son of Ativibhūti and father of
+<L>2563<pc>1-320<k1>karaMDama<k2>karaMDama<h>III
+{%KaraMdhama%} (III)¦ — the son of Ativibhūti and father of
 Āvikṣit; lived at the commencement of the {%Tretāyuga.%}
 <div n="P"/>Vā. 86. 7; Vi. 1. 29-30.
 <LEND>
@@ -27311,7 +27311,7 @@ father of Cākṣuṣa (Kṣupa-{%Vā. P.%}) (Cakṣuṣa-{%Vi. P.%}).
 
 <L>3924<pc>1-496<k1>Kaninetra<k2>Kaninetra
 {%Khaninetra%}¦ — the son of Rambha, (Vivīmśa-Vā. P.,
-Vi. P.) and a righteous king; father of Karamdhama (in Tre-
+Vi. P.) and a righteous king; father of Karandhama (in Tre-
 tāmukha-{%Vā. P.%}), (Ativibhūti-{%Vi. P.%}).
 <div n="P"/>Bhā. IX. 2. 25; Vā. 86. 7; Vi. IV. 1. 28.
 <LEND>
@@ -55769,7 +55769,7 @@ of Ariṣṭanemi.
 <LEND>
 
 <L>8064<pc>2-352<k1>purujit<k2>purujit<h>III
-{%Purujit%} (III)¦ — a son of Ānaka and Kankā.
+{%Purujit%} (III)¦ — a son of Ānaka and Kaṅkā.
 <div n="P"/>Bhā. IX. 24. 41.
 <LEND>
 
@@ -71505,7 +71505,7 @@ gold; father of Nariṣyanta.<sup>2</sup>
 <LEND>
 
 <L>10246<pc>2-641<k1>marutta<k2>marutta<h>II
-{%Marutta%} (II)¦ — a son of Karamdhama (Karamdana-
+{%Marutta%} (II)¦ — a son of Karandhama (Karamdana-
 {%Vi. P.%}): issueless, adopted Duṣkanta of the Paurava line and
 thus Purvasu family got merged in the Paurava line. It was
 a result of Yayāti's curse.
@@ -105081,7 +105081,7 @@ vajit.
 <LEND>
 
 <L>15175<pc>3-511<k1>satyajit<k2>satyajit<h>III
-{%Satyajit%} (III)¦ — a son of Ānaka and Kankā.
+{%Satyajit%} (III)¦ — a son of Ānaka and Kaṅkā.
 <div n="P"/>Bhā. IX. 24. 41.
 <LEND>
 
