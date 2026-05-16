@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+type: dataset
+title: The Purana Index
+message: If you use this dataset, please cite both the digital edition and the printed source it digitises.
+license: CC-BY-SA-4.0
+repository-code: https://github.com/sanskrit-lexicon/PUI
+date-released: 1951-01-01
+version: 1.0.0
+keywords:
+  - sanskrit
+  - lexicon
+  - cdsl
+  - cologne-digital-sanskrit-lexicon
+  - dictionary
+  - skt-meta
+authors:
+  - name: "Cologne Digital Sanskrit Lexicon project contributors"
+    website: https://www.sanskrit-lexicon.uni-koeln.de/
+preferred-citation:
+  type: book
+  title: The Purana Index
+  year: 1951
+  authors:
+    - family-names: "Mani?"
+      given-names: "Vettam"
