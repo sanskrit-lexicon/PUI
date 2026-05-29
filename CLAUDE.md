@@ -40,3 +40,77 @@ sh xmlchk_xampp.sh pui
 
 - **Python 3**
 - **pui.txt** — in `$BASE/cologne/csl-orig/v02/pui/pui.txt`
+
+---
+
+## GitHub Issue Conventions
+
+All issues follow the org-wide Sanskrit Lexicon taxonomy.
+
+### Milestones
+
+| Number | Title | Types |
+|---|---|---|
+| 1 | Dictionary to Book | `link-target`, `link-splitting` |
+| 2 | Digitization Quality | `scan-quality`, `encoding`, `bug`, `text-correction` |
+| 3 | Structured Data | `markup`, `question` |
+| 4 | Major Enhancements | `content-enhancement` |
+
+### Type labels (color `#0075ca`)
+
+| Label | When to use |
+|---|---|
+| `link-target` | Click-through from `<ls>` abbreviation to scanned PDF page |
+| `link-splitting` | Splitting combined source references into per-page links |
+| `markup` | Normalising XML tags (`<ls>`, `<lex>`, `<ab>`, etc.) |
+| `text-correction` | Corrections to headwords, definitions, Sanskrit text |
+| `content-enhancement` | New material or display upgrades beyond correction |
+| `encoding` | SLP1/AS/IAST transcoding, character rendering, normalisation |
+| `scan-quality` | Blurry, skewed, or missing scan page replacements |
+| `bug` | Broken links, XML errors, broken downloads |
+| `question` | Scholarly or editorial questions requiring research |
+
+### Severity labels
+
+| Label | Color | When to use |
+|---|---|---|
+| `minor` | `#e4e669` | Targeted fix — a handful of lines or one file |
+| `medium` | `#fbca04` | Standard work unit — one index, a batch of corrections |
+| `hard` | `#d93f0b` | Large effort spanning many sources or files |
+
+---
+
+## Data format
+
+PUI source files use the standard Cologne lightweight XML markup:
+
+| Tag | Role | Example |
+|---|---|---|
+| `<L>NNNN` | Entry begin, with print line number | `<L>12345` |
+| `<LEND>` | Entry end | |
+| `<k1>headword` | Primary headword in SLP1 | `<k1>rAma` |
+| `<k2>variant` | Secondary spelling | `<k2>rAma` |
+| `<e>N` | Edition or entry marker | `<e>1` |
+| `<lex>code` | Lexical category marker | `<lex>m.` |
+| `<ls>source` | Literary source citation | `<ls>Bhāgavata P.` |
+| `<ab>tag` | Italicised abbreviation | `<ab>m.</ab>` |
+| `{#text#}` | Sanskrit text in SLP1 transliteration | `{#rAmaH#}` |
+| `{%text%}` | Italicised display text | `{%see also%}` |
+
+### Annotated example entry
+
+```
+<L>1<pc>001,1<k1>A<k2>A
+A<lex>ind.</lex> a prefix of various meanings—
+  negation: {%not%}, {%without%};
+  approach: {%towards%};
+  {%see%} <ls>Sk. 1.1.14.</ls>
+<LEND>
+```
+
+- `<L>1` — entry number 1 in the print edition
+- `<pc>001,1` — page 001, column 1
+- `<k1>A` — primary headword `A` (SLP1 for the vowel ā)
+- `<lex>ind.</lex>` — lexical class: indeclinable
+- `{%not%}` — italicised English gloss
+- `<ls>Sk. 1.1.14.</ls>` — citation to Siddha-kaumudī 1.1.14
