@@ -1,6 +1,121 @@
-# PUI — Purana Index
+# PUI — Purāṇic Index
 
-Corrections and issue-tracking repository for the Cologne Digital Sanskrit Lexicons digitisation of Vettam Mani's *Purāṇic Index* (1951). The primary source text lives in [`csl-orig/v02/pui/pui.txt`](https://github.com/sanskrit-lexicon/csl-orig) in the sibling `csl-orig` repository.
+_Created: 05-04-2026 · Last updated: 05-07-2026_
+
+Corrections and issue-tracking repository for the Cologne Digital Sanskrit
+Lexicons digitisation of Vettam Mani's *Purāṇic Index* (1951) — a
+comprehensive encyclopaedia of Epic and Purāṇic literature. The digitised
+text has 12,987 tokens flagged as possible diacritic/encoding errors out of
+a much larger corpus; this repo is where those get found, reviewed, and
+turned into corrections against the canonical source.
+
+---
+
+## Why this repo exists
+
+The primary source text lives in
+[`csl-orig/v02/pui/pui.txt`](https://github.com/sanskrit-lexicon/csl-orig) in
+the sibling `csl-orig` repository — that file is never edited directly (see
+the org-wide [correction workflow](https://github.com/sanskrit-lexicon/CLAUDE.md)).
+Instead, this repo holds:
+
+- **Detection scripts** that scan `pui.txt` for likely digitisation errors
+  (mis-transliterated diacritics, improbable n-grams from OCR noise).
+- **Per-issue folders** (`issues/issueN/`) with the scan output, the
+  change files derived from it, and the audit trail.
+- **Issue tracking** against the taxonomy shared by every Sanskrit Lexicon
+  dictionary repo (see [Labels](#labels) below).
+
+Corrections never land in `csl-orig` directly from here — they're queued,
+validated, and delivered in the monthly consolidated PR (`/cologne-batch-pr`).
+
+---
+
+## How it works
+
+```mermaid
+flowchart LR
+  S["Print scan PDF"] -->|OCR / keyboarding| R["raw pui.txt"]
+  R --> O["csl-orig/v02/pui/pui.txt"]
+  O -->|updateByLine.py + change files| C["corrected pui.txt"]
+  C --> O
+  O -->|generate_dict.sh| X["pui.xml"]
+  X --> A["csl-app web display"]
+```
+
+1. A detection script scans `pui.txt` and writes flagged candidates to a
+   `.tsv` under `issues/issueN/`.
+2. A human/agent reviews the candidates and decides which are genuine
+   errors vs. legitimate proper nouns (Sanskrit names correctly carry
+   diacritics — the point of [`issue1`](https://github.com/sanskrit-lexicon/PUI/issues/1)
+   was separating "real English words that slipped past OCR" from "real
+   Sanskrit names", not flagging every diacritic).
+3. Confirmed corrections become a change file, applied via
+   [`updateByLine.py`](https://github.com/sanskrit-lexicon/csl-pywork), and
+   queued for the next `csl-orig` batch PR.
+
+---
+
+## Usage: reproduce the issue-1 diacritic scan
+
+[`issues/issue1/analyze_diacritics.py`](issues/issue1/analyze_diacritics.py)
+is the actual script that produced
+[`issues/issue1/non_english_sorted.tsv`](issues/issue1/non_english_sorted.tsv)
+(12,987 flagged tokens). As committed it needs two things not present in a
+fresh checkout: a hardcoded absolute path to `pui.txt` on the original
+author's machine, and a live download of the `dwyl/english-words` word list
+over the network — so it is not directly runnable without editing the path
+and having network access.
+
+The output `.tsv` it produced **is** committed and small enough to inspect
+directly — this is the runnable, verified part:
+
+```python
+import csv, sys
+sys.stdout.reconfigure(encoding='utf-8')
+
+with open('issues/issue1/non_english_sorted.tsv', encoding='utf-8') as f:
+    rows = list(csv.DictReader(f, delimiter='\t'))
+
+print('total flagged tokens:', len(rows))
+for row in rows[:5]:
+    print(row['word'], row['count'])
+```
+
+Executed against this repo's checked-in data (05-07-2026):
+
+```
+total flagged tokens: 12987
+Kṛṣṇa 1093
+Manu 568
+Brahmā 512
+Śiva 502
+Hari 448
+```
+
+The top hits are correctly-diacritised Sanskrit proper names (expected —
+the script's job was to separate these from genuine OCR noise), which is
+why issue #1 split the review into "≥6 occurrences" (high-confidence,
+closed) and "≤5 occurrences" (long tail, still open as
+[#4](https://github.com/sanskrit-lexicon/PUI/issues/4)).
+
+To re-run the scan itself from scratch: edit the two hardcoded paths at the
+top and bottom of `analyze_diacritics.py` to point at your local
+`csl-orig/v02/pui/pui.txt` checkout and a writable output path, ensure
+network access to GitHub raw content, then run:
+
+```sh
+python issues/issue1/analyze_diacritics.py
+```
+
+### issue3 — improbable n-grams
+
+[`issues/issue3/issue3.py`](issues/issue3/issue3.py) similarly scans for
+improbable letter sequences (OCR noise patterns like broken word-splits:
+`tions`, `dence`) and wrote
+[`issues/issue3/improbable_words.tsv`](issues/issue3/improbable_words.tsv)
+(171 rows), each tagged with a pattern code (e.g. `1_mn_kg`, `2_m_tdlv`)
+describing which OCR-noise heuristic flagged it.
 
 ---
 
@@ -8,9 +123,9 @@ Corrections and issue-tracking repository for the Cologne Digital Sanskrit Lexic
 
 | Path | Purpose |
 |---|---|
-| `issues/` | Per-issue correction workflows (`issue1/`, `issue3/`, …) |
-| `CITATION.cff` | Machine-readable citation metadata (CFF 1.2.0) |
-| `CLAUDE.md` | Developer guidance for Claude Code agents |
+| [`issues/`](issues/) | Per-issue correction workflows (`issue1/`, `issue3/`, …) |
+| [`CITATION.cff`](CITATION.cff) | Machine-readable citation metadata (CFF 1.2.0) |
+| [`CLAUDE.md`](CLAUDE.md) | Developer guidance for Claude Code agents |
 
 ---
 
@@ -33,22 +148,6 @@ Corrections and issue-tracking repository for the Cologne Digital Sanskrit Lexic
 | Structured Data | 1 | 0 | 1 |
 | Major Enhancements | 0 | 0 | 0 |
 
-```mermaid
-pie title Closed issues by milestone
-  "Digitization Quality" : 2
-  "Structured Data" : 0
-```
-
-```mermaid
-pie title Open issues by milestone
-  "Digitization Quality" : 1
-  "Structured Data" : 1
-```
-
----
-
-## Issue Typology
-
 ### Solved issues
 
 | # | Title | Type | Severity | Milestone |
@@ -63,38 +162,31 @@ pie title Open issues by milestone
 | [#2](https://github.com/sanskrit-lexicon/PUI/issues/2) | Questions for resolution | `question` | minor | Structured Data |
 | [#4](https://github.com/sanskrit-lexicon/PUI/issues/4) | Modern IAST PUI <= 5 occurrences | `encoding` | minor | Digitization Quality |
 
-```mermaid
-pie title Issues by type (all)
-  "encoding" : 2
-  "text-correction" : 1
-  "question" : 1
-```
-
 ---
 
 ## Labels
 
 ### Type labels
 
-| Label | Color | Description |
-|---|---|---|
-| `link-target` | `#0075ca` | Click-through from `<ls>` abbreviation to scanned PDF page |
-| `link-splitting` | `#0075ca` | Split combined source references into per-page links |
-| `markup` | `#0075ca` | Normalise XML tag content |
-| `text-correction` | `#0075ca` | Corrections to headwords or definitions |
-| `content-enhancement` | `#0075ca` | New material or display upgrades |
-| `encoding` | `#0075ca` | SLP1/IAST transcoding and character normalisation |
-| `scan-quality` | `#0075ca` | Replace blurry or missing scan pages |
-| `bug` | `#0075ca` | Broken links, XML errors, broken downloads |
-| `question` | `#0075ca` | Scholarly questions requiring research |
+| Label | Description |
+|---|---|
+| `link-target` | Click-through from `<ls>` abbreviation to scanned PDF page |
+| `link-splitting` | Split combined source references into per-page links |
+| `markup` | Normalise XML tag content |
+| `text-correction` | Corrections to headwords or definitions |
+| `content-enhancement` | New material or display upgrades |
+| `encoding` | SLP1/IAST transcoding and character normalisation |
+| `scan-quality` | Replace blurry or missing scan pages |
+| `bug` | Broken links, XML errors, broken downloads |
+| `question` | Scholarly questions requiring research |
 
 ### Severity labels
 
-| Label | Color | Description |
-|---|---|---|
-| `minor` | `#e4e669` | Targeted fix — a handful of lines |
-| `medium` | `#fbca04` | Standard work unit — one index or batch |
-| `hard` | `#d93f0b` | Large effort spanning many files |
+| Label | Description |
+|---|---|
+| `minor` | Targeted fix — a handful of lines |
+| `medium` | Standard work unit — one index or batch |
+| `hard` | Large effort spanning many files |
 
 ---
 
@@ -104,20 +196,6 @@ pie title Issues by type (all)
 - Sanskrit text in SLP1 transliteration, wrapped in `{#…#}`.
 - Display layer uses IAST (ISO 15919) and Devanagari, generated via `transcoder/`.
 - Round-trip verified for the vast majority of entries; exceptions tracked under issue label `encoding`.
-
----
-
-## How it works
-
-```mermaid
-flowchart LR
-  S["Print scan PDF"] -->|OCR / keyboarding| R["raw pui.txt"]
-  R --> O["csl-orig/v02/pui/pui.txt"]
-  O -->|updateByLine.py + change files| C["corrected pui.txt"]
-  C --> O
-  O -->|generate_dict.sh| X["pui.xml"]
-  X --> A["csl-app web display"]
-```
 
 ---
 
@@ -136,3 +214,7 @@ flowchart LR
 
 - [Dr. Dhaval Patel](https://github.com/drdhaval2785)
 - [Mārcis Gasūns](https://github.com/gasyoun)
+
+---
+
+_Dr. Mārcis Gasūns_
