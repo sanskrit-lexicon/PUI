@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**PUI** is the corrections repository for the Cologne digitization of M.A. Macdonell's *Puraṇic Index*. The canonical source lives in `csl-orig/v02/pui/pui.txt`.
+**PUI** is the corrections repository for the Cologne digitization of V. R. Ramachandra Dikshitar's *The Purāṇa Index* (University of Madras, 3 vols, 1951–1955). The canonical source lives in `csl-orig/v02/pui/pui.txt`.
 
 Issues and corrections are tracked via the [GitHub issue tracker](https://github.com/sanskrit-lexicon/PUI/issues).
 
