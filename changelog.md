@@ -6,6 +6,15 @@ This repository does not currently publish versioned release notes. Entries use
 dated maintenance snapshots; keep upcoming work under [Unreleased] until it is
 ready for a dated entry.
 
+## [Unreleased]
+
+### Fixed
+- Corrected the source attribution across README.md, CLAUDE.md, CITATION.cff,
+  and index.html: PUI digitises V. R. Ramachandra Dikshitar's *The Purāṇa
+  Index* (University of Madras, 3 vols, 1951–1955), not Vettam Mani's *Purāṇic
+  Encyclopaedia* nor Macdonell. The repo code PUI = *Purāṇa Index*; the earlier
+  "Mani?" author guess in CITATION.cff is resolved (H548 README refresh).
+
 ## [1.0.0] - 2026-06-13
 
 ### Added
