@@ -16,7 +16,7 @@ turned into corrections against the canonical source.
 The primary source text lives in
 [`csl-orig/v02/pui/pui.txt`](https://github.com/sanskrit-lexicon/csl-orig) in
 the sibling `csl-orig` repository — that file is never edited directly (see
-the org-wide [correction workflow](https://github.com/sanskrit-lexicon/CLAUDE.md)).
+the org-wide [correction workflow](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md)).
 Instead, this repo holds:
 
 - **Detection scripts** that scan `pui.txt` for likely digitisation errors
