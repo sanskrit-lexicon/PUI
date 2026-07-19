@@ -20,6 +20,8 @@ preferred-citation:
   type: book
   title: The Purana Index
   year: 1951
+  publisher:
+    name: "University of Madras"
   authors:
-    - family-names: "Mani?"
-      given-names: "Vettam"
+    - family-names: "Dikshitar"
+      given-names: "V. R. Ramachandra"
