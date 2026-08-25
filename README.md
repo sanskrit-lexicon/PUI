@@ -138,7 +138,7 @@ describing which OCR-noise heuristic flagged it.
 | [`prefaces/`](https://github.com/sanskrit-lexicon/PUI/tree/main/prefaces) | Front-matter scan assets for OCR of the printed edition |
 | [`index.html`](https://github.com/sanskrit-lexicon/PUI/blob/main/index.html) | GitHub Pages landing page (served at [sanskrit-lexicon.github.io/PUI](https://sanskrit-lexicon.github.io/PUI/)) |
 | [`CITATION.cff`](https://github.com/sanskrit-lexicon/PUI/blob/main/CITATION.cff) | Machine-readable citation metadata (CFF 1.2.0) |
-| [`changelog.md`](https://github.com/sanskrit-lexicon/PUI/blob/main/changelog.md) | Dated maintenance snapshots |
+| [`CHANGELOG.md`](https://github.com/sanskrit-lexicon/PUI/blob/main/CHANGELOG.md) | Dated maintenance snapshots |
 | [`CLAUDE.md`](https://github.com/sanskrit-lexicon/PUI/blob/main/CLAUDE.md) | Developer guidance for Claude Code agents |
 | [`LICENSE`](https://github.com/sanskrit-lexicon/PUI/blob/main/LICENSE) | Repository licence |
 
@@ -150,7 +150,7 @@ describing which OCR-noise heuristic flagged it.
 |---|---|
 | April 2026 | Repository created; initial encoding corrections for IAST diacritics (#1, #3) |
 | May 2026 | CLAUDE.md added; CITATION.cff enriched with year and (provisional) author |
-| June 2026 | changelog.md added; first dated maintenance snapshot (1.0.0) |
+| June 2026 | CHANGELOG.md added; first dated maintenance snapshot (1.0.0) |
 | July 2026 | GitHub Pages landing page + `.nojekyll`; preface-scan assets added |
 
 ---
