@@ -8,6 +8,7 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-08-30
 ### Fixed
 - Corrected the source attribution across README.md, CLAUDE.md, CITATION.cff,
   and index.html: PUI digitises V. R. Ramachandra Dikshitar's *The Purāṇa
