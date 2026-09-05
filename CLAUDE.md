@@ -1,3 +1,5 @@
+_Created: 15-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -114,3 +116,5 @@ A<lex>ind.</lex> a prefix of various meanings—
 - `<lex>ind.</lex>` — lexical class: indeclinable
 - `{%not%}` — italicised English gloss
 - `<ls>Sk. 1.1.14.</ls>` — citation to Siddha-kaumudī 1.1.14
+
+_Dr. Mārcis Gasūns_

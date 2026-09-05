@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # Changelog
 
 All notable changes to PUI are documented here.
@@ -28,3 +30,5 @@ ready for a dated entry.
 - 2026-05-15 Add CLAUDE.md with codebase guidance for Claude Code
 - 2026-04-05 minor corrections per #4
 - 2026-04-05 aMS and brAhmaRa in #1
+
+_Dr. Mārcis Gasūns_
