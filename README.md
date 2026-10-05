@@ -1,5 +1,7 @@
 # PUI — Purāṇa Index
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151375.svg)](https://doi.org/10.5281/zenodo.23151375)
+
 _Created: 05-04-2026 · Last updated: 11-07-2026_
 
 Corrections and issue-tracking repository for the Cologne Digital Sanskrit
